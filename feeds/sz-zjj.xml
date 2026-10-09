@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-zjj.xml</id>
   <title>深圳住建局·通知公告</title>
-  <updated>2026-10-08T23:18:19.879737+00:00</updated>
+  <updated>2026-10-09T16:00:42.325513+00:00</updated>
   <author>
     <name>sz-zjj</name>
   </author>
   <link href="https://zjj.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-zjj.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://zjj.sz.gov.cn/xxgk/tzgg/content/post_13011853.html</id>
+    <title>深圳市住房和建设局关于《深圳市住房保障政策体系年度实施效果评估与建议（2026年度）》的采购公告</title>
+    <updated>2026-10-09T00:00:00+00:00</updated>
+    <link href="https://zjj.sz.gov.cn/xxgk/tzgg/content/post_13011853.html"/>
+    <summary>根据有关规定，现以公开征集方式开展《深圳市住房保障政策体系年度实施效果评估与建议（2026年度）》的采购工作。一、项目名称：深圳市住房保障政策体系年度实施效果评估与建议（2026年度）；二、采购预算：人民币60.00万元；三、项目内容、投标人资格、评标方法等详见采购文件，供应商可联系招标代理机构获取采购文件；四、投标文件递交截止时间：2026年10月20日9:00时；五、投标文件递交地点：深圳市福田区民田路171号新华保险大厦903；六、采购代理机构：深圳市中正招标有限公司；七、采购代理联系人：姚工、曾工，电话：0755-83026699。深圳市住房和建设局2026年10月9日</summary>
+    <published>2026-10-09T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://zjj.sz.gov.cn/xxgk/tzgg/content/post_13009617.html</id>
     <title>深圳市住房和建设局关于深圳市2026年第四季度计划入市商品房房源信息情况的公示</title>
@@ -159,14 +167,6 @@
     <updated>2026-09-18T00:00:00+00:00</updated>
     <link href="https://zjj.sz.gov.cn/xxgk/tzgg/content/post_12989402.html"/>
     <summary>各有关单位：为促进新技术、新材料、新工艺和新产品（以下统称新技术）在我市建设工程中的推广应用，根据《深圳市建设工程新技术推广应用管理办法》有关规定，我局组织开展了2026年度深圳市建设工程新技术推广目录申报工作。经评审，12项新技术列入《深圳市建设工程新技术推广目录（2026年）》，现予以发布（详见附件）。请各建设工程积极选用推广目录中的新技术，及时总结技术应用情况，推动科技成果转化。应用新技术的相关单位应当按照《深圳市建设工程新技术推广应用管理办法》有关规定加强新技术应用管理，实施过程中如有意见和建议，请及时与深圳市建设科技促进中心联系。联系人：曹工，联系电话：0755-83786667。附件：深圳市建设工程新技术推广目录（2026年）深圳市住房和建设局2026年9月18日</summary>
-    <published>2026-09-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://zjj.sz.gov.cn/xxgk/tzgg/content/post_12989119.html</id>
-    <title>深圳市住房和建设局关于发布2026年度物业管理宣传培训必学课程的通知</title>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <link href="https://zjj.sz.gov.cn/xxgk/tzgg/content/post_12989119.html"/>
-    <summary>各区（新区）住房和建设局、深汕住房建设和水务局，市物业管理行业协会、市物业经理人学会、各物业服务企业：为进一步加强我市物业服务从业人员的业务能力，提升物业服务行业整体水平，我局已在深圳市物业管理信息平台开发上线“宣传培训”子系统，并开设“行业普法”“行业政策法规”“行业标准解读”“安全管理”“爱国卫生运动”“其他课程”六个学习专栏，目前已上线102个视频课件和宣传资料，请各区住房建设部门、行业社会组织、各物业服务企业妥善利用，积极组织从业人员尤其是项目负责人开展学习。其中设定为“必学”的课程，各项目负责人应于本年度完成学习。相关人员请关注微信公众号“深圳市住房和建设局”，进入“业务办理—物业—物业服务—宣传培训”栏目或微信扫描下方二维码。咨询电话：82794696、82790596。特此通知。附件：2026年物业管理必学课程深圳市住房和建设局2026年9月18日</summary>
     <published>2026-09-18T00:00:00+00:00</published>
   </entry>
 </feed>
