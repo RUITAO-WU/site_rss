@@ -2,10 +2,16 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-10-20T02:58:46.862384+00:00",
+  "last_success": "2026-10-20T14:12:40.047312+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4968672",
+    "post:4968671",
+    "post:4968669",
+    "post:4968668",
+    "post:4968570",
+    "post:4968565",
     "post:4968141",
     "post:4967082",
     "post:4966756",
@@ -17,15 +23,51 @@
     "post:4964858",
     "post:4964803",
     "post:4963717",
-    "post:4962875",
-    "post:4962873",
-    "post:4961586",
-    "post:4961585",
-    "post:4961584",
-    "post:4961370",
-    "post:4959902"
+    "post:4962875"
   ],
   "entries": [
+    {
+      "key": "post:4968672",
+      "title": "广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“脑机接口”专项项目的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968672.html",
+      "published": "2026-10-20T00:00:00+08:00",
+      "first_seen": "2026-10-20T14:12:40.047312+00:00"
+    },
+    {
+      "key": "post:4968671",
+      "title": "关于广东省2026年第七批异地搬迁高新技术企业名单的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968671.html",
+      "published": "2026-10-20T00:00:00+08:00",
+      "first_seen": "2026-10-20T14:12:40.047312+00:00"
+    },
+    {
+      "key": "post:4968669",
+      "title": "关于广东省2026年第七批拟更名高新技术企业名单的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968669.html",
+      "published": "2026-10-20T00:00:00+08:00",
+      "first_seen": "2026-10-20T14:12:40.047312+00:00"
+    },
+    {
+      "key": "post:4968668",
+      "title": "广东省科学技术厅关于云舟生物科技（广州）股份有限公司等单位实验动物许可事项的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968668.html",
+      "published": "2026-10-20T00:00:00+08:00",
+      "first_seen": "2026-10-20T14:12:40.047312+00:00"
+    },
+    {
+      "key": "post:4968570",
+      "title": "转发关于召开2026年度粤港科技创新联合资助专题及2027年度粤澳科技创新联合资助专题申报指南宣讲会的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968570.html",
+      "published": "2026-10-20T00:00:00+08:00",
+      "first_seen": "2026-10-20T14:12:40.047312+00:00"
+    },
+    {
+      "key": "post:4968565",
+      "title": "广东省科学技术厅关于2026年9月广东省实验动物行政许可日常监督检查结果的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968565.html",
+      "published": "2026-10-20T00:00:00+08:00",
+      "first_seen": "2026-10-20T14:12:40.047312+00:00"
+    },
     {
       "key": "post:4968141",
       "title": "转发国家自然科学基金委员会“脑科学与类脑研究”国家科技重大专项2027年度第一批项目申报指南的通知",
@@ -167,5 +209,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "b19ae1c655ef5d89a2714301213f523698ef3447384a14b343e8e1e8e935a180"
+  "feed_sha256": "82fbec2f3b163451b01dc92e0ad7cc2a88bde7dfd2d7b9228a0890dd236d23d4"
 }

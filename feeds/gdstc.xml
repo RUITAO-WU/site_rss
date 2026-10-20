@@ -2,13 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-10-20T02:58:48.892855+00:00</updated>
+  <updated>2026-10-20T14:12:43.008381+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:52e1a866121764adba8fc068b9e7894cb79ca3ccb7f19ae9d8bb194decac1076</id>
+    <title>广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“脑机接口”专项项目的通知</title>
+    <updated>2026-10-20T14:12:40.047312+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968672.html"/>
+    <published>2026-10-20T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:cc11db2e90e8d5fbe71a26f0caf9b76efa6f807dfc45bc55f4f75641c6302efc</id>
+    <title>关于广东省2026年第七批异地搬迁高新技术企业名单的公示</title>
+    <updated>2026-10-20T14:12:40.047312+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968671.html"/>
+    <published>2026-10-20T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:23a00444748fc9e0e3ebcd4ed72f7293888ecc50d08e6ca218d9983730785779</id>
+    <title>关于广东省2026年第七批拟更名高新技术企业名单的公示</title>
+    <updated>2026-10-20T14:12:40.047312+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968669.html"/>
+    <published>2026-10-20T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:f9224ad7b02a4ceccad7ec80e2ee91e08b3b05dfe474fea7acb3db1aabc6c8d5</id>
+    <title>广东省科学技术厅关于云舟生物科技（广州）股份有限公司等单位实验动物许可事项的公告</title>
+    <updated>2026-10-20T14:12:40.047312+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968668.html"/>
+    <published>2026-10-20T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:b4b19513eb973ce0435034e0ddce8a7ddf9516902987bdf7e730d3b269d6d064</id>
+    <title>转发关于召开2026年度粤港科技创新联合资助专题及2027年度粤澳科技创新联合资助专题申报指南宣讲会的通知</title>
+    <updated>2026-10-20T14:12:40.047312+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968570.html"/>
+    <published>2026-10-20T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:8eb244753ff28fbb91a154828c7dc69c8b7029fc5a11aa68d2677fef532b33bd</id>
+    <title>广东省科学技术厅关于2026年9月广东省实验动物行政许可日常监督检查结果的公告</title>
+    <updated>2026-10-20T14:12:40.047312+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4968565.html"/>
+    <published>2026-10-20T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:a677b147c29717890c0899eaa1339fd54799ab1a3dc85739c2b00a86fbd9b475</id>
     <title>转发国家自然科学基金委员会“脑科学与类脑研究”国家科技重大专项2027年度第一批项目申报指南的通知</title>
