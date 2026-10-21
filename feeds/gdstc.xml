@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-10-20T21:33:32.496920+00:00</updated>
+  <updated>2026-10-21T14:24:51.628622+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:daa0e479710d81dc9469cb99f27694f9c7110956f25932464491bfc887a088f2</id>
+    <title>广东省科学技术厅关于“推动高校、科研院所与企业的人才双向流动”场景建设试点拟立项名单的公示</title>
+    <updated>2026-10-21T14:24:46.708477+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4969057.html"/>
+    <published>2026-10-21T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:52e1a866121764adba8fc068b9e7894cb79ca3ccb7f19ae9d8bb194decac1076</id>
     <title>广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“脑机接口”专项项目的通知</title>

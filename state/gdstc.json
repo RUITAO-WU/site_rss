@@ -2,10 +2,11 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-10-20T21:33:30.675441+00:00",
+  "last_success": "2026-10-21T14:24:46.708477+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4969057",
     "post:4968672",
     "post:4968671",
     "post:4968669",
@@ -22,10 +23,16 @@
     "post:4965475",
     "post:4964858",
     "post:4964803",
-    "post:4963717",
-    "post:4962875"
+    "post:4963717"
   ],
   "entries": [
+    {
+      "key": "post:4969057",
+      "title": "广东省科学技术厅关于“推动高校、科研院所与企业的人才双向流动”场景建设试点拟立项名单的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4969057.html",
+      "published": "2026-10-21T00:00:00+08:00",
+      "first_seen": "2026-10-21T14:24:46.708477+00:00"
+    },
     {
       "key": "post:4968672",
       "title": "广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“脑机接口”专项项目的通知",
@@ -209,5 +216,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "43e61bf0a34b9f7047beefd03fdb0aa6a43fc17f99278ab01c46288ed753a728"
+  "feed_sha256": "b98cf9b1ba91fc3fbf6fc4fb9fffbcc98c0c11cfa5a2997e457541d8d706d246"
 }
