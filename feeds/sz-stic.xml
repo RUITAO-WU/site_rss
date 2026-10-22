@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-10-21T21:36:45.700148+00:00</updated>
+  <updated>2026-10-22T14:27:14.316910+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:00f82eba98b013caf4841cd23e0960210fffc9a6252dc39e8ff2b25d8837781b</id>
+    <title>深圳市科技创新局关于转发2026年度广东省粤港科技创新联合资助专题申报指南的通知</title>
+    <updated>2026-10-22T14:27:09.966746+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13034308.html"/>
+    <published>2026-10-22T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:21aa084ee704d4f6f679778df51453945729475734be6461a6fbe8c14bd84894</id>
     <title>深圳鲲鹏青年创新创业项目2026年第三方评价机构遴选公告</title>

@@ -2,10 +2,12 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-10-21T21:36:03.517888+00:00",
+  "last_success": "2026-10-22T14:26:14.269530+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4969628",
+    "post:4969611",
     "post:4969057",
     "post:4968672",
     "post:4968671",
@@ -21,11 +23,23 @@
     "post:4966536",
     "post:4966342",
     "post:4965475",
-    "post:4964858",
-    "post:4964803",
-    "post:4963717"
+    "post:4964858"
   ],
   "entries": [
+    {
+      "key": "post:4969628",
+      "title": "广东省科学技术厅关于广东省2026年第四批拟入库科技型中小企业名单的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4969628.html",
+      "published": "2026-10-22T00:00:00+08:00",
+      "first_seen": "2026-10-22T14:26:14.269530+00:00"
+    },
+    {
+      "key": "post:4969611",
+      "title": "广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“高端科学仪器”专项项目的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4969611.html",
+      "published": "2026-10-22T00:00:00+08:00",
+      "first_seen": "2026-10-22T14:26:14.269530+00:00"
+    },
     {
       "key": "post:4969057",
       "title": "广东省科学技术厅关于“推动高校、科研院所与企业的人才双向流动”场景建设试点拟立项名单的公示",
@@ -216,5 +230,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "a412dba820033564e48ba1b135e4ff662321553f1b2ea1b323759389e98be5ca"
+  "feed_sha256": "c450b7f8068bd9e39fcd7fdd64d6bdd84c06dca4c892a1b4aac34b2b611b651c"
 }

@@ -2,12 +2,13 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-10-21T21:36:43.868490+00:00",
+  "last_success": "2026-10-22T14:27:09.966746+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13034308",
     "post:13032458",
     "post:13029716",
     "post:13026291",
@@ -22,10 +23,16 @@
     "post:13008742",
     "post:13006036",
     "post:13001578",
-    "post:12998811",
-    "post:12997857"
+    "post:12998811"
   ],
   "entries": [
+    {
+      "key": "post:13034308",
+      "title": "深圳市科技创新局关于转发2026年度广东省粤港科技创新联合资助专题申报指南的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13034308.html",
+      "published": "2026-10-22T00:00:00+08:00",
+      "first_seen": "2026-10-22T14:27:09.966746+00:00"
+    },
     {
       "key": "post:13032458",
       "title": "深圳鲲鹏青年创新创业项目2026年第三方评价机构遴选公告",
@@ -174,5 +181,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "6804fcadc8b6aa7a437f21f1d06c6659fe0215e6e62dc076b58accb53ac8c8a0"
+  "feed_sha256": "0dfd00bc4a599e035baf8cb05d879ea4717dce82e07c8db3bbc001b8887ad8fd"
 }
