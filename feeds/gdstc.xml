@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-10-22T21:30:21.242283+00:00</updated>
+  <updated>2026-10-23T14:08:58.235743+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:06d3024cbddab69abfd6d9e71ad2e2449b4797042990db5e4cadc631429078de</id>
+    <title>广东省科学技术厅关于组织申报2026—2027年度广东省重点领域研发计划“量子创新应用”专项项目的通知</title>
+    <updated>2026-10-23T14:08:54.398998+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970293.html"/>
+    <published>2026-10-23T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:b075bca1a23a658e3216abf473c7e7f2e202be01f6b2cde1f35669cce41c8377</id>
+    <title>广东省科学技术厅关于组织申报2027年度B类粤港澳联合实验室建设的通知</title>
+    <updated>2026-10-23T14:08:54.398998+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970159.html"/>
+    <published>2026-10-23T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:3df64db4526945141c0354513ef4d6ca69586e1518a2463424883c912b876cfa</id>
+    <title>广东省科学技术厅关于组织申报2026—2027年度广东省重点领域研发计划“低空与商业航天”专项的通知</title>
+    <updated>2026-10-23T14:08:54.398998+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970072.html"/>
+    <published>2026-10-23T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:0e14bf00d8b298641fba18325483c8df73ec76cb0c1dc7f0ce5e222fb8b5b63a</id>
     <title>广东省科学技术厅关于广东省2026年第四批拟入库科技型中小企业名单的公示</title>

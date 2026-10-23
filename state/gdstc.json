@@ -2,10 +2,13 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-10-22T21:30:18.622840+00:00",
+  "last_success": "2026-10-23T14:08:54.398998+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4970293",
+    "post:4970159",
+    "post:4970072",
     "post:4969628",
     "post:4969611",
     "post:4969057",
@@ -20,12 +23,30 @@
     "post:4966756",
     "post:4966751",
     "post:4966578",
-    "post:4966536",
-    "post:4966342",
-    "post:4965475",
-    "post:4964858"
+    "post:4966536"
   ],
   "entries": [
+    {
+      "key": "post:4970293",
+      "title": "广东省科学技术厅关于组织申报2026—2027年度广东省重点领域研发计划“量子创新应用”专项项目的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970293.html",
+      "published": "2026-10-23T00:00:00+08:00",
+      "first_seen": "2026-10-23T14:08:54.398998+00:00"
+    },
+    {
+      "key": "post:4970159",
+      "title": "广东省科学技术厅关于组织申报2027年度B类粤港澳联合实验室建设的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970159.html",
+      "published": "2026-10-23T00:00:00+08:00",
+      "first_seen": "2026-10-23T14:08:54.398998+00:00"
+    },
+    {
+      "key": "post:4970072",
+      "title": "广东省科学技术厅关于组织申报2026—2027年度广东省重点领域研发计划“低空与商业航天”专项的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970072.html",
+      "published": "2026-10-23T00:00:00+08:00",
+      "first_seen": "2026-10-23T14:08:54.398998+00:00"
+    },
     {
       "key": "post:4969628",
       "title": "广东省科学技术厅关于广东省2026年第四批拟入库科技型中小企业名单的公示",
@@ -230,5 +251,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "1f21160739279111f158dfb3f88ee95b2942c51d4f8e20b8278ac9831ac3b806"
+  "feed_sha256": "48837558db9acf97b23ba71e74bfa8f9b6b97375376958624520dcedc223cf6b"
 }
