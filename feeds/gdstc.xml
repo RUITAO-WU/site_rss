@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-10-25T20:46:25.835482+00:00</updated>
+  <updated>2026-10-26T15:59:45.982668+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:4ced1d63fdf4bd494fdb792e17531d014a48e122f5981e021bc45345dc94d97e</id>
+    <title>广东省科学技术厅关于组织申报2027年度科技基础条件建设、高水平科技期刊建设项目的通知</title>
+    <updated>2026-10-26T15:59:40.689349+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4970857.html"/>
+    <published>2026-10-26T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:06d3024cbddab69abfd6d9e71ad2e2449b4797042990db5e4cadc631429078de</id>
     <title>广东省科学技术厅关于组织申报2026—2027年度广东省重点领域研发计划“量子创新应用”专项项目的通知</title>

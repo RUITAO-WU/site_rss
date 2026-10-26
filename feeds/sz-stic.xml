@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-10-25T20:46:57.205738+00:00</updated>
+  <updated>2026-10-26T16:01:01.274588+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:61413072e656c4aa37f1dae8669d04e9ed61502b428d8b3b39b3c6cc28598909</id>
+    <title>深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知</title>
+    <updated>2026-10-26T16:00:54.741390+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13039371.html"/>
+    <published>2026-10-26T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:090f2911a6cf8b8c1ef5a9edb35e78ec12b5b7f3031a561c8758a05537e1eadb</id>
+    <title>深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知</title>
+    <updated>2026-10-26T16:00:54.741390+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13039353.html"/>
+    <published>2026-10-26T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:00f82eba98b013caf4841cd23e0960210fffc9a6252dc39e8ff2b25d8837781b</id>
     <title>深圳市科技创新局关于转发2026年度广东省粤港科技创新联合资助专题申报指南的通知</title>
