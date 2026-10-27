@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-10-26T22:36:31.558275+00:00</updated>
+  <updated>2026-10-27T15:14:23.304638+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:fb94a80af79762ec3ff537546b8eb6befdaf67a8ccf14d50e136c8a31c3f086b</id>
+    <title>关于公开征求《广东省省级科技计划项目验收工作指引（经费审核）》（征求意见稿）意见的函</title>
+    <updated>2026-10-27T15:14:17.772973+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4971520.html"/>
+    <published>2026-10-27T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:3d024a56bffed603062911af7b53758f0b74e8fbee79652a16ad1c598c003710</id>
+    <title>广东省科学技术厅关于确定广东省“粤科专项保”产品（第1批，2026年）的通知</title>
+    <updated>2026-10-27T15:14:17.772973+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4971498.html"/>
+    <published>2026-10-27T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:4ced1d63fdf4bd494fdb792e17531d014a48e122f5981e021bc45345dc94d97e</id>
     <title>广东省科学技术厅关于组织申报2027年度科技基础条件建设、高水平科技期刊建设项目的通知</title>
