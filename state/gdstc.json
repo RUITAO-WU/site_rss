@@ -2,10 +2,11 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-10-27T22:08:27.336226+00:00",
+  "last_success": "2026-10-28T15:50:12.593517+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4971947",
     "post:4971520",
     "post:4971498",
     "post:4970857",
@@ -22,10 +23,16 @@
     "post:4968570",
     "post:4968565",
     "post:4968141",
-    "post:4967082",
-    "post:4966756"
+    "post:4967082"
   ],
   "entries": [
+    {
+      "key": "post:4971947",
+      "title": "广东省科学技术厅 广东省商务厅 广东省财政厅国家税务总局广东省税务局 广东省发展和改革委员会关于组织开展2026年广东省技术先进型服务企业认定工作的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4971947.html",
+      "published": "2026-10-28T00:00:00+08:00",
+      "first_seen": "2026-10-28T15:50:12.593517+00:00"
+    },
     {
       "key": "post:4971520",
       "title": "关于公开征求《广东省省级科技计划项目验收工作指引（经费审核）》（征求意见稿）意见的函",
@@ -272,5 +279,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "88f98f06811f707961c33f8362fc2ae01e0b8d1b3d3200775e3bbe6c34a8ff74"
+  "feed_sha256": "8f8532682834e065b6d8b9e4be7fee282c1c388a94657d480a73844ef7515cd7"
 }

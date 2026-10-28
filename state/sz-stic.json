@@ -2,12 +2,15 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-10-27T22:09:01.814590+00:00",
+  "last_success": "2026-10-28T15:50:59.525488+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13044188",
+    "post:13043609",
+    "post:13043597",
     "post:13039371",
     "post:13039353",
     "post:13034308",
@@ -20,12 +23,30 @@
     "post:13021666",
     "post:13019677",
     "post:13018864",
-    "post:13016850",
-    "post:13011042",
-    "post:13008742",
-    "post:13006036"
+    "post:13016850"
   ],
   "entries": [
+    {
+      "key": "post:13044188",
+      "title": "深圳市科技创新局关于发布《2026年度在深广东省重点实验室立项资助项目申请指南》的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13044188.html",
+      "published": "2026-10-28T00:00:00+08:00",
+      "first_seen": "2026-10-28T15:50:59.525488+00:00"
+    },
+    {
+      "key": "post:13043609",
+      "title": "深圳市科技创新局关于发布深圳市高新技术企业联合总部大厦2026年第8批创新型产业用房租赁的公告",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13043609.html",
+      "published": "2026-10-28T00:00:00+08:00",
+      "first_seen": "2026-10-28T15:50:59.525488+00:00"
+    },
+    {
+      "key": "post:13043597",
+      "title": "深圳市科技创新局关于发布深圳市高新技术企业联合总部大厦2026年第7批创新型产业用房扩租的公告",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13043597.html",
+      "published": "2026-10-28T00:00:00+08:00",
+      "first_seen": "2026-10-28T15:50:59.525488+00:00"
+    },
     {
       "key": "post:13039371",
       "title": "深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知",
@@ -195,5 +216,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "4426ddd15b3df0d78123e4853e40b3427dfbeda1241e391f76fa9c1d431f6abb"
+  "feed_sha256": "20c0f4e9b642f6e7498c3ddb96100e486f29cd51a774e9d666bf08b3379f50a9"
 }

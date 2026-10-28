@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-10-27T22:08:28.872767+00:00</updated>
+  <updated>2026-10-28T15:50:15.732436+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:b50722f48dabe733ff13cadac66351007bb188aa7a782f263c947cd52d108a82</id>
+    <title>广东省科学技术厅 广东省商务厅 广东省财政厅国家税务总局广东省税务局 广东省发展和改革委员会关于组织开展2026年广东省技术先进型服务企业认定工作的通知</title>
+    <updated>2026-10-28T15:50:12.593517+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4971947.html"/>
+    <published>2026-10-28T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:fb94a80af79762ec3ff537546b8eb6befdaf67a8ccf14d50e136c8a31c3f086b</id>
     <title>关于公开征求《广东省省级科技计划项目验收工作指引（经费审核）》（征求意见稿）意见的函</title>

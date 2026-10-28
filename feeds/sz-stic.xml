@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-10-27T22:09:03.551864+00:00</updated>
+  <updated>2026-10-28T15:51:02.242686+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:352237d8eddf29f91a4b1194ba371993cf31bee63e9b4512643836fc7bd29338</id>
+    <title>深圳市科技创新局关于发布《2026年度在深广东省重点实验室立项资助项目申请指南》的通知</title>
+    <updated>2026-10-28T15:50:59.525488+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13044188.html"/>
+    <published>2026-10-28T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:c5dd2240251e66b3766050f57e92c884c9466de9fbc86da984149e38ad50e956</id>
+    <title>深圳市科技创新局关于发布深圳市高新技术企业联合总部大厦2026年第8批创新型产业用房租赁的公告</title>
+    <updated>2026-10-28T15:50:59.525488+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13043609.html"/>
+    <published>2026-10-28T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:f245e6193bf7cdb90fd6090bdb81a2e1b9d46336551c32939473c778e60cc897</id>
+    <title>深圳市科技创新局关于发布深圳市高新技术企业联合总部大厦2026年第7批创新型产业用房扩租的公告</title>
+    <updated>2026-10-28T15:50:59.525488+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13043597.html"/>
+    <published>2026-10-28T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:61413072e656c4aa37f1dae8669d04e9ed61502b428d8b3b39b3c6cc28598909</id>
     <title>深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知</title>
