@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
+  <title>会员打折线报·新增优惠与降价</title>
+  <updated>2026-10-29T12:02:50.289411+00:00</updated>
+  <author>
+    <name>iplaysoft-deals</name>
+  </author>
+  <link href="https://deals.iplaysoft.com/" rel="alternate"/>
+  <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:0</id>
+    <title>会员打折线报：监测已启动</title>
+    <updated>2026-10-29T12:02:50.288196+00:00</updated>
+    <link href="https://deals.iplaysoft.com/"/>
+    <summary>已建立 42 个商品／套餐、75 个方案的价格基线。之后提醒新增优惠和同一方案降价；存量优惠不作为降价消息导入。</summary>
+    <published>2026-10-29T12:02:50.288196+00:00</published>
+  </entry>
+</feed>

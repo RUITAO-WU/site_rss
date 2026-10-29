@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-10-28T22:31:19.330955+00:00</updated>
+  <updated>2026-10-29T12:03:44.743846+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:6fcc2b4c519146b93d3983e7ebcedd45b920b05944fad01a58c8e5c5deeae5b3</id>
+    <title>深圳市科技创新局关于转发组织申报2027年度广东省重点领域研发计划“脑机接口”专项项目等5个申报指南的通知</title>
+    <updated>2026-10-29T12:03:37.482676+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13044637.html"/>
+    <published>2026-10-29T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:352237d8eddf29f91a4b1194ba371993cf31bee63e9b4512643836fc7bd29338</id>
     <title>深圳市科技创新局关于发布《2026年度在深广东省重点实验室立项资助项目申请指南》的通知</title>
