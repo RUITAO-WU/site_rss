@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-10-30T15:45:18.821914+00:00",
+  "last_success": "2026-10-30T22:15:29.363004+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -588,7 +588,7 @@
       "note": "50TB 超大存储空间不限速网盘",
       "device": "mobile",
       "kind": "link",
-      "price": "548.00"
+      "price": "523.00"
     },
     "e4b3b67016bcb7d8ac7016de781aa796607a2cfd2362794697ea1efd3cc4af87": {
       "product_url": "https://deals.iplaysoft.com/vip/123pan",
@@ -603,7 +603,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "500.00"
+      "price": "475.00"
     },
     "a6a9de418a5696cc531c7c333ed3a7d3d441e19d4d3b50f99013f67f419d2ef4": {
       "product_url": "https://deals.iplaysoft.com/vip/migu",
@@ -1278,7 +1278,21 @@
       "title": "[降价] 芒果 TV 全屏会员年卡 (支持电视端)｜¥198.00 → ¥155.00/年",
       "link": "https://deals.iplaysoft.com/vip/mgtv",
       "summary": "同一方案上次成功观测报价 ¥198.00/年，本次 ¥155.00/年。芒果 TV；芒果 TV 全屏会员年卡 (支持电视端)；¥155.00/年；京东旗舰店；芒果tv会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：全屏会员；支持电视端"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-10-30T22:15:29.363004+00:00",
+      "title": "[降价] 123云盘 VIP 会员 6 年卡｜¥548.00 → ¥523.00/6年",
+      "link": "https://deals.iplaysoft.com/vip/123pan",
+      "summary": "同一方案上次成功观测报价 ¥548.00/6年，本次 ¥523.00/6年。123 云盘；123云盘 VIP 会员 6 年卡；¥523.00/6年；京东旗舰店；壹贰叁云官方旗舰店；店铺类型由编辑标记，不代表本站认证；6 年卡 / 50TB；50TB 超大存储空间不限速网盘"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-10-30T22:15:29.363004+00:00",
+      "title": "[降价] 123 云盘 VIP 会员年卡 + 123TB 空间容量｜¥500.00 → ¥475.00/年",
+      "link": "https://deals.iplaysoft.com/vip/123pan",
+      "summary": "同一方案上次成功观测报价 ¥500.00/年，本次 ¥475.00/年。123 云盘；123 云盘 VIP 会员年卡 + 123TB 空间容量；¥475.00/年；京东旗舰店；壹贰叁云官方旗舰店；店铺类型由编辑标记，不代表本站认证；123TB 容量"
     }
   ],
-  "feed_sha256": "0cbc8475d0654873309406e0e7aa9fabb6a6b36fd1d43ac3d5f5944423b5498a"
+  "feed_sha256": "2816d2401fc59e4ac1a4622547aeee566b662321aa8dcf51439f5e0d01428a2c"
 }
