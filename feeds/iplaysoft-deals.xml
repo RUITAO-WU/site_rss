@@ -2,13 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-10-29T22:42:36.395771+00:00</updated>
+  <updated>2026-10-30T15:45:18.823222+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:5</id>
+    <title>[降价] 芒果 TV 全屏会员年卡 (支持电视端)｜¥198.00 → ¥155.00/年</title>
+    <updated>2026-10-30T15:45:18.821914+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/mgtv"/>
+    <summary>同一方案上次成功观测报价 ¥198.00/年，本次 ¥155.00/年。芒果 TV；芒果 TV 全屏会员年卡 (支持电视端)；¥155.00/年；京东旗舰店；芒果tv会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：全屏会员；支持电视端</summary>
+    <published>2026-10-30T15:45:18.821914+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:4</id>
+    <title>[降价] WPS 大会员 (支持 AI) 年卡｜¥248.00 → ¥238.00/年</title>
+    <updated>2026-10-30T15:45:18.821914+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/wps"/>
+    <summary>同一方案上次成功观测报价 ¥248.00/年，本次 ¥238.00/年。WPS；WPS 大会员 (支持 AI) 年卡；¥238.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：大会员 (支持 AI)；支持 AI</summary>
+    <published>2026-10-30T15:45:18.821914+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:3</id>
+    <title>[降价] WPS 超级会员 1 年卡｜¥123.00 → ¥118.00/年</title>
+    <updated>2026-10-30T15:45:18.821914+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/wps"/>
+    <summary>同一方案上次成功观测报价 ¥123.00/年，本次 ¥118.00/年。WPS；WPS 超级会员 1 年卡；¥118.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：超级会员；多送3个月；海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间</summary>
+    <published>2026-10-30T15:45:18.821914+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:2</id>
     <title>[降价] 芒果 TV 会员年卡｜¥138.00 → ¥72.00/年</title>
