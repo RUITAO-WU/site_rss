@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-10-30T22:15:29.363004+00:00",
+  "last_success": "2026-10-31T15:13:13.641505+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1028,7 +1028,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "164.00"
+      "price": "198.00"
     },
     "4f03dd342e642b8874836897bdfa6f449d84183728370a87eefa2a19bf5c3cfc": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1048,7 +1048,7 @@
       "note": "海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间",
       "device": "none",
       "kind": "link",
-      "price": "118.00"
+      "price": "123.00"
     },
     "a7934bd2f55f1ddcee8173d908774d26265fb4afd54cc94058815ff963973485": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1083,7 +1083,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "238.00"
+      "price": "248.00"
     },
     "09a5bec1726272bd31259ac7e3d5f67f2986839e1d8bb0e2e41998ceae03ff80": {
       "product_url": "https://deals.iplaysoft.com/bundle/mgtv-jd",
@@ -1234,6 +1234,86 @@
       "device": "mobile",
       "kind": "link",
       "price": "463.60"
+    },
+    "bd1da444ee1a420b5c81d92cffd19fbbb7bf81c7db61c069648a60e71bb675f4": {
+      "product_url": "https://deals.iplaysoft.com/vip/tencentvideo",
+      "product": "腾讯视频",
+      "option_id": "offer-52-IjjE0A",
+      "title": "腾讯视频 SVIP 超级影视会员年卡 (云视听极光)",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "腾讯视频VIP会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "SVIP 超级影视会员"
+        ]
+      ],
+      "badge": "支持电视端",
+      "note": "适用于电视、手机、电脑、平板",
+      "device": "none",
+      "kind": "link",
+      "price": "238.00"
+    },
+    "e8e52decf2fab2711f1e3ec53b37afdd946a0776488d639e2684710a36ee169a": {
+      "product_url": "https://deals.iplaysoft.com/vip/bilibili",
+      "product": "哔哩哔哩 (B站)",
+      "option_id": "offer-76-sol7gu",
+      "title": "哔哩哔哩大会员24个月双年卡",
+      "period": "/2年",
+      "channel": "京东旗舰店",
+      "store": "哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "188.00"
+    },
+    "4ad9914da779aaedbb7c640cda3e88b26f43bdd3937f3f8a142a2f624fc0baf8": {
+      "product_url": "https://deals.iplaysoft.com/vip/iqiyi",
+      "product": "爱奇艺",
+      "option_id": "offer-8-6Vwau8",
+      "title": "爱奇艺白金 VIP 会员年卡 (银河奇异果)",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "爱奇艺会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "支持电视端",
+      "note": "适用于电视、手机、电脑、平板",
+      "device": "none",
+      "kind": "link",
+      "price": "238.00"
+    },
+    "d5476614067f3912c99198dce5e0ba610b265a37469caa0169a35e351a30e6d5": {
+      "product_url": "https://deals.iplaysoft.com/bundle/bilibili-baiduwangpan",
+      "product": "哔哩哔哩 × 百度网盘",
+      "option_id": "offer-78-UOj1iq",
+      "title": "哔哩哔哩大会员年卡+百度网盘 SVIP 半年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "168.00"
+    },
+    "9bde3c5f7ff6ad103304476e3266079694a5c396ee0388339bda8c79c8ebea75": {
+      "product_url": "https://deals.iplaysoft.com/bundle/bilibili-xmly",
+      "product": "哔哩哔哩 × 喜马拉雅",
+      "option_id": "offer-77-TQTV84",
+      "title": "哔哩哔哩大会员 + 喜马拉雅 VIP 年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "168.00"
     }
   },
   "events": [
@@ -1292,7 +1372,42 @@
       "title": "[降价] 123 云盘 VIP 会员年卡 + 123TB 空间容量｜¥500.00 → ¥475.00/年",
       "link": "https://deals.iplaysoft.com/vip/123pan",
       "summary": "同一方案上次成功观测报价 ¥500.00/年，本次 ¥475.00/年。123 云盘；123 云盘 VIP 会员年卡 + 123TB 空间容量；¥475.00/年；京东旗舰店；壹贰叁云官方旗舰店；店铺类型由编辑标记，不代表本站认证；123TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-10-31T15:13:13.641505+00:00",
+      "title": "[新增优惠] 腾讯视频 SVIP 超级影视会员年卡 (云视听极光)｜¥238.00/年",
+      "link": "https://deals.iplaysoft.com/vip/tencentvideo",
+      "summary": "腾讯视频；腾讯视频 SVIP 超级影视会员年卡 (云视听极光)；¥238.00/年；京东旗舰店；腾讯视频VIP会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：SVIP 超级影视会员；支持电视端；适用于电视、手机、电脑、平板"
+    },
+    {
+      "kind": "new",
+      "at": "2026-10-31T15:13:13.641505+00:00",
+      "title": "[新增优惠] 哔哩哔哩大会员24个月双年卡｜¥188.00/2年",
+      "link": "https://deals.iplaysoft.com/vip/bilibili",
+      "summary": "哔哩哔哩 (B站)；哔哩哔哩大会员24个月双年卡；¥188.00/2年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-10-31T15:13:13.641505+00:00",
+      "title": "[新增优惠] 爱奇艺白金 VIP 会员年卡 (银河奇异果)｜¥238.00/年",
+      "link": "https://deals.iplaysoft.com/vip/iqiyi",
+      "summary": "爱奇艺；爱奇艺白金 VIP 会员年卡 (银河奇异果)；¥238.00/年；京东旗舰店；爱奇艺会员旗舰店；店铺类型由编辑标记，不代表本站认证；支持电视端；适用于电视、手机、电脑、平板"
+    },
+    {
+      "kind": "new",
+      "at": "2026-10-31T15:13:13.641505+00:00",
+      "title": "[新增优惠] 哔哩哔哩大会员年卡+百度网盘 SVIP 半年卡｜¥168.00/年",
+      "link": "https://deals.iplaysoft.com/bundle/bilibili-baiduwangpan",
+      "summary": "哔哩哔哩 × 百度网盘；哔哩哔哩大会员年卡+百度网盘 SVIP 半年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-10-31T15:13:13.641505+00:00",
+      "title": "[新增优惠] 哔哩哔哩大会员 + 喜马拉雅 VIP 年卡｜¥168.00/年",
+      "link": "https://deals.iplaysoft.com/bundle/bilibili-xmly",
+      "summary": "哔哩哔哩 × 喜马拉雅；哔哩哔哩大会员 + 喜马拉雅 VIP 年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证"
     }
   ],
-  "feed_sha256": "2816d2401fc59e4ac1a4622547aeee566b662321aa8dcf51439f5e0d01428a2c"
+  "feed_sha256": "7937f2474c018d45ba56e3347b8a7057ca05b043495bbc30cfc84ecf25e863fa"
 }

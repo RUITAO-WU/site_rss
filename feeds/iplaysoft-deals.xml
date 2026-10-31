@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-10-30T22:15:29.364334+00:00</updated>
+  <updated>2026-10-31T15:13:13.643044+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:12</id>
+    <title>[新增优惠] 哔哩哔哩大会员 + 喜马拉雅 VIP 年卡｜¥168.00/年</title>
+    <updated>2026-10-31T15:13:13.641505+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/bilibili-xmly"/>
+    <summary>哔哩哔哩 × 喜马拉雅；哔哩哔哩大会员 + 喜马拉雅 VIP 年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-10-31T15:13:13.641505+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:11</id>
+    <title>[新增优惠] 哔哩哔哩大会员年卡+百度网盘 SVIP 半年卡｜¥168.00/年</title>
+    <updated>2026-10-31T15:13:13.641505+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/bilibili-baiduwangpan"/>
+    <summary>哔哩哔哩 × 百度网盘；哔哩哔哩大会员年卡+百度网盘 SVIP 半年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-10-31T15:13:13.641505+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:10</id>
+    <title>[新增优惠] 爱奇艺白金 VIP 会员年卡 (银河奇异果)｜¥238.00/年</title>
+    <updated>2026-10-31T15:13:13.641505+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/iqiyi"/>
+    <summary>爱奇艺；爱奇艺白金 VIP 会员年卡 (银河奇异果)；¥238.00/年；京东旗舰店；爱奇艺会员旗舰店；店铺类型由编辑标记，不代表本站认证；支持电视端；适用于电视、手机、电脑、平板</summary>
+    <published>2026-10-31T15:13:13.641505+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:9</id>
+    <title>[新增优惠] 哔哩哔哩大会员24个月双年卡｜¥188.00/2年</title>
+    <updated>2026-10-31T15:13:13.641505+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/bilibili"/>
+    <summary>哔哩哔哩 (B站)；哔哩哔哩大会员24个月双年卡；¥188.00/2年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-10-31T15:13:13.641505+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:8</id>
+    <title>[新增优惠] 腾讯视频 SVIP 超级影视会员年卡 (云视听极光)｜¥238.00/年</title>
+    <updated>2026-10-31T15:13:13.641505+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/tencentvideo"/>
+    <summary>腾讯视频；腾讯视频 SVIP 超级影视会员年卡 (云视听极光)；¥238.00/年；京东旗舰店；腾讯视频VIP会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：SVIP 超级影视会员；支持电视端；适用于电视、手机、电脑、平板</summary>
+    <published>2026-10-31T15:13:13.641505+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:7</id>
     <title>[降价] 123 云盘 VIP 会员年卡 + 123TB 空间容量｜¥500.00 → ¥475.00/年</title>
