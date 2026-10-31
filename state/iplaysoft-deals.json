@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-10-31T15:13:13.641505+00:00",
+  "last_success": "2026-10-31T21:28:35.702275+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1218,7 +1218,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "245.10"
+      "price": "330.60"
     },
     "91b51f2186fe34a4315cd505750eca578c05d1259a57050f2ed2e87c250b4e35": {
       "product_url": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
@@ -1409,5 +1409,5 @@
       "summary": "哔哩哔哩 × 喜马拉雅；哔哩哔哩大会员 + 喜马拉雅 VIP 年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证"
     }
   ],
-  "feed_sha256": "7937f2474c018d45ba56e3347b8a7057ca05b043495bbc30cfc84ecf25e863fa"
+  "feed_sha256": "665ee8204d49c19dfed10b181d76b2eee3843ff4642a2263f9c46d97f18d3b48"
 }
