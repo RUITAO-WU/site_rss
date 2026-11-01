@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-01T15:55:32.353871+00:00",
+  "last_success": "2026-11-01T21:58:38.087855+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -588,7 +588,7 @@
       "note": "50TB 超大存储空间不限速网盘",
       "device": "mobile",
       "kind": "link",
-      "price": "523.00"
+      "price": "548.00"
     },
     "e4b3b67016bcb7d8ac7016de781aa796607a2cfd2362794697ea1efd3cc4af87": {
       "product_url": "https://deals.iplaysoft.com/vip/123pan",
@@ -603,7 +603,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "475.00"
+      "price": "500.00"
     },
     "a6a9de418a5696cc531c7c333ed3a7d3d441e19d4d3b50f99013f67f419d2ef4": {
       "product_url": "https://deals.iplaysoft.com/vip/migu",
@@ -1218,7 +1218,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "330.60"
+      "price": "245.10"
     },
     "91b51f2186fe34a4315cd505750eca578c05d1259a57050f2ed2e87c250b4e35": {
       "product_url": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
@@ -1602,7 +1602,14 @@
       "title": "[新增优惠] UC 会员浏览器网盘超级会员年卡 SVIP｜¥108.00/年",
       "link": "https://deals.iplaysoft.com/vip/uc",
       "summary": "UC 会员浏览器网盘；UC 会员浏览器网盘超级会员年卡 SVIP；¥108.00/年；京东旗舰店；UC旗舰店；店铺类型由编辑标记，不代表本站认证；6TB 云网盘空间 / 云收藏 / 流畅播放"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-01T21:58:38.087855+00:00",
+      "title": "[降价] 小米电视会员年卡 + 爱奇艺年卡｜¥330.60 → ¥245.10/年",
+      "link": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
+      "summary": "同一方案上次成功观测报价 ¥330.60/年，本次 ¥245.10/年。小米影视 × 爱奇艺；小米电视会员年卡 + 爱奇艺年卡；¥245.10/年；京东旗舰店；小米影视会员旗舰店；店铺类型由编辑标记，不代表本站认证"
     }
   ],
-  "feed_sha256": "05799c2bd66331b36c26c23a502d21287e60cfd10efd1c2a2e0b032a4778082d"
+  "feed_sha256": "cf755062ff7f2c7a0ea0359954522917a81c03f583883945103c7ff740abc9a6"
 }

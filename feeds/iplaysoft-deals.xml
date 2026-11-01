@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-01T15:55:32.354876+00:00</updated>
+  <updated>2026-11-01T21:58:38.088928+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:23</id>
+    <title>[降价] 小米电视会员年卡 + 爱奇艺年卡｜¥330.60 → ¥245.10/年</title>
+    <updated>2026-11-01T21:58:38.087855+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/mitv-iqiyi"/>
+    <summary>同一方案上次成功观测报价 ¥330.60/年，本次 ¥245.10/年。小米影视 × 爱奇艺；小米电视会员年卡 + 爱奇艺年卡；¥245.10/年；京东旗舰店；小米影视会员旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-01T21:58:38.087855+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:22</id>
     <title>[新增优惠] UC 会员浏览器网盘超级会员年卡 SVIP｜¥108.00/年</title>
