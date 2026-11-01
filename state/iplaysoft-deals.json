@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-10-31T21:28:35.702275+00:00",
+  "last_success": "2026-11-01T15:55:32.353871+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -293,7 +293,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "126.00"
+      "price": "123.00"
     },
     "d936983d136e8feb2d72e36c55b03766f5a7a700f8a28633c5dc3ae6ee156c0e": {
       "product_url": "https://deals.iplaysoft.com/vip/quark",
@@ -308,7 +308,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "229.00"
+      "price": "223.00"
     },
     "8cd9613349a46ffb56136764d3254d3983ad9b5145487ba88a2dffd364113470": {
       "product_url": "https://deals.iplaysoft.com/vip/jdplus",
@@ -1314,6 +1314,131 @@
       "device": "none",
       "kind": "link",
       "price": "168.00"
+    },
+    "e0ffd341a6adb4cd1af16d0489eeb3ff8bac041e5c8d85f39327b0853e5ebd7d": {
+      "product_url": "https://deals.iplaysoft.com/vip/jianying",
+      "product": "剪映",
+      "option_id": "offer-83-KshYyM",
+      "title": "剪映团队版会员 SVIP 4人席位月卡",
+      "period": "/月",
+      "channel": "京东旗舰店",
+      "store": "剪映旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "团队版会员 SVIP"
+        ]
+      ],
+      "badge": "4人 / 支持电脑端",
+      "note": "支持专业版 / 电脑端视频剪辑",
+      "device": "none",
+      "kind": "link",
+      "price": "131.00"
+    },
+    "819d895602a70b8fcc30e811bd3dc7eeaca7f9f8d44ab89406a657e54867498c": {
+      "product_url": "https://deals.iplaysoft.com/vip/quark",
+      "product": "夸克网盘",
+      "option_id": "offer-80-45A5mp",
+      "title": "夸克小说会员 VIP 年卡",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "小说会员",
+      "note": "离线阅读 / 万本会员书听书 / 无广告",
+      "device": "none",
+      "kind": "tkl",
+      "price": "98.00"
+    },
+    "c06077fca3ab7019c84051a96d9af2e8e4edd88b5dade652af1683ecd7173ccc": {
+      "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
+      "product": "QQ 音乐",
+      "option_id": "offer-40-ggrMsF",
+      "title": "QQ 音乐会员豪华绿钻 VIP 年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "QQ音乐官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "144.00"
+    },
+    "acd7c10675e177ff8c0b6a73fff1b216f5b752c8e2caf90748a484c50dafdc2d": {
+      "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
+      "product": "QQ 音乐",
+      "option_id": "offer-41-6pHAKF",
+      "title": "QQ 音乐会员豪华绿钻 VIP 双年卡",
+      "period": "/2年",
+      "channel": "京东旗舰店",
+      "store": "QQ音乐官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "双年卡",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "276.00"
+    },
+    "e29311f72d98d21d8a46bb5e9ebaa24fc67bf96345f117889123db32dd62062e": {
+      "product_url": "https://deals.iplaysoft.com/vip/pikpak",
+      "product": "PikPak 网盘",
+      "option_id": "offer-81-B3ZUbw",
+      "title": "PikPak 正式会员 VIP 年卡兑换码",
+      "period": "/年",
+      "channel": "Pikpak会员总店",
+      "store": "Pikpak会员总店",
+      "specs": [],
+      "badge": "",
+      "note": "10TB 网盘空间 / 离线下载 / 多张可叠加",
+      "device": "none",
+      "kind": "tkl",
+      "price": "320.00"
+    },
+    "573597494d2fc95d9eb2d5e2f23f2d59ce598139772314328257083599b7294d": {
+      "product_url": "https://deals.iplaysoft.com/vip/pikpak",
+      "product": "PikPak 网盘",
+      "option_id": "offer-82-KwSlXL",
+      "title": "PikPak 正式会员 VIP 三年卡兑换码",
+      "period": "/3年",
+      "channel": "Pikpak会员总店",
+      "store": "Pikpak会员总店",
+      "specs": [],
+      "badge": "",
+      "note": "10TB 网盘空间 / 离线下载 / 多张可叠加",
+      "device": "none",
+      "kind": "tkl",
+      "price": "699.00"
+    },
+    "00028a3ae44056f343350450504d81b102f2ad8f712efc3032e93a3ca8fde6d0": {
+      "product_url": "https://deals.iplaysoft.com/vip/uc",
+      "product": "UC 会员浏览器网盘",
+      "option_id": "offer-79-65k9u0",
+      "title": "UC 会员浏览器网盘超级会员年卡 SVIP",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "UC官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "6TB 云网盘空间 / 云收藏 / 流畅播放",
+      "device": "none",
+      "kind": "tkl",
+      "price": "108.00"
+    },
+    "18d4eb935ffc90cc6ae925eeca309200a9649fd6eb8fb192ef25d8ee7da15fdf": {
+      "product_url": "https://deals.iplaysoft.com/vip/uc",
+      "product": "UC 会员浏览器网盘",
+      "option_id": "offer-79-lT39Il",
+      "title": "UC 会员浏览器网盘超级会员年卡 SVIP",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "UC旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "6TB 云网盘空间 / 云收藏 / 流畅播放",
+      "device": "none",
+      "kind": "link",
+      "price": "108.00"
     }
   },
   "events": [
@@ -1407,7 +1532,77 @@
       "title": "[新增优惠] 哔哩哔哩大会员 + 喜马拉雅 VIP 年卡｜¥168.00/年",
       "link": "https://deals.iplaysoft.com/bundle/bilibili-xmly",
       "summary": "哔哩哔哩 × 喜马拉雅；哔哩哔哩大会员 + 喜马拉雅 VIP 年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] 剪映团队版会员 SVIP 4人席位月卡｜¥131.00/月",
+      "link": "https://deals.iplaysoft.com/vip/jianying",
+      "summary": "剪映；剪映团队版会员 SVIP 4人席位月卡；¥131.00/月；京东旗舰店；剪映旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：团队版会员 SVIP；4人 / 支持电脑端；支持专业版 / 电脑端视频剪辑"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[降价] 夸克网盘 SVIP 超级会员年卡｜¥126.00 → ¥123.00/年",
+      "link": "https://deals.iplaysoft.com/vip/quark",
+      "summary": "同一方案上次成功观测报价 ¥126.00/年，本次 ¥123.00/年。夸克网盘；夸克网盘 SVIP 超级会员年卡；¥123.00/年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；加赠14天卡"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[降价] 夸克网盘 SVIP 超级会员 2 年卡｜¥229.00 → ¥223.00/2年",
+      "link": "https://deals.iplaysoft.com/vip/quark",
+      "summary": "同一方案上次成功观测报价 ¥229.00/2年，本次 ¥223.00/2年。夸克网盘；夸克网盘 SVIP 超级会员 2 年卡；¥223.00/2年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；加赠30天 + Keep双月卡"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] 夸克小说会员 VIP 年卡｜¥98.00/年",
+      "link": "https://deals.iplaysoft.com/vip/quark",
+      "summary": "夸克网盘；夸克小说会员 VIP 年卡；¥98.00/年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；小说会员；离线阅读 / 万本会员书听书 / 无广告"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] QQ 音乐会员豪华绿钻 VIP 年卡｜¥144.00/年",
+      "link": "https://deals.iplaysoft.com/vip/qqmusic",
+      "summary": "QQ 音乐；QQ 音乐会员豪华绿钻 VIP 年卡；¥144.00/年；京东旗舰店；QQ音乐官方旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] QQ 音乐会员豪华绿钻 VIP 双年卡｜¥276.00/2年",
+      "link": "https://deals.iplaysoft.com/vip/qqmusic",
+      "summary": "QQ 音乐；QQ 音乐会员豪华绿钻 VIP 双年卡；¥276.00/2年；京东旗舰店；QQ音乐官方旗舰店；店铺类型由编辑标记，不代表本站认证；双年卡"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] PikPak 正式会员 VIP 年卡兑换码｜¥320.00/年",
+      "link": "https://deals.iplaysoft.com/vip/pikpak",
+      "summary": "PikPak 网盘；PikPak 正式会员 VIP 年卡兑换码；¥320.00/年；Pikpak会员总店；Pikpak会员总店；10TB 网盘空间 / 离线下载 / 多张可叠加"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] PikPak 正式会员 VIP 三年卡兑换码｜¥699.00/3年",
+      "link": "https://deals.iplaysoft.com/vip/pikpak",
+      "summary": "PikPak 网盘；PikPak 正式会员 VIP 三年卡兑换码；¥699.00/3年；Pikpak会员总店；Pikpak会员总店；10TB 网盘空间 / 离线下载 / 多张可叠加"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] UC 会员浏览器网盘超级会员年卡 SVIP｜¥108.00/年",
+      "link": "https://deals.iplaysoft.com/vip/uc",
+      "summary": "UC 会员浏览器网盘；UC 会员浏览器网盘超级会员年卡 SVIP；¥108.00/年；淘宝旗舰店；UC官方旗舰店；店铺类型由编辑标记，不代表本站认证；6TB 云网盘空间 / 云收藏 / 流畅播放"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-01T15:55:32.353871+00:00",
+      "title": "[新增优惠] UC 会员浏览器网盘超级会员年卡 SVIP｜¥108.00/年",
+      "link": "https://deals.iplaysoft.com/vip/uc",
+      "summary": "UC 会员浏览器网盘；UC 会员浏览器网盘超级会员年卡 SVIP；¥108.00/年；京东旗舰店；UC旗舰店；店铺类型由编辑标记，不代表本站认证；6TB 云网盘空间 / 云收藏 / 流畅播放"
     }
   ],
-  "feed_sha256": "665ee8204d49c19dfed10b181d76b2eee3843ff4642a2263f9c46d97f18d3b48"
+  "feed_sha256": "05799c2bd66331b36c26c23a502d21287e60cfd10efd1c2a2e0b032a4778082d"
 }
