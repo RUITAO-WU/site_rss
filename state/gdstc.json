@@ -2,10 +2,11 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-01T21:57:49.228691+00:00",
+  "last_success": "2026-11-02T19:20:30.641355+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4973755",
     "post:4972428",
     "post:4971947",
     "post:4971520",
@@ -22,10 +23,16 @@
     "post:4968669",
     "post:4968668",
     "post:4968570",
-    "post:4968565",
-    "post:4968141"
+    "post:4968565"
   ],
   "entries": [
+    {
+      "key": "post:4973755",
+      "title": "广东省基础与应用基础研究基金委员会关于组织2026年度第二批广东省基础与应用基础研究基金项目验收的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4973755.html",
+      "published": "2026-11-02T00:00:00+08:00",
+      "first_seen": "2026-11-02T19:20:30.641355+00:00"
+    },
     {
       "key": "post:4972428",
       "title": "关于公布2026年度第二批省企联合基金（公共卫生与医药健康领域）项目形式审查结果的通告",
@@ -286,5 +293,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "e7bc73822d6f6fe07570be88718efbaf16c86ec832f052a9f95ef91338142895"
+  "feed_sha256": "235f60979c6c94c878f8cdfa5956e50d60bc7275b1daaebea1754d3b21bf3da3"
 }

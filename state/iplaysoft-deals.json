@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-01T21:58:38.087855+00:00",
+  "last_success": "2026-11-02T19:21:21.456656+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1133,7 +1133,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "155.00"
+      "price": "198.00"
     },
     "5b6d6afca38cb15005dbdd881e4974add3cf173809ef8210cd27552ba87eea0d": {
       "product_url": "https://deals.iplaysoft.com/vip/youku",
@@ -1439,6 +1439,126 @@
       "device": "none",
       "kind": "link",
       "price": "108.00"
+    },
+    "0ed6757ca79632e3c8efece8707e090838594617e50bb02ae231e1fa8f828d17": {
+      "product_url": "https://deals.iplaysoft.com/vip/jianying",
+      "product": "剪映",
+      "option_id": "offer-30-olYbEX",
+      "title": "剪映 VIP 会员年卡 (支持移动端)",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "剪映旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "VIP 会员"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "tkl",
+      "price": "85.00"
+    },
+    "bf4f6809da6eb3a94db36383b6ec6a78318d4224fb7988556645c084ce551523": {
+      "product_url": "https://deals.iplaysoft.com/vip/jianying",
+      "product": "剪映",
+      "option_id": "offer-29-qVbeaW",
+      "title": "剪映 SVIP 会员年卡 (支持电脑/移动端)",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "剪映旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "SVIP 超级会员"
+        ]
+      ],
+      "badge": "支持电脑端",
+      "note": "",
+      "device": "none",
+      "kind": "tkl",
+      "price": "200.00"
+    },
+    "f7c993f1d287a948003c45e6c03d0fba1395c6e39499ef5ba1a28abbca7a678a": {
+      "product_url": "https://deals.iplaysoft.com/vip/jianying",
+      "product": "剪映",
+      "option_id": "offer-84-sgylE8",
+      "title": "剪映团队版会员 SVIP 3人席位年卡",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "剪映旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "3人 / 支持电脑端",
+      "note": "",
+      "device": "none",
+      "kind": "tkl",
+      "price": "808.00"
+    },
+    "e45993f79441c1288c31dd67e6363c6140673450613cbdb0fd6f2f0ed55c2124": {
+      "product_url": "https://deals.iplaysoft.com/vip/jianying",
+      "product": "剪映",
+      "option_id": "offer-83-kZGquL",
+      "title": "剪映团队版会员 SVIP 4人席位月卡",
+      "period": "/月",
+      "channel": "淘宝旗舰店",
+      "store": "剪映旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "团队版会员 SVIP"
+        ]
+      ],
+      "badge": "4人 / 支持电脑端",
+      "note": "支持专业版 / 电脑端视频剪辑",
+      "device": "none",
+      "kind": "tkl",
+      "price": "131.00"
+    },
+    "7910436725921e087487570f2bd3aa4fb2ae2ad2f63cd9ffd7c7c945a680a470": {
+      "product_url": "https://deals.iplaysoft.com/vip/bilibili",
+      "product": "哔哩哔哩 (B站)",
+      "option_id": "offer-2-OXzeEr",
+      "title": "[电视端] 哔哩超级大会员12个月年卡+赠1个月",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "支持电视端",
+      "note": "",
+      "device": "none",
+      "kind": "tkl",
+      "price": "178.00"
+    },
+    "2da3f349bead971a3cb2054cb0a2e3327f509c6178deda195ccb9b3c08e2c9ad": {
+      "product_url": "https://deals.iplaysoft.com/vip/icloud",
+      "product": "iCloud+",
+      "option_id": "offer-57-3YbRyL",
+      "title": "Apple 苹果 iCloud+ 订阅 200GB 空间年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "Apple产品京东自营旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "支持家庭共享",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "214.20"
+    },
+    "c780ba2cfb1d92258c751358ce7975d0625d31df6991c649d4796c6335c6983c": {
+      "product_url": "https://deals.iplaysoft.com/vip/icloud",
+      "product": "iCloud+",
+      "option_id": "offer-58-MWPjb1",
+      "title": "Apple 苹果 iCloud+ 订阅 2TB 空间年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "Apple产品京东自营旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "支持家庭共享",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "693.60"
     }
   },
   "events": [
@@ -1609,7 +1729,56 @@
       "title": "[降价] 小米电视会员年卡 + 爱奇艺年卡｜¥330.60 → ¥245.10/年",
       "link": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
       "summary": "同一方案上次成功观测报价 ¥330.60/年，本次 ¥245.10/年。小米影视 × 爱奇艺；小米电视会员年卡 + 爱奇艺年卡；¥245.10/年；京东旗舰店；小米影视会员旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] 剪映 VIP 会员年卡 (支持移动端)｜¥85.00/年",
+      "link": "https://deals.iplaysoft.com/vip/jianying",
+      "summary": "剪映；剪映 VIP 会员年卡 (支持移动端)；¥85.00/年；淘宝旗舰店；剪映旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：VIP 会员"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] 剪映 SVIP 会员年卡 (支持电脑/移动端)｜¥200.00/年",
+      "link": "https://deals.iplaysoft.com/vip/jianying",
+      "summary": "剪映；剪映 SVIP 会员年卡 (支持电脑/移动端)；¥200.00/年；淘宝旗舰店；剪映旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：SVIP 超级会员；支持电脑端"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] 剪映团队版会员 SVIP 3人席位年卡｜¥808.00/年",
+      "link": "https://deals.iplaysoft.com/vip/jianying",
+      "summary": "剪映；剪映团队版会员 SVIP 3人席位年卡；¥808.00/年；淘宝旗舰店；剪映旗舰店；店铺类型由编辑标记，不代表本站认证；3人 / 支持电脑端"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] 剪映团队版会员 SVIP 4人席位月卡｜¥131.00/月",
+      "link": "https://deals.iplaysoft.com/vip/jianying",
+      "summary": "剪映；剪映团队版会员 SVIP 4人席位月卡；¥131.00/月；淘宝旗舰店；剪映旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：团队版会员 SVIP；4人 / 支持电脑端；支持专业版 / 电脑端视频剪辑"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] [电视端] 哔哩超级大会员12个月年卡+赠1个月｜¥178.00/年",
+      "link": "https://deals.iplaysoft.com/vip/bilibili",
+      "summary": "哔哩哔哩 (B站)；[电视端] 哔哩超级大会员12个月年卡+赠1个月；¥178.00/年；淘宝旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证；支持电视端"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] Apple 苹果 iCloud+ 订阅 200GB 空间年卡｜¥214.20/年",
+      "link": "https://deals.iplaysoft.com/vip/icloud",
+      "summary": "iCloud+；Apple 苹果 iCloud+ 订阅 200GB 空间年卡；¥214.20/年；京东旗舰店；Apple产品京东自营旗舰店；店铺类型由编辑标记，不代表本站认证；支持家庭共享"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-02T19:21:21.456656+00:00",
+      "title": "[新增优惠] Apple 苹果 iCloud+ 订阅 2TB 空间年卡｜¥693.60/年",
+      "link": "https://deals.iplaysoft.com/vip/icloud",
+      "summary": "iCloud+；Apple 苹果 iCloud+ 订阅 2TB 空间年卡；¥693.60/年；京东旗舰店；Apple产品京东自营旗舰店；店铺类型由编辑标记，不代表本站认证；支持家庭共享"
     }
   ],
-  "feed_sha256": "cf755062ff7f2c7a0ea0359954522917a81c03f583883945103c7ff740abc9a6"
+  "feed_sha256": "318ca52c75f975545c13b93139005a5c3976a609f905f41d4b88d816a173a7ab"
 }

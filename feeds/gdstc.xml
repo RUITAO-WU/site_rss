@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-01T21:57:51.077161+00:00</updated>
+  <updated>2026-11-02T19:20:34.682909+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:4696aaa153623131a3f24344cc12bc8384c925c530ecee01d826c6481db850fd</id>
+    <title>广东省基础与应用基础研究基金委员会关于组织2026年度第二批广东省基础与应用基础研究基金项目验收的通知</title>
+    <updated>2026-11-02T19:20:30.641355+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4973755.html"/>
+    <published>2026-11-02T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:13f558a2cfe51fedb2f2de08d281cec6a05fe994bd36d220f8f5424d05a44ea3</id>
     <title>关于公布2026年度第二批省企联合基金（公共卫生与医药健康领域）项目形式审查结果的通告</title>
