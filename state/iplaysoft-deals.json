@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-03T01:41:17.358668+00:00",
+  "last_success": "2026-11-03T16:55:47.888176+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -228,7 +228,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "180.00"
+      "price": "200.00"
     },
     "73f48296ad8eae30c6bc385ad1f49082f6f52f595b5426b251f7f3537258a7ce": {
       "product_url": "https://deals.iplaysoft.com/bundle/wps-jd",
@@ -1028,7 +1028,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "198.00"
+      "price": "164.00"
     },
     "4f03dd342e642b8874836897bdfa6f449d84183728370a87eefa2a19bf5c3cfc": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1822,7 +1822,14 @@
       "title": "[新增优惠] Parallels Desktop 专业版一年订阅｜¥339.00/年",
       "link": "https://deals.iplaysoft.com/app/parallelsdesktop",
       "summary": "Parallels Desktop；Parallels Desktop 专业版一年订阅；¥339.00/年；官网；官网；店铺类型由编辑标记，不代表本站认证；专业版"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-03T16:55:47.888176+00:00",
+      "title": "[降价] 喜马拉雅儿童会员 VIP 年卡｜¥198.00 → ¥164.00/年",
+      "link": "https://deals.iplaysoft.com/vip/xmly",
+      "summary": "同一方案上次成功观测报价 ¥198.00/年，本次 ¥164.00/年。喜马拉雅；喜马拉雅儿童会员 VIP 年卡；¥164.00/年；京东旗舰店；喜马拉雅儿童旗舰店；店铺类型由编辑标记，不代表本站认证"
     }
   ],
-  "feed_sha256": "7f740e510635fe94269a176b64b2860f6649ebb7ac0e9d6900783c21143e3555"
+  "feed_sha256": "4363de656c3bae9730f1b1ae79693af7cfb6e284da215765322e7a65efce4d41"
 }
