@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-11-03T00:55:38.535938+00:00</updated>
+  <updated>2026-11-03T01:42:01.133246+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:f26b72bbaa6f0446c0c71185b8da2af80c8af6035119363fe46af116b559a5d0</id>
+    <title>深圳市科技创新局关于组织开展2026年科技创新贷款支持研发投入水平较高民营中小企业融资需求信息征集工作的通知</title>
+    <updated>2026-11-03T01:41:56.704135+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13050814.html"/>
+    <published>2026-11-03T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:0f542a0189b8227d543136cba410bb751c692d2f4c29a2db40100728e698288c</id>
     <title>深圳市科技创新局关于发布《2026年度深圳市中央引导地方科技发展资金深圳国家大学科技园项目产业化基地项目申请指南（第二批）》的通知</title>

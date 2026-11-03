@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-02T19:21:21.457813+00:00</updated>
+  <updated>2026-11-03T01:41:17.360076+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:32</id>
+    <title>[新增优惠] Parallels Desktop 专业版一年订阅｜¥339.00/年</title>
+    <updated>2026-11-03T01:41:17.358668+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/parallelsdesktop"/>
+    <summary>Parallels Desktop；Parallels Desktop 专业版一年订阅；¥339.00/年；官网；官网；店铺类型由编辑标记，不代表本站认证；专业版</summary>
+    <published>2026-11-03T01:41:17.358668+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:31</id>
+    <title>[新增优惠] Parallels Desktop 标准版一年订阅｜¥249.00/年</title>
+    <updated>2026-11-03T01:41:17.358668+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/parallelsdesktop"/>
+    <summary>Parallels Desktop；Parallels Desktop 标准版一年订阅；¥249.00/年；官网；官网；店铺类型由编辑标记，不代表本站认证；标准版</summary>
+    <published>2026-11-03T01:41:17.358668+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:30</id>
     <title>[新增优惠] Apple 苹果 iCloud+ 订阅 2TB 空间年卡｜¥693.60/年</title>
