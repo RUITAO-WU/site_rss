@@ -2,13 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-04T00:23:44.281027+00:00</updated>
+  <updated>2026-11-04T16:59:13.547373+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:40</id>
+    <title>[降价] 芒果 TV 全屏会员年卡 (支持电视端)｜¥198.00 → ¥155.00/年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/mgtv"/>
+    <summary>同一方案上次成功观测报价 ¥198.00/年，本次 ¥155.00/年。芒果 TV；芒果 TV 全屏会员年卡 (支持电视端)；¥155.00/年；京东旗舰店；芒果tv会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：全屏会员；支持电视端</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:39</id>
+    <title>[降价] 百度网盘超级会员 SVIP 3 年卡 + 哔哩哔哩年卡｜¥558.00 → ¥548.00/3年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/baiduwangpan-bilibili"/>
+    <summary>同一方案上次成功观测报价 ¥558.00/3年，本次 ¥548.00/3年。百度网盘 × 哔哩哔哩；百度网盘超级会员 SVIP 3 年卡 + 哔哩哔哩年卡；¥548.00/3年；京东旗舰店；百度网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:38</id>
+    <title>[新增优惠] 爱企查 SVIP 超级会员专业查｜¥158.00/年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/aiqicha"/>
+    <summary>爱企查；爱企查 SVIP 超级会员专业查；¥158.00/年；京东旗舰店；爱企查旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:37</id>
+    <title>[新增优惠] 向日葵远程控制瓜子会员年卡｜¥158.00/年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/xiangrikui"/>
+    <summary>向日葵远程控制；向日葵远程控制瓜子会员年卡；¥158.00/年；淘宝旗舰店；贝锐向日葵旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:36</id>
+    <title>[新增优惠] 读库全年阅读计划扩展套餐年卡｜¥486.00/年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/duku"/>
+    <summary>读库 DUKU；读库全年阅读计划扩展套餐年卡；¥486.00/年；京东旗舰店；读库旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：扩展套餐</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:35</id>
+    <title>[新增优惠] 读库全年阅读计划经典套餐年卡｜¥286.00/年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/duku"/>
+    <summary>读库 DUKU；读库全年阅读计划经典套餐年卡；¥286.00/年；京东旗舰店；读库旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：经典套餐</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:34</id>
+    <title>[新增优惠] 读库全年阅读计划无纸套餐年卡｜¥180.00/年</title>
+    <updated>2026-11-04T16:59:13.545362+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/duku"/>
+    <summary>读库 DUKU；读库全年阅读计划无纸套餐年卡；¥180.00/年；京东旗舰店；读库旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：无纸套餐</summary>
+    <published>2026-11-04T16:59:13.545362+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:33</id>
     <title>[降价] 喜马拉雅儿童会员 VIP 年卡｜¥198.00 → ¥164.00/年</title>

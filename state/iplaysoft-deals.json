@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-04T00:23:44.279899+00:00",
+  "last_success": "2026-11-04T16:59:13.545362+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -898,7 +898,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "558.00"
+      "price": "548.00"
     },
     "7fed33c9ce6f3bab848cc6521e8492bc80fea40f2589e1f6cfd7b8dc03b1f69d": {
       "product_url": "https://deals.iplaysoft.com/vip/keep",
@@ -1133,7 +1133,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "198.00"
+      "price": "155.00"
     },
     "5b6d6afca38cb15005dbdd881e4974add3cf173809ef8210cd27552ba87eea0d": {
       "product_url": "https://deals.iplaysoft.com/vip/youku",
@@ -1589,6 +1589,96 @@
       "device": "none",
       "kind": "link",
       "price": "339.00"
+    },
+    "8a3dbc54ebf9481d7e3875d9ff88ee4ab0536ceeb71a976b1e9e15847e1fcb4b": {
+      "product_url": "https://deals.iplaysoft.com/vip/duku",
+      "product": "读库 DUKU",
+      "option_id": "offer-89-ypQjiG",
+      "title": "读库全年阅读计划无纸套餐年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "读库旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "无纸套餐"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "180.00"
+    },
+    "30d9606712fdde7c861462b47ebb40a69ee98b032647fb6abc2d01de6e8b359c": {
+      "product_url": "https://deals.iplaysoft.com/vip/duku",
+      "product": "读库 DUKU",
+      "option_id": "offer-90-RjRHpq",
+      "title": "读库全年阅读计划经典套餐年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "读库旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "经典套餐"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "286.00"
+    },
+    "296553c5d2161d807653db8945e3f7b5271d2d37d92bf70323d6f4d37b7e9401": {
+      "product_url": "https://deals.iplaysoft.com/vip/duku",
+      "product": "读库 DUKU",
+      "option_id": "offer-91-AZMrBO",
+      "title": "读库全年阅读计划扩展套餐年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "读库旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "扩展套餐"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "486.00"
+    },
+    "4cb396cc9ce50f05b4fc04bd90b18c184cd94356dbe1ee3f1a6e068c59cca085": {
+      "product_url": "https://deals.iplaysoft.com/vip/xiangrikui",
+      "product": "向日葵远程控制",
+      "option_id": "offer-88-EoRPRJ",
+      "title": "向日葵远程控制瓜子会员年卡",
+      "period": "/年",
+      "channel": "淘宝旗舰店",
+      "store": "贝锐向日葵旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "tkl",
+      "price": "158.00"
+    },
+    "9be87df40eaa530b6aac2aa22affa745c8c84a02fe48f55e7b6ca46ce484bfd8": {
+      "product_url": "https://deals.iplaysoft.com/vip/aiqicha",
+      "product": "爱企查",
+      "option_id": "offer-87-qjNpU1",
+      "title": "爱企查 SVIP 超级会员专业查",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "爱企查旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "158.00"
     }
   },
   "events": [
@@ -1829,7 +1919,56 @@
       "title": "[降价] 喜马拉雅儿童会员 VIP 年卡｜¥198.00 → ¥164.00/年",
       "link": "https://deals.iplaysoft.com/vip/xmly",
       "summary": "同一方案上次成功观测报价 ¥198.00/年，本次 ¥164.00/年。喜马拉雅；喜马拉雅儿童会员 VIP 年卡；¥164.00/年；京东旗舰店；喜马拉雅儿童旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[新增优惠] 读库全年阅读计划无纸套餐年卡｜¥180.00/年",
+      "link": "https://deals.iplaysoft.com/vip/duku",
+      "summary": "读库 DUKU；读库全年阅读计划无纸套餐年卡；¥180.00/年；京东旗舰店；读库旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：无纸套餐"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[新增优惠] 读库全年阅读计划经典套餐年卡｜¥286.00/年",
+      "link": "https://deals.iplaysoft.com/vip/duku",
+      "summary": "读库 DUKU；读库全年阅读计划经典套餐年卡；¥286.00/年；京东旗舰店；读库旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：经典套餐"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[新增优惠] 读库全年阅读计划扩展套餐年卡｜¥486.00/年",
+      "link": "https://deals.iplaysoft.com/vip/duku",
+      "summary": "读库 DUKU；读库全年阅读计划扩展套餐年卡；¥486.00/年；京东旗舰店；读库旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：扩展套餐"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[新增优惠] 向日葵远程控制瓜子会员年卡｜¥158.00/年",
+      "link": "https://deals.iplaysoft.com/vip/xiangrikui",
+      "summary": "向日葵远程控制；向日葵远程控制瓜子会员年卡；¥158.00/年；淘宝旗舰店；贝锐向日葵旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[新增优惠] 爱企查 SVIP 超级会员专业查｜¥158.00/年",
+      "link": "https://deals.iplaysoft.com/vip/aiqicha",
+      "summary": "爱企查；爱企查 SVIP 超级会员专业查；¥158.00/年；京东旗舰店；爱企查旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[降价] 百度网盘超级会员 SVIP 3 年卡 + 哔哩哔哩年卡｜¥558.00 → ¥548.00/3年",
+      "link": "https://deals.iplaysoft.com/bundle/baiduwangpan-bilibili",
+      "summary": "同一方案上次成功观测报价 ¥558.00/3年，本次 ¥548.00/3年。百度网盘 × 哔哩哔哩；百度网盘超级会员 SVIP 3 年卡 + 哔哩哔哩年卡；¥548.00/3年；京东旗舰店；百度网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-04T16:59:13.545362+00:00",
+      "title": "[降价] 芒果 TV 全屏会员年卡 (支持电视端)｜¥198.00 → ¥155.00/年",
+      "link": "https://deals.iplaysoft.com/vip/mgtv",
+      "summary": "同一方案上次成功观测报价 ¥198.00/年，本次 ¥155.00/年。芒果 TV；芒果 TV 全屏会员年卡 (支持电视端)；¥155.00/年；京东旗舰店；芒果tv会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：全屏会员；支持电视端"
     }
   ],
-  "feed_sha256": "b87e34445d81e7a6f8378a11d120f9da4fca08f00eb1d83a374f5bd2497f9f24"
+  "feed_sha256": "46aafe7fb13124a77e9838466246d4bfe367ab320370bf73f69c966a4bce3abe"
 }
