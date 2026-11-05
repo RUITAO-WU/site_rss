@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-04T23:59:49.821361+00:00",
+  "last_success": "2026-11-05T01:17:45.081813+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -2024,5 +2024,5 @@
       "summary": "XYplorer；XYplorer 永久升级版；¥137.40/买断；数码荔枝；数码荔枝；永久授权：是"
     }
   ],
-  "feed_sha256": "51a66f9c983fb735aa4076ad3144536eedf3cb82342aff3d53d38ff8b3ed36b5"
+  "feed_sha256": "1db242630cb26e0ddd3b46d55fbe5a180af3e805dd7fe4214cda0fbe61e17ad6"
 }

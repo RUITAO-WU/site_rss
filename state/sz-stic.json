@@ -2,12 +2,14 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-11-04T00:24:31.998007+00:00",
+  "last_success": "2026-11-05T01:19:35.158175+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13053788",
+    "post:13053676",
     "post:13051750",
     "post:13050814",
     "post:13048021",
@@ -21,11 +23,23 @@
     "post:13034308",
     "post:13032458",
     "post:13029716",
-    "post:13026291",
-    "post:13026273",
-    "post:13022906"
+    "post:13026291"
   ],
   "entries": [
+    {
+      "key": "post:13053788",
+      "title": "深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13053788.html",
+      "published": "2026-11-04T00:00:00+08:00",
+      "first_seen": "2026-11-05T01:19:35.158175+00:00"
+    },
+    {
+      "key": "post:13053676",
+      "title": "深圳市科技创新局关于转发国家网络空间安全国家科技重大专项第四批项目等5个项目申报指南的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13053676.html",
+      "published": "2026-11-04T00:00:00+08:00",
+      "first_seen": "2026-11-05T01:19:35.158175+00:00"
+    },
     {
       "key": "post:13051750",
       "title": "深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知",
@@ -251,5 +265,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "f6dc1c74e3d484f4fae31a7727421813a60ca01fcaee4a326601044afe91f5f9"
+  "feed_sha256": "7e407026e1ab581a934e1b4950ae0f2e859fc65c28a81226444fba3f3910f589"
 }
