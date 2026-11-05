@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-04T16:59:13.545362+00:00",
+  "last_success": "2026-11-04T23:59:49.821361+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1679,6 +1679,46 @@
       "device": "none",
       "kind": "link",
       "price": "158.00"
+    },
+    "3b11273598781ae1f9668ce1c177955ab2a58d7f74ee76de638d343703bbcc51": {
+      "product_url": "https://deals.iplaysoft.com/app/xyplorer",
+      "product": "XYplorer",
+      "option_id": "offer-94-MdOdLZ",
+      "title": "XYplorer 一年升级版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "65.40"
+    },
+    "f49597129d814498099375694890db7f9ab99356527cb21fe09457aebc67dfde": {
+      "product_url": "https://deals.iplaysoft.com/app/xyplorer",
+      "product": "XYplorer",
+      "option_id": "offer-95-FDS9Gx",
+      "title": "XYplorer 永久升级版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "137.40"
     }
   },
   "events": [
@@ -1968,7 +2008,21 @@
       "title": "[降价] 芒果 TV 全屏会员年卡 (支持电视端)｜¥198.00 → ¥155.00/年",
       "link": "https://deals.iplaysoft.com/vip/mgtv",
       "summary": "同一方案上次成功观测报价 ¥198.00/年，本次 ¥155.00/年。芒果 TV；芒果 TV 全屏会员年卡 (支持电视端)；¥155.00/年；京东旗舰店；芒果tv会员旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：全屏会员；支持电视端"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T23:59:49.821361+00:00",
+      "title": "[新增优惠] XYplorer 一年升级版｜¥65.40/买断",
+      "link": "https://deals.iplaysoft.com/app/xyplorer",
+      "summary": "XYplorer；XYplorer 一年升级版；¥65.40/买断；数码荔枝；数码荔枝；永久授权：是"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-04T23:59:49.821361+00:00",
+      "title": "[新增优惠] XYplorer 永久升级版｜¥137.40/买断",
+      "link": "https://deals.iplaysoft.com/app/xyplorer",
+      "summary": "XYplorer；XYplorer 永久升级版；¥137.40/买断；数码荔枝；数码荔枝；永久授权：是"
     }
   ],
-  "feed_sha256": "46aafe7fb13124a77e9838466246d4bfe367ab320370bf73f69c966a4bce3abe"
+  "feed_sha256": "51a66f9c983fb735aa4076ad3144536eedf3cb82342aff3d53d38ff8b3ed36b5"
 }
