@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-11-05T01:19:43.960904+00:00</updated>
+  <updated>2026-11-05T17:16:44.647977+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:33574330abba6052c59a85c001d89f8a160c9a3db66b6ba4e6ac124bbbdfd431</id>
+    <title>深圳市科技创新局关于2025年度深圳市科研机构实验技术人才高级职称评审委员会评审通过人员的公示</title>
+    <updated>2026-11-05T17:16:37.093031+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13055653.html"/>
+    <published>2026-11-05T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:d98b9e9e2d11242f8323ade89206e05e082eafb34a9c1c154678d9d124c7e393</id>
     <title>深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知</title>

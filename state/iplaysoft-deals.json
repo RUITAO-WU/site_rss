@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-05T01:17:45.081813+00:00",
+  "last_success": "2026-11-05T17:14:43.327943+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1719,6 +1719,21 @@
       "device": "none",
       "kind": "link",
       "price": "137.40"
+    },
+    "0ccf8bb788f5e39e3aa373ab6f95fa901906bbbeba0ed7b20a2d3e30b0df848c": {
+      "product_url": "https://deals.iplaysoft.com/vip/115",
+      "product": "115 网盘",
+      "option_id": "offer-96-yZqkDA",
+      "title": "115 网盘 100TB 扩容空间",
+      "period": "/买断",
+      "channel": "京东旗舰店",
+      "store": "115 网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "扩容",
+      "note": "不包含 VIP 会员",
+      "device": "none",
+      "kind": "link",
+      "price": "500.00"
     }
   },
   "events": [
@@ -2022,7 +2037,14 @@
       "title": "[新增优惠] XYplorer 永久升级版｜¥137.40/买断",
       "link": "https://deals.iplaysoft.com/app/xyplorer",
       "summary": "XYplorer；XYplorer 永久升级版；¥137.40/买断；数码荔枝；数码荔枝；永久授权：是"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-05T17:14:43.327943+00:00",
+      "title": "[新增优惠] 115 网盘 100TB 扩容空间｜¥500.00/买断",
+      "link": "https://deals.iplaysoft.com/vip/115",
+      "summary": "115 网盘；115 网盘 100TB 扩容空间；¥500.00/买断；京东旗舰店；115 网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证；扩容；不包含 VIP 会员"
     }
   ],
-  "feed_sha256": "1db242630cb26e0ddd3b46d55fbe5a180af3e805dd7fe4214cda0fbe61e17ad6"
+  "feed_sha256": "467cd74e44946525d43ba19276c9317ddec9f482596be25051ea6490ed7189e0"
 }

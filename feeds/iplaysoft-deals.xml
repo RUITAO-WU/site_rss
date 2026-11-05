@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-05T01:17:45.083374+00:00</updated>
+  <updated>2026-11-05T17:14:43.329445+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:43</id>
+    <title>[新增优惠] 115 网盘 100TB 扩容空间｜¥500.00/买断</title>
+    <updated>2026-11-05T17:14:43.327943+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/115"/>
+    <summary>115 网盘；115 网盘 100TB 扩容空间；¥500.00/买断；京东旗舰店；115 网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证；扩容；不包含 VIP 会员</summary>
+    <published>2026-11-05T17:14:43.327943+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:42</id>
     <title>[新增优惠] XYplorer 永久升级版｜¥137.40/买断</title>
