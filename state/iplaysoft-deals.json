@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-06T16:41:34.631012+00:00",
+  "last_success": "2026-11-06T23:04:37.995714+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -308,7 +308,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "223.00"
+      "price": "198.00"
     },
     "8cd9613349a46ffb56136764d3254d3983ad9b5145487ba88a2dffd364113470": {
       "product_url": "https://deals.iplaysoft.com/vip/jdplus",
@@ -463,7 +463,7 @@
       "note": "超大长期空间",
       "device": "none",
       "kind": "link",
-      "price": "800.00"
+      "price": "975.00"
     },
     "d75d49e18a95c7d88e55f5b49b76a50789bfe7d95ba0a9d048d49217c5804a50": {
       "product_url": "https://deals.iplaysoft.com/vip/115",
@@ -673,7 +673,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "169.00"
+      "price": "129.00"
     },
     "db0bd4c4d97690f77593ebd93fe466ab1c014183b983ec05f8881caa666107ed": {
       "product_url": "https://deals.iplaysoft.com/vip/dedao",
@@ -1839,6 +1839,96 @@
       "device": "none",
       "kind": "link",
       "price": "249.00"
+    },
+    "2a2375c6f0f9302c312f27b1f48713f06731e5411aa39d587cd37cb58c83d05b": {
+      "product_url": "https://deals.iplaysoft.com/app/parallelsdesktop",
+      "product": "Parallels Desktop",
+      "option_id": "offer-85-7gZfYn",
+      "title": "Parallels Desktop 标准版一年订阅",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "标准版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "274.00"
+    },
+    "d32c262c733c2c3a9c69100415efed5d9d4940dd07219c5dc6f85e4318a0494e": {
+      "product_url": "https://deals.iplaysoft.com/bundle/pd-win11",
+      "product": "Parallels Desktop × Windows 11",
+      "option_id": "offer-104-wEFHjf",
+      "title": "Parallels Desktop 标准版 + Windows 11 专业版",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "498.00"
+    },
+    "0c56a58f58df3bf6a6bed72d822b3639f2b940aefee4d19298391b76d6cf547e": {
+      "product_url": "https://deals.iplaysoft.com/app/fences",
+      "product": "Fences",
+      "option_id": "offer-103-eyqms0",
+      "title": "Fences 6 永久终身版",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "永久使用",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "88.00"
+    },
+    "0f9c2a22a05f016328b41ec852bfc32d6ad68916ebddf07c52b9f2062ee54ce8": {
+      "product_url": "https://deals.iplaysoft.com/app/fences",
+      "product": "Fences",
+      "option_id": "offer-103-MD8w4e",
+      "title": "Fences 6 永久终身版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "永久使用",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "119.00"
+    },
+    "16b4997abe306e2f3fe07d8c69b5a18b5315a5606b0257f827326e5a6bc3a94b": {
+      "product_url": "https://deals.iplaysoft.com/app/fences",
+      "product": "Fences",
+      "option_id": "offer-102-SSpNxm",
+      "title": "Fences 6 一年版订阅",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "49.00"
+    },
+    "73b08928b260ee3329b4b055bdb70f536b789df4fe435115eb94d12dc55bf1cf": {
+      "product_url": "https://deals.iplaysoft.com/app/fences",
+      "product": "Fences",
+      "option_id": "offer-102-x74hlu",
+      "title": "Fences 6 一年版订阅",
+      "period": "/年",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "55.00"
     }
   },
   "events": [
@@ -2198,7 +2288,63 @@
       "title": "[新增优惠] Windows 11 专业版终身永久激活码｜¥249.00/买断",
       "link": "https://deals.iplaysoft.com/app/windows11",
       "summary": "Windows 11；Windows 11 专业版终身永久激活码；¥249.00/买断；数码荔枝；数码荔枝；专业版"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[降价] 夸克网盘 SVIP 超级会员 2 年卡｜¥223.00 → ¥198.00/2年",
+      "link": "https://deals.iplaysoft.com/vip/quark",
+      "summary": "同一方案上次成功观测报价 ¥223.00/2年，本次 ¥198.00/2年。夸克网盘；夸克网盘 SVIP 超级会员 2 年卡；¥198.00/2年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；加赠30天 + Keep双月卡"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[降价] 得到电子书会员 VIP 年卡｜¥169.00 → ¥129.00/年",
+      "link": "https://deals.iplaysoft.com/vip/dedao",
+      "summary": "同一方案上次成功观测报价 ¥169.00/年，本次 ¥129.00/年。得到电子书；得到电子书会员 VIP 年卡；¥129.00/年；京东旗舰店；得到旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[新增优惠] Parallels Desktop 标准版一年订阅｜¥274.00/年",
+      "link": "https://deals.iplaysoft.com/app/parallelsdesktop",
+      "summary": "Parallels Desktop；Parallels Desktop 标准版一年订阅；¥274.00/年；数码荔枝；数码荔枝；标准版"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[新增优惠] Parallels Desktop 标准版 + Windows 11 专业版｜¥498.00/年",
+      "link": "https://deals.iplaysoft.com/bundle/pd-win11",
+      "summary": "Parallels Desktop × Windows 11；Parallels Desktop 标准版 + Windows 11 专业版；¥498.00/年；数码荔枝；数码荔枝"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[新增优惠] Fences 6 永久终身版｜¥88.00/买断",
+      "link": "https://deals.iplaysoft.com/app/fences",
+      "summary": "Fences；Fences 6 永久终身版；¥88.00/买断；APSGO 软购；APSGO 软购；永久使用"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[新增优惠] Fences 6 永久终身版｜¥119.00/买断",
+      "link": "https://deals.iplaysoft.com/app/fences",
+      "summary": "Fences；Fences 6 永久终身版；¥119.00/买断；数码荔枝；数码荔枝；永久使用"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[新增优惠] Fences 6 一年版订阅｜¥49.00/年",
+      "link": "https://deals.iplaysoft.com/app/fences",
+      "summary": "Fences；Fences 6 一年版订阅；¥49.00/年；数码荔枝；数码荔枝"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-06T23:04:37.995714+00:00",
+      "title": "[新增优惠] Fences 6 一年版订阅｜¥55.00/年",
+      "link": "https://deals.iplaysoft.com/app/fences",
+      "summary": "Fences；Fences 6 一年版订阅；¥55.00/年；APSGO 软购；APSGO 软购"
     }
   ],
-  "feed_sha256": "c2f879dc9537184cb51c95e1c52179c464aea8b2f816fdc95d9ae782ad93afe7"
+  "feed_sha256": "a879288ae8332acfc6e6c87ccd1ceaed8c36c26aee3365012741adb850431dcd"
 }

@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-06T16:41:34.632825+00:00</updated>
+  <updated>2026-11-06T23:04:37.997156+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:58</id>
+    <title>[新增优惠] Fences 6 一年版订阅｜¥55.00/年</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/fences"/>
+    <summary>Fences；Fences 6 一年版订阅；¥55.00/年；APSGO 软购；APSGO 软购</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:57</id>
+    <title>[新增优惠] Fences 6 一年版订阅｜¥49.00/年</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/fences"/>
+    <summary>Fences；Fences 6 一年版订阅；¥49.00/年；数码荔枝；数码荔枝</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:56</id>
+    <title>[新增优惠] Fences 6 永久终身版｜¥119.00/买断</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/fences"/>
+    <summary>Fences；Fences 6 永久终身版；¥119.00/买断；数码荔枝；数码荔枝；永久使用</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:55</id>
+    <title>[新增优惠] Fences 6 永久终身版｜¥88.00/买断</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/fences"/>
+    <summary>Fences；Fences 6 永久终身版；¥88.00/买断；APSGO 软购；APSGO 软购；永久使用</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:54</id>
+    <title>[新增优惠] Parallels Desktop 标准版 + Windows 11 专业版｜¥498.00/年</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/pd-win11"/>
+    <summary>Parallels Desktop × Windows 11；Parallels Desktop 标准版 + Windows 11 专业版；¥498.00/年；数码荔枝；数码荔枝</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:53</id>
+    <title>[新增优惠] Parallels Desktop 标准版一年订阅｜¥274.00/年</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/parallelsdesktop"/>
+    <summary>Parallels Desktop；Parallels Desktop 标准版一年订阅；¥274.00/年；数码荔枝；数码荔枝；标准版</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:52</id>
+    <title>[降价] 得到电子书会员 VIP 年卡｜¥169.00 → ¥129.00/年</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/dedao"/>
+    <summary>同一方案上次成功观测报价 ¥169.00/年，本次 ¥129.00/年。得到电子书；得到电子书会员 VIP 年卡；¥129.00/年；京东旗舰店；得到旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:51</id>
+    <title>[降价] 夸克网盘 SVIP 超级会员 2 年卡｜¥223.00 → ¥198.00/2年</title>
+    <updated>2026-11-06T23:04:37.995714+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/quark"/>
+    <summary>同一方案上次成功观测报价 ¥223.00/2年，本次 ¥198.00/2年。夸克网盘；夸克网盘 SVIP 超级会员 2 年卡；¥198.00/2年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；加赠30天 + Keep双月卡</summary>
+    <published>2026-11-06T23:04:37.995714+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:50</id>
     <title>[新增优惠] Windows 11 专业版终身永久激活码｜¥249.00/买断</title>
