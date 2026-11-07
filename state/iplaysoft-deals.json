@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-06T23:04:37.995714+00:00",
+  "last_success": "2026-11-07T15:34:59.666216+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1543,7 +1543,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "214.20"
+      "price": "252.00"
     },
     "c780ba2cfb1d92258c751358ce7975d0625d31df6991c649d4796c6335c6983c": {
       "product_url": "https://deals.iplaysoft.com/vip/icloud",
@@ -1558,7 +1558,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "693.60"
+      "price": "816.00"
     },
     "e9b76343c0851af171ac88e33d718d622973b0b34c0d72599b3e35e19c8aae2e": {
       "product_url": "https://deals.iplaysoft.com/app/parallelsdesktop",
@@ -1929,6 +1929,639 @@
       "device": "none",
       "kind": "link",
       "price": "55.00"
+    },
+    "10fd5fd1dba55f44015b93d75f823c4083efff7f10a4b495bc403c1719283be2": {
+      "product_url": "https://deals.iplaysoft.com/app/listary",
+      "product": "Listary Pro",
+      "option_id": "offer-118-PmRb7e",
+      "title": "Listary Pro 单用户永久专业版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "68.60"
+    },
+    "a69d6e49b9ab557ddbcdfdfeec6115f608f6e725ac97e5e46b6f8a52a59dbe51": {
+      "product_url": "https://deals.iplaysoft.com/app/typora",
+      "product": "Typora",
+      "option_id": "offer-125-GO4KMi",
+      "title": "Typora 永久版激活码 单用户 (3 台)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "3 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "80.10"
+    },
+    "5455a3ed6ac499a9c4ff0daa8b1330fedf2c29b69612d122d158e3bf0ecef3cc": {
+      "product_url": "https://deals.iplaysoft.com/app/processlasso",
+      "product": "Process Lasso",
+      "option_id": "offer-120-ixB5UQ",
+      "title": "Process Lasso 专业版 单设备 永久版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "1 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "71.40"
+    },
+    "00c865c70b6ea16a0f4d7c3d96e348e753fd982747f067c3e526c4914fe8dc5f": {
+      "product_url": "https://deals.iplaysoft.com/app/processlasso",
+      "product": "Process Lasso",
+      "option_id": "offer-121-cslYzC",
+      "title": "Process Lasso 专业版 5 设备 永久版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "5 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "5台授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "95.40"
+    },
+    "65b9104a1806a2c27551922e53eff1d60d7c67def4b29640c5e28bfc49383d50": {
+      "product_url": "https://deals.iplaysoft.com/app/stickypassword",
+      "product": "Sticky Password",
+      "option_id": "offer-112-JmHZaA",
+      "title": "Sticky Password 高级版 (1年)",
+      "period": "/年",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "68.00"
+    },
+    "0516a7740e3b07e1900fd80e17f350984e939cd52c285c3f4e053567880d0fe6": {
+      "product_url": "https://deals.iplaysoft.com/app/stickypassword",
+      "product": "Sticky Password",
+      "option_id": "offer-113-cfaykT",
+      "title": "Sticky Password 高级版 (终身永久版)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "218.00"
+    },
+    "9401324c6a8de26797d81851a63256777f6e1af6b1f3c99f21bc37d54d6ea32d": {
+      "product_url": "https://deals.iplaysoft.com/app/xyplorer",
+      "product": "XYplorer",
+      "option_id": "offer-94-MdOdLZ",
+      "title": "XYplorer 永久使用版 (一年更新)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "65.40"
+    },
+    "ccfed07f039151e38e8e76310b904e96663fadee5384147e7fd8b9dd2af39d3c": {
+      "product_url": "https://deals.iplaysoft.com/app/xyplorer",
+      "product": "XYplorer",
+      "option_id": "offer-94-XL0DFc",
+      "title": "XYplorer 永久使用版 (一年更新)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "88.00"
+    },
+    "8f9b1ecababa818d5d02053c516762804a7f184b982702d555d7e3798f281fdb": {
+      "product_url": "https://deals.iplaysoft.com/app/xyplorer",
+      "product": "XYplorer",
+      "option_id": "offer-95-FDS9Gx",
+      "title": "XYplorer 永久使用版 (终身更新)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "永久升级",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "137.40"
+    },
+    "5a160696d1a27adfe3732f50790487c2f22cc99d7baca3382f5ff1899066808e": {
+      "product_url": "https://deals.iplaysoft.com/app/xyplorer",
+      "product": "XYplorer",
+      "option_id": "offer-95-cRRnA6",
+      "title": "XYplorer 永久使用版 (终身更新)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "永久升级",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "148.00"
+    },
+    "ff6a6b2d7d996f8229d19ab672333ac9d5da352d3efa68ab5001e8ad22ce198f": {
+      "product_url": "https://deals.iplaysoft.com/app/pixpin",
+      "product": "PixPin",
+      "option_id": "offer-126-0PMjPs",
+      "title": "PixPin 年度会员 VIP 年卡激活码",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "52.50"
+    },
+    "1d63595b5b0394e8e8f6f10b2b5b75271531c72d117ecf1a21d7f676a3aa9fd6": {
+      "product_url": "https://deals.iplaysoft.com/app/pixpin",
+      "product": "PixPin",
+      "option_id": "offer-127-25J8Ju",
+      "title": "PixPin 永久版会员 VIP 激活码",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "156.00"
+    },
+    "c150837893391d4ef7c6aa47186890a5a72b5bfcf9543fde272e4c778c235cdb": {
+      "product_url": "https://deals.iplaysoft.com/app/mole",
+      "product": "Mole",
+      "option_id": "offer-122-jqMVgj",
+      "title": "Mole 永久版激活码 (双设备)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "2 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "109.00"
+    },
+    "2b972be2cc868af6d92466d910928f645e5512b3add31f47a7cf79027cf37d4e": {
+      "product_url": "https://deals.iplaysoft.com/app/bandizip",
+      "product": "Bandizip",
+      "option_id": "offer-116-6gJVDC",
+      "title": "Bandizip 专业版 (永久激活版)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "5 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "179.10"
+    },
+    "8e74bf97931836c68f7d3531c2fa4aca6b00c0a3588c5f497c22e39d6e8eb5b3": {
+      "product_url": "https://deals.iplaysoft.com/app/bandizip",
+      "product": "Bandizip",
+      "option_id": "offer-116-vQkX8R",
+      "title": "Bandizip 专业版 (永久激活版)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "授权设备",
+          "5 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "178.00"
+    },
+    "a050d3b6891dec9f257967596ca07de64603d1d19e621cc462d2415300e5d6cb": {
+      "product_url": "https://deals.iplaysoft.com/app/bandizip",
+      "product": "Bandizip",
+      "option_id": "offer-117-Rhzuaw",
+      "title": "Bandizip 专业版 + Honeycam 单用户版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "套装",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "315.00"
+    },
+    "51d2aa23880315af8af0343e6b687a7955620c1efd8e5487b8577ae1d3c3f8cd": {
+      "product_url": "https://deals.iplaysoft.com/app/bandizip",
+      "product": "Bandizip",
+      "option_id": "offer-117-5wTwT4",
+      "title": "Bandizip 专业版 + Honeycam 单用户版",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "套装",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "348.00"
+    },
+    "0a55ca31886faa0e20d1835760c88334729dfd930dd962e4c22ab5cc1ea7df03": {
+      "product_url": "https://deals.iplaysoft.com/app/istatmenus",
+      "product": "iStat Menus",
+      "option_id": "offer-114-hzg4jV",
+      "title": "iStat Menus 单用户许可证 (1台)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "授权设备",
+          "1 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "58.00"
+    },
+    "0019299956ca99ed5a2a3a0b52d58279090517e0a5374779afa242a2427e9564": {
+      "product_url": "https://deals.iplaysoft.com/app/istatmenus",
+      "product": "iStat Menus",
+      "option_id": "offer-115-vs8G41",
+      "title": "iStat Menus 家庭版许可证 (5台)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "授权设备",
+          "5 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "78.00"
+    },
+    "1f3295adf68850a087e4fb5abeb95472c023be3fba451f7334537e733bc47f1a": {
+      "product_url": "https://deals.iplaysoft.com/app/updf",
+      "product": "UPDF",
+      "option_id": "offer-109-ccAiDf",
+      "title": "UPDF 编辑器一年版订阅",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "92.00"
+    },
+    "a5299b6b6e02a51c948d4c4248b3a93a6c16ca2e4ab700dcb5723953a0ead100": {
+      "product_url": "https://deals.iplaysoft.com/app/updf",
+      "product": "UPDF",
+      "option_id": "offer-110-Pbb4az",
+      "title": "UPDF 编辑器永久版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "180.00"
+    },
+    "efde91fb44f8507d186422ea710c6a3bd409db54bf95ad234f0771ee25866949": {
+      "product_url": "https://deals.iplaysoft.com/app/updf",
+      "product": "UPDF",
+      "option_id": "offer-119-ezVy0F",
+      "title": "UPDF Al 助手标准版 一年版 (非编辑器)",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "AI 助手",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "108.00"
+    },
+    "73b9f0aeb3821a1297daf5a0c3c435d512fc5634da1d0c303286f2e30c80cea0": {
+      "product_url": "https://deals.iplaysoft.com/app/adguard",
+      "product": "AdGuard",
+      "option_id": "offer-107-V7MAyb",
+      "title": "AdGuard 个人版永久授权 (3台)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "83.30"
+    },
+    "415c0ff8b5cc712c9ab07837e4c29a5502bc931ab872436cb1144d93bc104c73": {
+      "product_url": "https://deals.iplaysoft.com/app/adguard",
+      "product": "AdGuard",
+      "option_id": "offer-107-tx4ksQ",
+      "title": "AdGuard 个人版永久授权 (3台)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "258.00"
+    },
+    "625db6e6b6ca09d6773a3c2df232af9842ace379b71a81be9df7a38e267e7efa": {
+      "product_url": "https://deals.iplaysoft.com/app/adguard",
+      "product": "AdGuard",
+      "option_id": "offer-108-f0ZZ0Q",
+      "title": "AdGuard 家庭版永久终身版 (9台)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "209.30"
+    },
+    "3a2847bf859377ca10cf604efe833f7be752fcb5d9a409acaab1cea075d51952": {
+      "product_url": "https://deals.iplaysoft.com/app/adguard",
+      "product": "AdGuard",
+      "option_id": "offer-108-ba2cUo",
+      "title": "AdGuard 家庭版永久终身版 (9台)",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "598.00"
+    },
+    "e1e373fcad375050bc12bacec294cbda0ba475def3b47b3d179820b723cbbbfb": {
+      "product_url": "https://deals.iplaysoft.com/app/downie",
+      "product": "Downie",
+      "option_id": "offer-105-PRai2E",
+      "title": "Downie 永久终身版 (3台授权)",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "3 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "69.30"
+    },
+    "b427f2c49ecbbf282d79e3da2cbcc392e2fa9421bfebddf641e20059776ab234": {
+      "product_url": "https://deals.iplaysoft.com/app/downie",
+      "product": "Downie",
+      "option_id": "offer-106-teHrvE",
+      "title": "Downie 永久终身版 (3台授权) + Permute 套装",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "组合套装",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "116.00"
+    },
+    "71d54d1ed48e334506897a4443ea0eb26c0abaf0ba63269089f9eefd17349c44": {
+      "product_url": "https://deals.iplaysoft.com/app/idm",
+      "product": "IDM",
+      "option_id": "offer-123-Njf4H3",
+      "title": "IDM 一年版激活码 · 1 台",
+      "period": "/年",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "1 台"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "59.00"
+    },
+    "708beffdaa280adf5b2856faa6220e0a34f7a0192f2e72c075d3aa90231748a3": {
+      "product_url": "https://deals.iplaysoft.com/app/idm",
+      "product": "IDM",
+      "option_id": "offer-123-OIb1aC",
+      "title": "IDM 一年版激活码 · 1 台",
+      "period": "/年",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "授权设备",
+          "1 台"
+        ]
+      ],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "58.00"
+    },
+    "e2eb105924b5e75f27ce7625aca1e4ebdb973ef194baa197c77a6de809a25e70": {
+      "product_url": "https://deals.iplaysoft.com/app/idm",
+      "product": "IDM",
+      "option_id": "offer-124-TWzgnq",
+      "title": "IDM 永久版激活码 · 1 台",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "1 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "128.00"
+    },
+    "6bca959eb7763c2c190eda122137a0c4733bbc8e7202aaad71983c4f41dd418d": {
+      "product_url": "https://deals.iplaysoft.com/app/idm",
+      "product": "IDM",
+      "option_id": "offer-124-0GP6gz",
+      "title": "IDM 永久版激活码 · 1 台",
+      "period": "/买断",
+      "channel": "APSGO 软购",
+      "store": "APSGO 软购",
+      "specs": [
+        [
+          "授权设备",
+          "1 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "168.00"
+    },
+    "98dd1521bb2d3db517862bcab11a25f7688e101820e6e75be57d85d7d73cb0b6": {
+      "product_url": "https://deals.iplaysoft.com/app/eagle",
+      "product": "Eagle",
+      "option_id": "offer-111-12kEY7",
+      "title": "Eagle 双设备永久版",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [
+        [
+          "授权设备",
+          "2 台"
+        ],
+        [
+          "永久授权",
+          "是"
+        ]
+      ],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "229.00"
     }
   },
   "events": [
@@ -2344,7 +2977,238 @@
       "title": "[新增优惠] Fences 6 一年版订阅｜¥55.00/年",
       "link": "https://deals.iplaysoft.com/app/fences",
       "summary": "Fences；Fences 6 一年版订阅；¥55.00/年；APSGO 软购；APSGO 软购"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Listary Pro 单用户永久专业版｜¥68.60/买断",
+      "link": "https://deals.iplaysoft.com/app/listary",
+      "summary": "Listary Pro；Listary Pro 单用户永久专业版；¥68.60/买断；数码荔枝；数码荔枝；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Typora 永久版激活码 单用户 (3 台)｜¥80.10/买断",
+      "link": "https://deals.iplaysoft.com/app/typora",
+      "summary": "Typora；Typora 永久版激活码 单用户 (3 台)；¥80.10/买断；数码荔枝；数码荔枝；授权设备：3 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Process Lasso 专业版 单设备 永久版｜¥71.40/买断",
+      "link": "https://deals.iplaysoft.com/app/processlasso",
+      "summary": "Process Lasso；Process Lasso 专业版 单设备 永久版；¥71.40/买断；数码荔枝；数码荔枝；授权设备：1 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Process Lasso 专业版 5 设备 永久版｜¥95.40/买断",
+      "link": "https://deals.iplaysoft.com/app/processlasso",
+      "summary": "Process Lasso；Process Lasso 专业版 5 设备 永久版；¥95.40/买断；数码荔枝；数码荔枝；授权设备：5 台；永久授权：是；5台授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Sticky Password 高级版 (1年)｜¥68.00/年",
+      "link": "https://deals.iplaysoft.com/app/stickypassword",
+      "summary": "Sticky Password；Sticky Password 高级版 (1年)；¥68.00/年；APSGO 软购；APSGO 软购"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Sticky Password 高级版 (终身永久版)｜¥218.00/买断",
+      "link": "https://deals.iplaysoft.com/app/stickypassword",
+      "summary": "Sticky Password；Sticky Password 高级版 (终身永久版)；¥218.00/买断；APSGO 软购；APSGO 软购；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] XYplorer 永久使用版 (一年更新)｜¥65.40/买断",
+      "link": "https://deals.iplaysoft.com/app/xyplorer",
+      "summary": "XYplorer；XYplorer 永久使用版 (一年更新)；¥65.40/买断；数码荔枝；数码荔枝；永久授权：是"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] XYplorer 永久使用版 (一年更新)｜¥88.00/买断",
+      "link": "https://deals.iplaysoft.com/app/xyplorer",
+      "summary": "XYplorer；XYplorer 永久使用版 (一年更新)；¥88.00/买断；APSGO 软购；APSGO 软购；永久授权：是"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] XYplorer 永久使用版 (终身更新)｜¥137.40/买断",
+      "link": "https://deals.iplaysoft.com/app/xyplorer",
+      "summary": "XYplorer；XYplorer 永久使用版 (终身更新)；¥137.40/买断；数码荔枝；数码荔枝；永久授权：是；永久升级"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] XYplorer 永久使用版 (终身更新)｜¥148.00/买断",
+      "link": "https://deals.iplaysoft.com/app/xyplorer",
+      "summary": "XYplorer；XYplorer 永久使用版 (终身更新)；¥148.00/买断；APSGO 软购；APSGO 软购；永久授权：是；永久升级"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] PixPin 年度会员 VIP 年卡激活码｜¥52.50/年",
+      "link": "https://deals.iplaysoft.com/app/pixpin",
+      "summary": "PixPin；PixPin 年度会员 VIP 年卡激活码；¥52.50/年；数码荔枝；数码荔枝"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] PixPin 永久版会员 VIP 激活码｜¥156.00/买断",
+      "link": "https://deals.iplaysoft.com/app/pixpin",
+      "summary": "PixPin；PixPin 永久版会员 VIP 激活码；¥156.00/买断；数码荔枝；数码荔枝；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Mole 永久版激活码 (双设备)｜¥109.00/买断",
+      "link": "https://deals.iplaysoft.com/app/mole",
+      "summary": "Mole；Mole 永久版激活码 (双设备)；¥109.00/买断；数码荔枝；数码荔枝；授权设备：2 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Bandizip 专业版 (永久激活版)｜¥179.10/买断",
+      "link": "https://deals.iplaysoft.com/app/bandizip",
+      "summary": "Bandizip；Bandizip 专业版 (永久激活版)；¥179.10/买断；数码荔枝；数码荔枝；授权设备：5 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Bandizip 专业版 (永久激活版)｜¥178.00/买断",
+      "link": "https://deals.iplaysoft.com/app/bandizip",
+      "summary": "Bandizip；Bandizip 专业版 (永久激活版)；¥178.00/买断；APSGO 软购；APSGO 软购；授权设备：5 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Bandizip 专业版 + Honeycam 单用户版｜¥315.00/买断",
+      "link": "https://deals.iplaysoft.com/app/bandizip",
+      "summary": "Bandizip；Bandizip 专业版 + Honeycam 单用户版；¥315.00/买断；数码荔枝；数码荔枝；套装"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Bandizip 专业版 + Honeycam 单用户版｜¥348.00/买断",
+      "link": "https://deals.iplaysoft.com/app/bandizip",
+      "summary": "Bandizip；Bandizip 专业版 + Honeycam 单用户版；¥348.00/买断；APSGO 软购；APSGO 软购；套装"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] iStat Menus 单用户许可证 (1台)｜¥58.00/买断",
+      "link": "https://deals.iplaysoft.com/app/istatmenus",
+      "summary": "iStat Menus；iStat Menus 单用户许可证 (1台)；¥58.00/买断；APSGO 软购；APSGO 软购；授权设备：1 台；永久授权：是"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] iStat Menus 家庭版许可证 (5台)｜¥78.00/买断",
+      "link": "https://deals.iplaysoft.com/app/istatmenus",
+      "summary": "iStat Menus；iStat Menus 家庭版许可证 (5台)；¥78.00/买断；APSGO 软购；APSGO 软购；授权设备：5 台；永久授权：是"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] UPDF 编辑器一年版订阅｜¥92.00/年",
+      "link": "https://deals.iplaysoft.com/app/updf",
+      "summary": "UPDF；UPDF 编辑器一年版订阅；¥92.00/年；数码荔枝；数码荔枝"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] UPDF 编辑器永久版｜¥180.00/买断",
+      "link": "https://deals.iplaysoft.com/app/updf",
+      "summary": "UPDF；UPDF 编辑器永久版；¥180.00/买断；数码荔枝；数码荔枝；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] UPDF Al 助手标准版 一年版 (非编辑器)｜¥108.00/年",
+      "link": "https://deals.iplaysoft.com/app/updf",
+      "summary": "UPDF；UPDF Al 助手标准版 一年版 (非编辑器)；¥108.00/年；数码荔枝；数码荔枝；AI 助手"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] AdGuard 个人版永久授权 (3台)｜¥83.30/买断",
+      "link": "https://deals.iplaysoft.com/app/adguard",
+      "summary": "AdGuard；AdGuard 个人版永久授权 (3台)；¥83.30/买断；数码荔枝；数码荔枝；终身激活"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] AdGuard 个人版永久授权 (3台)｜¥258.00/买断",
+      "link": "https://deals.iplaysoft.com/app/adguard",
+      "summary": "AdGuard；AdGuard 个人版永久授权 (3台)；¥258.00/买断；APSGO 软购；APSGO 软购；终身激活"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] AdGuard 家庭版永久终身版 (9台)｜¥209.30/买断",
+      "link": "https://deals.iplaysoft.com/app/adguard",
+      "summary": "AdGuard；AdGuard 家庭版永久终身版 (9台)；¥209.30/买断；数码荔枝；数码荔枝；终身激活"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] AdGuard 家庭版永久终身版 (9台)｜¥598.00/买断",
+      "link": "https://deals.iplaysoft.com/app/adguard",
+      "summary": "AdGuard；AdGuard 家庭版永久终身版 (9台)；¥598.00/买断；APSGO 软购；APSGO 软购；终身激活"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Downie 永久终身版 (3台授权)｜¥69.30/买断",
+      "link": "https://deals.iplaysoft.com/app/downie",
+      "summary": "Downie；Downie 永久终身版 (3台授权)；¥69.30/买断；数码荔枝；数码荔枝；授权设备：3 台；永久授权：是；终身激活"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Downie 永久终身版 (3台授权) + Permute 套装｜¥116.00/买断",
+      "link": "https://deals.iplaysoft.com/app/downie",
+      "summary": "Downie；Downie 永久终身版 (3台授权) + Permute 套装；¥116.00/买断；数码荔枝；数码荔枝；组合套装"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] IDM 一年版激活码 · 1 台｜¥59.00/年",
+      "link": "https://deals.iplaysoft.com/app/idm",
+      "summary": "IDM；IDM 一年版激活码 · 1 台；¥59.00/年；数码荔枝；数码荔枝；授权设备：1 台"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] IDM 一年版激活码 · 1 台｜¥58.00/年",
+      "link": "https://deals.iplaysoft.com/app/idm",
+      "summary": "IDM；IDM 一年版激活码 · 1 台；¥58.00/年；APSGO 软购；APSGO 软购；授权设备：1 台"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] IDM 永久版激活码 · 1 台｜¥128.00/买断",
+      "link": "https://deals.iplaysoft.com/app/idm",
+      "summary": "IDM；IDM 永久版激活码 · 1 台；¥128.00/买断；数码荔枝；数码荔枝；授权设备：1 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] IDM 永久版激活码 · 1 台｜¥168.00/买断",
+      "link": "https://deals.iplaysoft.com/app/idm",
+      "summary": "IDM；IDM 永久版激活码 · 1 台；¥168.00/买断；APSGO 软购；APSGO 软购；授权设备：1 台；永久授权：是；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-07T15:34:59.666216+00:00",
+      "title": "[新增优惠] Eagle 双设备永久版｜¥229.00/买断",
+      "link": "https://deals.iplaysoft.com/app/eagle",
+      "summary": "Eagle；Eagle 双设备永久版；¥229.00/买断；数码荔枝；数码荔枝；授权设备：2 台；永久授权：是；终身授权"
     }
   ],
-  "feed_sha256": "a879288ae8332acfc6e6c87ccd1ceaed8c36c26aee3365012741adb850431dcd"
+  "feed_sha256": "35cd098638be7ef5a588f5f6021646b06ee72b38beb8d9fb9ef4e7c952581d4f"
 }
