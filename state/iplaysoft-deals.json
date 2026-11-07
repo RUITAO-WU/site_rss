@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-07T15:34:59.666216+00:00",
+  "last_success": "2026-11-07T21:45:53.816134+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -3210,5 +3210,5 @@
       "summary": "Eagle；Eagle 双设备永久版；¥229.00/买断；数码荔枝；数码荔枝；授权设备：2 台；永久授权：是；终身授权"
     }
   ],
-  "feed_sha256": "35cd098638be7ef5a588f5f6021646b06ee72b38beb8d9fb9ef4e7c952581d4f"
+  "feed_sha256": "474fe6f3c0c3c7b25d6f95f17db98227839dd7b10fc9cfa9633c0cf87b357893"
 }
