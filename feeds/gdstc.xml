@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-08T21:58:56.128320+00:00</updated>
+  <updated>2026-11-09T19:39:37.841197+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:56b204231f85355f29fe70a80c9abd4ccac5232598b37dc97fc061d8a4360d5a</id>
+    <title>广东省科学技术厅关于转发国家重点研发计划颠覆性技术创新重点专项2026年度项目申报指引的通知</title>
+    <updated>2026-11-09T19:39:29.141349+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4976557.html"/>
+    <published>2026-11-09T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:cb4fc16556b59de0ad6901525533463aa6269e9157481befa37c13c51cfbc833</id>
     <title>关于广东省2026年第七批完成异地搬迁高新技术企业的公告</title>
