@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-10T16:55:51.828578+00:00</updated>
+  <updated>2026-11-10T23:15:23.225292+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:98</id>
+    <title>[降价] 喜马拉雅儿童会员 VIP 年卡｜¥198.00 → ¥164.00/年</title>
+    <updated>2026-11-10T23:15:23.223320+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/xmly"/>
+    <summary>同一方案上次成功观测报价 ¥198.00/年，本次 ¥164.00/年。喜马拉雅；喜马拉雅儿童会员 VIP 年卡；¥164.00/年；京东旗舰店；喜马拉雅儿童旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-10T23:15:23.223320+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:97</id>
     <title>[降价] WPS 大会员 (支持 AI) 年卡｜¥248.00 → ¥238.00/年</title>
