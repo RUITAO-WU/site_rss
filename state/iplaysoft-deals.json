@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-09T19:40:46.310283+00:00",
+  "last_success": "2026-11-10T16:55:51.826479+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -243,7 +243,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "143.00"
+      "price": "138.00"
     },
     "8049ca23947b7c12cd1bb76b47a8cf5f5b4c38e94ac0c7a9ea3562972216889b": {
       "product_url": "https://deals.iplaysoft.com/bundle/wps-jd",
@@ -898,7 +898,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "548.00"
+      "price": "558.00"
     },
     "7fed33c9ce6f3bab848cc6521e8492bc80fea40f2589e1f6cfd7b8dc03b1f69d": {
       "product_url": "https://deals.iplaysoft.com/vip/keep",
@@ -1028,7 +1028,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "164.00"
+      "price": "198.00"
     },
     "4f03dd342e642b8874836897bdfa6f449d84183728370a87eefa2a19bf5c3cfc": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1048,7 +1048,7 @@
       "note": "海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间",
       "device": "none",
       "kind": "link",
-      "price": "123.00"
+      "price": "118.00"
     },
     "a7934bd2f55f1ddcee8173d908774d26265fb4afd54cc94058815ff963973485": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1063,7 +1063,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "348.00"
+      "price": "338.00"
     },
     "dbe84c5fd95d3fb95732148a2357e75431cd58dcf821e7899d88872af3eb3724": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1083,7 +1083,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "248.00"
+      "price": "238.00"
     },
     "09a5bec1726272bd31259ac7e3d5f67f2986839e1d8bb0e2e41998ceae03ff80": {
       "product_url": "https://deals.iplaysoft.com/bundle/mgtv-jd",
@@ -3222,7 +3222,35 @@
       "title": "[降价] Apple 苹果 iCloud+ 订阅 2TB 空间年卡｜¥816.00 → ¥693.60/年",
       "link": "https://deals.iplaysoft.com/vip/icloud",
       "summary": "同一方案上次成功观测报价 ¥816.00/年，本次 ¥693.60/年。iCloud+；Apple 苹果 iCloud+ 订阅 2TB 空间年卡；¥693.60/年；京东旗舰店；Apple产品京东自营旗舰店；店铺类型由编辑标记，不代表本站认证；支持家庭共享"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-10T16:55:51.826479+00:00",
+      "title": "[降价] WPS 超级会员 + 京东 PLUS 年卡｜¥143.00 → ¥138.00/年",
+      "link": "https://deals.iplaysoft.com/bundle/wps-jd",
+      "summary": "同一方案上次成功观测报价 ¥143.00/年，本次 ¥138.00/年。WPS × 京东 PLUS；WPS 超级会员 + 京东 PLUS 年卡；¥138.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；买一得二"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-10T16:55:51.826479+00:00",
+      "title": "[降价] WPS 超级会员 1 年卡｜¥123.00 → ¥118.00/年",
+      "link": "https://deals.iplaysoft.com/vip/wps",
+      "summary": "同一方案上次成功观测报价 ¥123.00/年，本次 ¥118.00/年。WPS；WPS 超级会员 1 年卡；¥118.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：超级会员；多送3个月；海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-10T16:55:51.826479+00:00",
+      "title": "[降价] WPS 超级会员 4 年卡｜¥348.00 → ¥338.00/4年",
+      "link": "https://deals.iplaysoft.com/vip/wps",
+      "summary": "同一方案上次成功观测报价 ¥348.00/4年，本次 ¥338.00/4年。WPS；WPS 超级会员 4 年卡；¥338.00/4年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-10T16:55:51.826479+00:00",
+      "title": "[降价] WPS 大会员 (支持 AI) 年卡｜¥248.00 → ¥238.00/年",
+      "link": "https://deals.iplaysoft.com/vip/wps",
+      "summary": "同一方案上次成功观测报价 ¥248.00/年，本次 ¥238.00/年。WPS；WPS 大会员 (支持 AI) 年卡；¥238.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：大会员 (支持 AI)；支持 AI"
     }
   ],
-  "feed_sha256": "984cb9719cd2dae5c60d7fb0315998212474b667ce6917d5df80ab6e78442c21"
+  "feed_sha256": "4aec193906dc2098410713c53d20079d6c3b2db77828a4015bc2b6f6293ccf56"
 }

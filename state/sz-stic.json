@@ -2,12 +2,14 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-11-09T19:42:37.393862+00:00",
+  "last_success": "2026-11-10T16:58:49.062151+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13060931",
+    "post:13059826",
     "post:13055653",
     "post:13053788",
     "post:13053676",
@@ -21,11 +23,23 @@
     "post:13043597",
     "post:13039371",
     "post:13039353",
-    "post:13034308",
-    "post:13032458",
-    "post:13029716"
+    "post:13034308"
   ],
   "entries": [
+    {
+      "key": "post:13060931",
+      "title": "深圳市科技创新局关于公示2024-2025年度深圳市大型科研仪器开放共享服务考核评价结果的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13060931.html",
+      "published": "2026-11-10T00:00:00+08:00",
+      "first_seen": "2026-11-10T16:58:49.062151+00:00"
+    },
+    {
+      "key": "post:13059826",
+      "title": "深圳市科技创新局关于2025年度深圳鲲鹏青年创业项目拟资助项目的公示",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13059826.html",
+      "published": "2026-11-10T00:00:00+08:00",
+      "first_seen": "2026-11-10T16:58:49.062151+00:00"
+    },
     {
       "key": "post:13055653",
       "title": "深圳市科技创新局关于2025年度深圳市科研机构实验技术人才高级职称评审委员会评审通过人员的公示",
@@ -272,5 +286,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "843373a9b44105c24e9fc9ef416427a0009ac8863d302fa4b6c5707a3ddb7238"
+  "feed_sha256": "79e78ec16554e6f4f6e0743398c31fc64d0cbf115ef58d0a1612fe8f8b71de32"
 }

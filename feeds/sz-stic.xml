@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-11-09T19:42:41.197457+00:00</updated>
+  <updated>2026-11-10T16:59:03.505254+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:bab9b0b6e388c5d6d2e25cdf1f876f43836d217254cbf30b6ba2f3a2584bebaa</id>
+    <title>深圳市科技创新局关于公示2024-2025年度深圳市大型科研仪器开放共享服务考核评价结果的通知</title>
+    <updated>2026-11-10T16:58:49.062151+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13060931.html"/>
+    <published>2026-11-10T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:a9ca825f10d51f75c73a79e25d2b52dc960765daa2af1eb7404598505fb98d6f</id>
+    <title>深圳市科技创新局关于2025年度深圳鲲鹏青年创业项目拟资助项目的公示</title>
+    <updated>2026-11-10T16:58:49.062151+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13059826.html"/>
+    <published>2026-11-10T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:33574330abba6052c59a85c001d89f8a160c9a3db66b6ba4e6ac124bbbdfd431</id>
     <title>深圳市科技创新局关于2025年度深圳市科研机构实验技术人才高级职称评审委员会评审通过人员的公示</title>
