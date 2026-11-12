@@ -2,7 +2,7 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-11-12T17:31:43.036974+00:00",
+  "last_success": "2026-11-12T23:34:32.157014+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
@@ -293,5 +293,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "027d671c45ba6cdab887b450caf55d15a76d8c3ef2147d74f7765a6ffdce4a82"
+  "feed_sha256": "f931e02bdb42755cf9d8a7601b4b32f22da09e15a68d912ac1f0c523b772ced0"
 }
