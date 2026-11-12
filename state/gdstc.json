@@ -2,7 +2,7 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-11T16:59:11.318845+00:00",
+  "last_success": "2026-11-12T00:35:00.942866+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
@@ -342,5 +342,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "2b48659169753769ff9d48af206184ed5b2d74cf5c7c28544677c91205c81fa4"
+  "feed_sha256": "30bf37ed347c19e6e94cd8c0343f61ddc6ec870fbed30343327348fc1141fb48"
 }
