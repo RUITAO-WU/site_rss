@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-12T00:35:05.175558+00:00</updated>
+  <updated>2026-11-12T17:28:00.103405+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:ead457b72ac9ed2d52de5fcafa6bdfafd35ce004ff9be6c4dc7f6d4b2f2a1001</id>
+    <title>广东省科学技术厅关于广东省2026年第四批入库科技型中小企业的公告</title>
+    <updated>2026-11-12T17:27:50.404827+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4979638.html"/>
+    <published>2026-11-12T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:7c5d121aaf4ebe6ec301e16fcc92876e4bf3ec36cd4969481bdcf8da45a89e93</id>
     <title>承接省级科技计划项目验收审计服务会计师事务所备案名单（截至2026年11月6日）</title>

@@ -2,10 +2,11 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-12T00:35:00.942866+00:00",
+  "last_success": "2026-11-12T17:27:50.404827+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4979638",
     "post:4977403",
     "post:4977393",
     "post:4976557",
@@ -22,10 +23,16 @@
     "post:4970293",
     "post:4970159",
     "post:4970072",
-    "post:4969628",
-    "post:4969611"
+    "post:4969628"
   ],
   "entries": [
+    {
+      "key": "post:4979638",
+      "title": "广东省科学技术厅关于广东省2026年第四批入库科技型中小企业的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4979638.html",
+      "published": "2026-11-12T00:00:00+08:00",
+      "first_seen": "2026-11-12T17:27:50.404827+00:00"
+    },
     {
       "key": "post:4977403",
       "title": "承接省级科技计划项目验收审计服务会计师事务所备案名单（截至2026年11月6日）",
@@ -342,5 +349,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "30bf37ed347c19e6e94cd8c0343f61ddc6ec870fbed30343327348fc1141fb48"
+  "feed_sha256": "18fdeba163984230e5ea90753c99fd4cc3a8f31420e10719683b904ae6de9ee0"
 }
