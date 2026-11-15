@@ -2,13 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-11-12T23:34:36.954888+00:00</updated>
+  <updated>2026-11-15T04:13:08.898474+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:56aad3d6cf0e249f665b3cf63cf668947e19fca3853d793a6fab83c438f9c705</id>
+    <title>深圳市科技创新局关于转发《深圳市科技创新局科技计划项目审计服务框架协议采购项目征集公告》的通知</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://kjcg.szggzy.com/gpfa-main-web/basic/noticeDetail?kcId=8a988463a0c361e601a1c9fb055501dc"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:ea8c68dcc60e430327e819b5e262917c54feaec2629b61e37da8878e62032311</id>
+    <title>深圳市科技创新局关于2026年度基础研究专项自然科学基金计划面上项目拟资助项目的公示</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13067081.html"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:eb541838f6b3318ab3a90eaf4874ab266d7ede38d60517f9fefd0f6c67b4ac8f</id>
+    <title>深圳鲲鹏青年创新创业项目第三方评价机构遴选结果公示</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13066042.html"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:2f92adee704989013c3540a0b3f9a244a534150cd3e74759e8716e272faaaa80</id>
+    <title>深圳市科技创新局关于深圳市高新技术企业联合总部大厦2026年第6批创新型产业用房租赁结果的公布</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13065071.html"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:ea4f18ad237286d1a22dc1c62c53499c744e72e6f0427836a8e3a910705b233f</id>
+    <title>深圳市科技创新局关于软件大厦2026年第6批创新型产业用房租赁结果的公布</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13065068.html"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:a525e0cd1c505c8f9153ed828c993abb385a31335a85205b1c072d2878648ba2</id>
+    <title>深圳市科技创新局关于深圳市高新技术企业联合总部大厦2026年第5批创新型产业用房租赁结果的公布</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13064961.html"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:3676251ea34e02b42b751cfbefa9b842592ffc2718c1452c9eee2bf1864df400</id>
+    <title>深圳市科技创新局关于软件大厦2026年第5批创新型产业用房租赁结果的公布</title>
+    <updated>2026-11-15T04:12:56.245870+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13064959.html"/>
+    <published>2026-11-13T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:73aa77b1eab3ecb43348f5f986335d7e82c612f0f5257adb5c29b0c828d2ad7d</id>
     <title>深圳市科技创新局关于2025年度深圳虚拟大学园公益指数运行评价等级A级机构的通报</title>

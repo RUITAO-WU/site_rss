@@ -2,12 +2,19 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-11-12T23:34:32.157014+00:00",
+  "last_success": "2026-11-15T04:12:56.245870+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13067081",
+    "post:13066042",
+    "url:https://kjcg.szggzy.com/gpfa-main-web/basic/noticeDetail?kcId=8a988463a0c361e601a1c9fb055501dc",
+    "post:13065071",
+    "post:13065068",
+    "post:13064961",
+    "post:13064959",
     "post:13061747",
     "post:13060931",
     "post:13059826",
@@ -16,16 +23,58 @@
     "post:13053676",
     "post:13051750",
     "post:13050814",
-    "post:13048021",
-    "post:13047544",
-    "post:13044637",
-    "post:13044188",
-    "post:13043609",
-    "post:13043597",
-    "post:13039371",
-    "post:13039353"
+    "post:13048021"
   ],
   "entries": [
+    {
+      "key": "url:https://kjcg.szggzy.com/gpfa-main-web/basic/noticeDetail?kcId=8a988463a0c361e601a1c9fb055501dc",
+      "title": "深圳市科技创新局关于转发《深圳市科技创新局科技计划项目审计服务框架协议采购项目征集公告》的通知",
+      "link": "https://kjcg.szggzy.com/gpfa-main-web/basic/noticeDetail?kcId=8a988463a0c361e601a1c9fb055501dc",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
+    {
+      "key": "post:13067081",
+      "title": "深圳市科技创新局关于2026年度基础研究专项自然科学基金计划面上项目拟资助项目的公示",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13067081.html",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
+    {
+      "key": "post:13066042",
+      "title": "深圳鲲鹏青年创新创业项目第三方评价机构遴选结果公示",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13066042.html",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
+    {
+      "key": "post:13065071",
+      "title": "深圳市科技创新局关于深圳市高新技术企业联合总部大厦2026年第6批创新型产业用房租赁结果的公布",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13065071.html",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
+    {
+      "key": "post:13065068",
+      "title": "深圳市科技创新局关于软件大厦2026年第6批创新型产业用房租赁结果的公布",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13065068.html",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
+    {
+      "key": "post:13064961",
+      "title": "深圳市科技创新局关于深圳市高新技术企业联合总部大厦2026年第5批创新型产业用房租赁结果的公布",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13064961.html",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
+    {
+      "key": "post:13064959",
+      "title": "深圳市科技创新局关于软件大厦2026年第5批创新型产业用房租赁结果的公布",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13064959.html",
+      "published": "2026-11-13T00:00:00+08:00",
+      "first_seen": "2026-11-15T04:12:56.245870+00:00"
+    },
     {
       "key": "post:13061747",
       "title": "深圳市科技创新局关于2025年度深圳虚拟大学园公益指数运行评价等级A级机构的通报",
@@ -293,5 +342,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "f931e02bdb42755cf9d8a7601b4b32f22da09e15a68d912ac1f0c523b772ced0"
+  "feed_sha256": "eb68fa51b65af6f67d909998c6ffd913009e3be5b24c55b5747316070a717062"
 }

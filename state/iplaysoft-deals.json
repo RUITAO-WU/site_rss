@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-14T14:45:36.225950+00:00",
+  "last_success": "2026-11-15T04:10:57.460466+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -308,7 +308,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "198.00"
+      "price": "223.00"
     },
     "8cd9613349a46ffb56136764d3254d3983ad9b5145487ba88a2dffd364113470": {
       "product_url": "https://deals.iplaysoft.com/vip/jdplus",
@@ -383,7 +383,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "144.00"
+      "price": "148.00"
     },
     "9adcce16f76c87396d2c1ff3064306bb145d2e50cd9c3dd7c5b7076b343fac00": {
       "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
@@ -898,7 +898,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "558.00"
+      "price": "598.00"
     },
     "7fed33c9ce6f3bab848cc6521e8492bc80fea40f2589e1f6cfd7b8dc03b1f69d": {
       "product_url": "https://deals.iplaysoft.com/vip/keep",
@@ -1048,7 +1048,7 @@
       "note": "海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间",
       "device": "none",
       "kind": "link",
-      "price": "138.00"
+      "price": "123.00"
     },
     "a7934bd2f55f1ddcee8173d908774d26265fb4afd54cc94058815ff963973485": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1063,7 +1063,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "398.00"
+      "price": "348.00"
     },
     "dbe84c5fd95d3fb95732148a2357e75431cd58dcf821e7899d88872af3eb3724": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -3292,7 +3292,21 @@
       "title": "[降价] 美图秀秀粉钻 SVIP 超级会员年卡｜¥218.00 → ¥168.00/年",
       "link": "https://deals.iplaysoft.com/vip/meitu",
       "summary": "同一方案上次成功观测报价 ¥218.00/年，本次 ¥168.00/年。美图秀秀；美图秀秀粉钻 SVIP 超级会员年卡；¥168.00/年；京东旗舰店；美图（meitu）官方旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：SVIP 超级会员"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-15T04:10:57.460466+00:00",
+      "title": "[降价] WPS 超级会员 1 年卡｜¥138.00 → ¥123.00/年",
+      "link": "https://deals.iplaysoft.com/vip/wps",
+      "summary": "同一方案上次成功观测报价 ¥138.00/年，本次 ¥123.00/年。WPS；WPS 超级会员 1 年卡；¥123.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：超级会员；多送3个月；海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-15T04:10:57.460466+00:00",
+      "title": "[降价] WPS 超级会员 4 年卡｜¥398.00 → ¥348.00/4年",
+      "link": "https://deals.iplaysoft.com/vip/wps",
+      "summary": "同一方案上次成功观测报价 ¥398.00/4年，本次 ¥348.00/4年。WPS；WPS 超级会员 4 年卡；¥348.00/4年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证"
     }
   ],
-  "feed_sha256": "13d593ab84b6ac4b2cb9ba2e3e534eea1d107b3f15d93b92c8aa635cc2d1152d"
+  "feed_sha256": "758d42917d025566a5c3fd2dbd8d2e4563d8d69b250826f214d66237148533f7"
 }
