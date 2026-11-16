@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-15T15:16:09.967653+00:00</updated>
+  <updated>2026-11-16T07:48:51.154807+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:111</id>
+    <title>[降价] WPS 大会员 (支持 AI) 年卡｜¥268.00 → ¥248.00/年</title>
+    <updated>2026-11-16T07:48:51.153010+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/wps"/>
+    <summary>同一方案上次成功观测报价 ¥268.00/年，本次 ¥248.00/年。WPS；WPS 大会员 (支持 AI) 年卡；¥248.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：大会员 (支持 AI)；支持 AI</summary>
+    <published>2026-11-16T07:48:51.153010+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:110</id>
+    <title>[降价] WPS 超级会员 1 年卡｜¥138.00 → ¥123.00/年</title>
+    <updated>2026-11-16T07:48:51.153010+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/wps"/>
+    <summary>同一方案上次成功观测报价 ¥138.00/年，本次 ¥123.00/年。WPS；WPS 超级会员 1 年卡；¥123.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：超级会员；多送3个月；海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间</summary>
+    <published>2026-11-16T07:48:51.153010+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:109</id>
+    <title>[降价] 夸克网盘 SVIP 超级会员 2 年卡｜¥223.00 → ¥198.00/2年</title>
+    <updated>2026-11-16T07:48:51.153010+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/quark"/>
+    <summary>同一方案上次成功观测报价 ¥223.00/2年，本次 ¥198.00/2年。夸克网盘；夸克网盘 SVIP 超级会员 2 年卡；¥198.00/2年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；加赠30天 + Keep双月卡</summary>
+    <published>2026-11-16T07:48:51.153010+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:108</id>
+    <title>[降价] 夸克网盘 SVIP 超级会员年卡｜¥123.00 → ¥110.00/年</title>
+    <updated>2026-11-16T07:48:51.153010+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/quark"/>
+    <summary>同一方案上次成功观测报价 ¥123.00/年，本次 ¥110.00/年。夸克网盘；夸克网盘 SVIP 超级会员年卡；¥110.00/年；淘宝旗舰店；夸克官方旗舰店；店铺类型由编辑标记，不代表本站认证；加赠14天卡</summary>
+    <published>2026-11-16T07:48:51.153010+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:107</id>
+    <title>[降价] WPS 超级会员 3 年卡 + 京东 PLUS 1 年｜¥298.00 → ¥268.00/3年</title>
+    <updated>2026-11-16T07:48:51.153010+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/wps-jd"/>
+    <summary>同一方案上次成功观测报价 ¥298.00/3年，本次 ¥268.00/3年。WPS × 京东 PLUS；WPS 超级会员 3 年卡 + 京东 PLUS 1 年；¥268.00/3年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-16T07:48:51.153010+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:106</id>
+    <title>[降价] WPS 超级会员 + 京东 PLUS 年卡｜¥158.00 → ¥143.00/年</title>
+    <updated>2026-11-16T07:48:51.153010+00:00</updated>
+    <link href="https://deals.iplaysoft.com/bundle/wps-jd"/>
+    <summary>同一方案上次成功观测报价 ¥158.00/年，本次 ¥143.00/年。WPS × 京东 PLUS；WPS 超级会员 + 京东 PLUS 年卡；¥143.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；买一得二</summary>
+    <published>2026-11-16T07:48:51.153010+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:105</id>
     <title>[降价] WPS 超级会员 4 年卡｜¥398.00 → ¥348.00/4年</title>
