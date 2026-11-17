@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-16T07:48:51.154807+00:00</updated>
+  <updated>2026-11-17T01:37:38.785207+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:116</id>
+    <title>[新增优惠] AdGuard 家庭版永久终身版 (9台)｜USD 14.97/买断</title>
+    <updated>2026-11-17T01:37:38.783316+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/adguard"/>
+    <summary>AdGuard；AdGuard 家庭版永久终身版 (9台)；USD 14.97/买断；StackSocial；StackSocial；终身激活</summary>
+    <published>2026-11-17T01:37:38.783316+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:115</id>
+    <title>[新增优惠] AdGuard 个人版永久授权 (3台)｜USD 11.00/买断</title>
+    <updated>2026-11-17T01:37:38.783316+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/adguard"/>
+    <summary>AdGuard；AdGuard 个人版永久授权 (3台)；USD 11.00/买断；StackSocial；StackSocial；终身激活</summary>
+    <published>2026-11-17T01:37:38.783316+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:114</id>
+    <title>[新增优惠] [电视端] 哔哩超级大会员12个月年卡｜¥238.00/年</title>
+    <updated>2026-11-17T01:37:38.783316+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/bilibili"/>
+    <summary>哔哩哔哩 (B站)；[电视端] 哔哩超级大会员12个月年卡；¥238.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证；支持电视端</summary>
+    <published>2026-11-17T01:37:38.783316+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:113</id>
+    <title>[新增优惠] 哔哩哔哩大会员12个月年卡｜¥168.00/年</title>
+    <updated>2026-11-17T01:37:38.783316+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/bilibili"/>
+    <summary>哔哩哔哩 (B站)；哔哩哔哩大会员12个月年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-17T01:37:38.783316+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:112</id>
+    <title>[新增优惠] 百度网盘超级会员 SVIP 年卡｜¥218.00/年</title>
+    <updated>2026-11-17T01:37:38.783316+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/baiduwangpan"/>
+    <summary>百度网盘；百度网盘超级会员 SVIP 年卡；¥218.00/年；京东旗舰店；百度网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：超级会员 SVIP；百度云盘官方直充</summary>
+    <published>2026-11-17T01:37:38.783316+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:111</id>
     <title>[降价] WPS 大会员 (支持 AI) 年卡｜¥268.00 → ¥248.00/年</title>

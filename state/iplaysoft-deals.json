@@ -1,9 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-16T07:48:51.153010+00:00",
+  "last_success": "2026-11-17T01:37:38.783316+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -18,7 +18,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "176.00"
+      "price": "176.00",
+      "currency": "CNY"
     },
     "037b08509db39a92414f5af7b13ba1bf3445f17edfb6d9ae267f04a265d15e5b": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -38,7 +39,8 @@
       "note": "百度云盘官方直充",
       "device": "none",
       "kind": "link",
-      "price": "218.00"
+      "price": "218.00",
+      "currency": "CNY"
     },
     "4cef619b499cbe30ab99e88b5c1dd0869a33e53cd5fb052530666168648bb10e": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -53,7 +55,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": null
+      "price": "148.00",
+      "currency": "CNY"
     },
     "30434115fdf1193b72f04726cc8de70a74310696799e29cb5c2741a3b7f548c6": {
       "product_url": "https://deals.iplaysoft.com/bundle/bilibili-jd",
@@ -68,7 +71,8 @@
       "note": "填手机号充值",
       "device": "none",
       "kind": "link",
-      "price": "148.00"
+      "price": "148.00",
+      "currency": "CNY"
     },
     "4109986aed0291cbd6df27db1c7019f8993898e719446af093e0d29025260444": {
       "product_url": "https://deals.iplaysoft.com/bundle/neteasemusic-jd",
@@ -83,7 +87,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "198.00"
+      "price": "198.00",
+      "currency": "CNY"
     },
     "2712018db751926de4a59c99383d934d8908eb8d5a3050b57e7205d96b03dd0a": {
       "product_url": "https://deals.iplaysoft.com/bundle/iqiyi-jd",
@@ -98,7 +103,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "909e834f76bebd2c6058d156d4cda94701fecd9253e90c8c9f50228e78267043": {
       "product_url": "https://deals.iplaysoft.com/bundle/iqiyi-jd",
@@ -118,7 +124,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "248.00"
+      "price": "248.00",
+      "currency": "CNY"
     },
     "50d924ea57db0f2bde7de119713ce891755bb0690b9f3c257a8676c5452f35e2": {
       "product_url": "https://deals.iplaysoft.com/vip/xunlei",
@@ -138,7 +145,8 @@
       "note": "超级加速通道 、12TB 空间",
       "device": "none",
       "kind": "link",
-      "price": "159.00"
+      "price": "159.00",
+      "currency": "CNY"
     },
     "39836a5491dc56cbba2f1e09c796f91d4b35b94ad13cd9ef4369ef99214f0d7c": {
       "product_url": "https://deals.iplaysoft.com/vip/xunlei",
@@ -153,7 +161,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "298.00"
+      "price": "298.00",
+      "currency": "CNY"
     },
     "ca47ecd3b7e23b77927b49178dce764107edf2a72803b42e0dbfcfb810feabbe": {
       "product_url": "https://deals.iplaysoft.com/vip/tencentvideo",
@@ -168,7 +177,8 @@
       "note": "适用于手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "178.00"
+      "price": "178.00",
+      "currency": "CNY"
     },
     "541e58a323663690043750ee656c99976906b4182e505969cb7e31fa0993eb66": {
       "product_url": "https://deals.iplaysoft.com/vip/tencentvideo",
@@ -188,7 +198,8 @@
       "note": "适用于电视、手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "238.00"
+      "price": "238.00",
+      "currency": "CNY"
     },
     "1229431b1fd6935f40c1dd201fcad43dd2eabc2400dd5f3eea5276dd94517d47": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -208,7 +219,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "75.00"
+      "price": "75.00",
+      "currency": "CNY"
     },
     "dd246c18dcfa50bf99c27d9b087c58cd8e3770b134bce7fff74d2e29fc85ab3a": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -228,7 +240,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "200.00"
+      "price": "200.00",
+      "currency": "CNY"
     },
     "73f48296ad8eae30c6bc385ad1f49082f6f52f595b5426b251f7f3537258a7ce": {
       "product_url": "https://deals.iplaysoft.com/bundle/wps-jd",
@@ -243,7 +256,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "143.00"
+      "price": "143.00",
+      "currency": "CNY"
     },
     "8049ca23947b7c12cd1bb76b47a8cf5f5b4c38e94ac0c7a9ea3562972216889b": {
       "product_url": "https://deals.iplaysoft.com/bundle/wps-jd",
@@ -258,7 +272,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "268.00"
+      "price": "268.00",
+      "currency": "CNY"
     },
     "ab6842aa0bdaab740780e3c80885eedc928784b38dbec57a11e547968379205d": {
       "product_url": "https://deals.iplaysoft.com/bundle/wps-jd",
@@ -278,7 +293,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "438.00"
+      "price": "438.00",
+      "currency": "CNY"
     },
     "af9235854951b066fd8f61da587ff2ad7681eaed3ccce59ae8477e07e72ad1c5": {
       "product_url": "https://deals.iplaysoft.com/vip/quark",
@@ -293,7 +309,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "110.00"
+      "price": "110.00",
+      "currency": "CNY"
     },
     "d936983d136e8feb2d72e36c55b03766f5a7a700f8a28633c5dc3ae6ee156c0e": {
       "product_url": "https://deals.iplaysoft.com/vip/quark",
@@ -308,7 +325,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "198.00"
+      "price": "198.00",
+      "currency": "CNY"
     },
     "8cd9613349a46ffb56136764d3254d3983ad9b5145487ba88a2dffd364113470": {
       "product_url": "https://deals.iplaysoft.com/vip/jdplus",
@@ -323,7 +341,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "99.00"
+      "price": "99.00",
+      "currency": "CNY"
     },
     "2e066f6bd556577840732753b2c13d4d3726887d7d4966ff74cc3a58d6c2f505": {
       "product_url": "https://deals.iplaysoft.com/vip/bilibili",
@@ -338,7 +357,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "69931c8018d0b83654a002e300b730cfaa7acf3dce22f5d7b923ce47a03f8f46": {
       "product_url": "https://deals.iplaysoft.com/vip/bilibili",
@@ -353,7 +373,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "238.00"
+      "price": "238.00",
+      "currency": "CNY"
     },
     "9098c6a7add8679e085ad8ba05ff24bdcb5e295dc3ca981713c33e8f74ba2b41": {
       "product_url": "https://deals.iplaysoft.com/bundle/xmly-jd",
@@ -368,7 +389,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "158.00"
+      "price": "158.00",
+      "currency": "CNY"
     },
     "00b7d85382e1c2e3541d631a862f1537c4036970a63e9804b1365d6ff4ca5e80": {
       "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
@@ -383,7 +405,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "148.00"
+      "price": "148.00",
+      "currency": "CNY"
     },
     "9adcce16f76c87396d2c1ff3064306bb145d2e50cd9c3dd7c5b7076b343fac00": {
       "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
@@ -398,7 +421,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "276.00"
+      "price": "276.00",
+      "currency": "CNY"
     },
     "72be000a439334b50150badd16d9c75c636e6d45d0a35c8bf5a17812dddca6db": {
       "product_url": "https://deals.iplaysoft.com/vip/weibo",
@@ -413,7 +437,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "50.00"
+      "price": "50.00",
+      "currency": "CNY"
     },
     "67dbb500bfd55197de367a92f62abc2a71af35146914044f71896bfac2c7a3ed": {
       "product_url": "https://deals.iplaysoft.com/vip/weibo",
@@ -433,7 +458,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "119.00"
+      "price": "119.00",
+      "currency": "CNY"
     },
     "c04326a135bd1426b646e7661184dd65188ddc189fe97554e1907f5e5c2c003c": {
       "product_url": "https://deals.iplaysoft.com/vip/115",
@@ -448,7 +474,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "300.00"
+      "price": "300.00",
+      "currency": "CNY"
     },
     "d17eb3f9f6b720636bd02aa64a8f07843770520f783a19017be8ce2ed89e20f9": {
       "product_url": "https://deals.iplaysoft.com/vip/115",
@@ -463,7 +490,8 @@
       "note": "超大长期空间",
       "device": "none",
       "kind": "link",
-      "price": "975.00"
+      "price": "975.00",
+      "currency": "CNY"
     },
     "d75d49e18a95c7d88e55f5b49b76a50789bfe7d95ba0a9d048d49217c5804a50": {
       "product_url": "https://deals.iplaysoft.com/vip/115",
@@ -483,7 +511,8 @@
       "note": "绝版！一次买断无需再续费",
       "device": "none",
       "kind": "link",
-      "price": "2399.00"
+      "price": "2399.00",
+      "currency": "CNY"
     },
     "bd204c3c357b8533a0cad6c6dc9105e41e9f2dc7cb4de87d36aa7e1b61320541": {
       "product_url": "https://deals.iplaysoft.com/vip/xunyou",
@@ -498,7 +527,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "239.00"
+      "price": "239.00",
+      "currency": "CNY"
     },
     "8fb503df02e35a57c43397cb0177d2b86efda80618078f746ccc04cac72f94af": {
       "product_url": "https://deals.iplaysoft.com/vip/zhihu",
@@ -513,7 +543,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "131.00"
+      "price": "131.00",
+      "currency": "CNY"
     },
     "3cf92ad4ba3252d770b4b95d6258cf02f11fd9ddce9037c5ed008b9a561f0ca3": {
       "product_url": "https://deals.iplaysoft.com/vip/zhihu",
@@ -528,7 +559,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "209.00"
+      "price": "209.00",
+      "currency": "CNY"
     },
     "e8dc404bb13dfe2829a958555e99e562c09fd97ec46df324a895f467d93deea5": {
       "product_url": "https://deals.iplaysoft.com/vip/kugou",
@@ -543,7 +575,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "128.00"
+      "price": "128.00",
+      "currency": "CNY"
     },
     "77490e5bf5e91a2e1355b21fbe8baa74082ff2a274954c1edb259040d90b11e9": {
       "product_url": "https://deals.iplaysoft.com/vip/iqiyi",
@@ -558,7 +591,8 @@
       "note": "适用于手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "128.00"
+      "price": "128.00",
+      "currency": "CNY"
     },
     "e82bc80af18ec1366c3de007ffb81b4085bcc1dc4bdf1721df4522f7980ec2a2": {
       "product_url": "https://deals.iplaysoft.com/vip/iqiyi",
@@ -573,7 +607,8 @@
       "note": "适用于电视、手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "238.00"
+      "price": "238.00",
+      "currency": "CNY"
     },
     "274894a7f0cf9d6ebdaf9539c7f0b70cefed8455bc63884d330e3680d56cefcb": {
       "product_url": "https://deals.iplaysoft.com/vip/123pan",
@@ -588,7 +623,8 @@
       "note": "50TB 超大存储空间不限速网盘",
       "device": "mobile",
       "kind": "link",
-      "price": "548.00"
+      "price": "548.00",
+      "currency": "CNY"
     },
     "e4b3b67016bcb7d8ac7016de781aa796607a2cfd2362794697ea1efd3cc4af87": {
       "product_url": "https://deals.iplaysoft.com/vip/123pan",
@@ -603,7 +639,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "500.00"
+      "price": "500.00",
+      "currency": "CNY"
     },
     "a6a9de418a5696cc531c7c333ed3a7d3d441e19d4d3b50f99013f67f419d2ef4": {
       "product_url": "https://deals.iplaysoft.com/vip/migu",
@@ -618,7 +655,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "99.00"
+      "price": "258.00",
+      "currency": "CNY"
     },
     "3b52bddc1cf77718de31973275d7b139e107f49753cfb1b77f24fd1455d39b63": {
       "product_url": "https://deals.iplaysoft.com/vip/migu",
@@ -638,7 +676,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "298.00"
+      "price": "298.00",
+      "currency": "CNY"
     },
     "a2679d8d4731ee77be7c0348ec1fb92904a1e38d959ba6c7cfd93dab7f647e4b": {
       "product_url": "https://deals.iplaysoft.com/vip/migu",
@@ -658,7 +697,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "298.00"
+      "price": "418.00",
+      "currency": "CNY"
     },
     "c147a3751ae7ea315552fd512a393dd109ddfd288ab9b29736a646c70ace13fa": {
       "product_url": "https://deals.iplaysoft.com/vip/dedao",
@@ -673,7 +713,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "149.00"
+      "price": "149.00",
+      "currency": "CNY"
     },
     "db0bd4c4d97690f77593ebd93fe466ab1c014183b983ec05f8881caa666107ed": {
       "product_url": "https://deals.iplaysoft.com/vip/dedao",
@@ -688,7 +729,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "423.00"
+      "price": "423.00",
+      "currency": "CNY"
     },
     "8eaf698a35ad98aee7d76cd82d5eaf9764c261849f67f78a732e4eb7bccf0b7f": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwenku",
@@ -703,7 +745,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "79.00"
+      "price": "79.00",
+      "currency": "CNY"
     },
     "80cf8dba855846c6791a2a157c14b43edd833651094555e92c07577bca8abee1": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwenku",
@@ -718,7 +761,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "129.00"
+      "price": "129.00",
+      "currency": "CNY"
     },
     "fb68985ddc045a7a4896aaa1684a263bb1f56a32ba6b8b58fe89642112835910": {
       "product_url": "https://deals.iplaysoft.com/bundle/baiduwenku-jd",
@@ -733,7 +777,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "169.00"
+      "price": "169.00",
+      "currency": "CNY"
     },
     "2a9c9fb13c9f1375b342a0a3d651d8adc41ada9915dee9f994c5c6fe10eb7cb8": {
       "product_url": "https://deals.iplaysoft.com/vip/qishui",
@@ -748,7 +793,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "83.00"
+      "price": "83.00",
+      "currency": "CNY"
     },
     "50c4409d9b274b3cc5948f5f81923343cc76f63855f7223009c7d41775df9579": {
       "product_url": "https://deals.iplaysoft.com/vip/qishui",
@@ -768,7 +814,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "143.00"
+      "price": "143.00",
+      "currency": "CNY"
     },
     "928c588bcb4c41c9618d617b4f4c4b89fcc7c3f4f9c94e91e5f0cb453f5042d6": {
       "product_url": "https://deals.iplaysoft.com/vip/meitu",
@@ -783,7 +830,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "125.00"
+      "price": "125.00",
+      "currency": "CNY"
     },
     "cc70ef74f38a71285ade5811569b3652644916e507a889019f34229c4f6a6855": {
       "product_url": "https://deals.iplaysoft.com/vip/meitu",
@@ -803,7 +851,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "208.00"
+      "price": "208.00",
+      "currency": "CNY"
     },
     "2f039d6d211594be2d0cc963cfc4daac364b3c4c6e92ac0fcc0e87e96a41c193": {
       "product_url": "https://deals.iplaysoft.com/vip/tencentsports",
@@ -818,7 +867,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "298.00"
+      "price": "298.00",
+      "currency": "CNY"
     },
     "064e01b80c80c59a60cb06a746246109958986fcc3e56c1329e8288652d015b7": {
       "product_url": "https://deals.iplaysoft.com/vip/icloud",
@@ -833,7 +883,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "214.20"
+      "price": "214.20",
+      "currency": "CNY"
     },
     "c74d7442a5653f4618d15a1f0b4bce504d0685817504afdf3c23d319b6a0aef4": {
       "product_url": "https://deals.iplaysoft.com/vip/icloud",
@@ -848,7 +899,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "693.60"
+      "price": "693.60",
+      "currency": "CNY"
     },
     "f4144fd5c3648168ecee3de67f0617d70c808bef5e6db3d8d23ede2a24c03970": {
       "product_url": "https://deals.iplaysoft.com/bundle/bilibili-youku",
@@ -863,7 +915,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "108.00"
+      "price": "108.00",
+      "currency": "CNY"
     },
     "cbe7c179bffbd32c999964f8c330060427cef053ed362d127276cb0aeef466c6": {
       "product_url": "https://deals.iplaysoft.com/bundle/bilibili-youku",
@@ -883,7 +936,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "c6ee1ac42728acee6746df080e979f7baf916993ff2e129cf90b9705cd605281": {
       "product_url": "https://deals.iplaysoft.com/bundle/baiduwangpan-bilibili",
@@ -898,7 +952,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "598.00"
+      "price": "598.00",
+      "currency": "CNY"
     },
     "7fed33c9ce6f3bab848cc6521e8492bc80fea40f2589e1f6cfd7b8dc03b1f69d": {
       "product_url": "https://deals.iplaysoft.com/vip/keep",
@@ -913,7 +968,8 @@
       "note": "畅享专属课程计划 、运动健身 VIP 年卡",
       "device": "none",
       "kind": "link",
-      "price": "133.20"
+      "price": "223.20",
+      "currency": "CNY"
     },
     "25d8ce5713afabf884774d924221f7f260fc9c4e51ad50727ec43efb88b6e515": {
       "product_url": "https://deals.iplaysoft.com/vip/neteasemusic",
@@ -933,7 +989,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "178.00"
+      "price": "178.00",
+      "currency": "CNY"
     },
     "0f038a9f17e4e13c77a6139b5896bbf3c89b995e9164dc72f8822bc5f88c01c7": {
       "product_url": "https://deals.iplaysoft.com/vip/neteasemusic",
@@ -953,7 +1010,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "348.00",
+      "currency": "CNY"
     },
     "8aaffcf1824955d5f35a7d3f36a71247ed88780137e6f7758536fe23af3e11dd": {
       "product_url": "https://deals.iplaysoft.com/vip/mitv",
@@ -968,7 +1026,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "35.00"
+      "price": "35.00",
+      "currency": "CNY"
     },
     "336e5102cb6a0b674f2ce0451e3801907e831706993d2698afe3f46b68b8bebf": {
       "product_url": "https://deals.iplaysoft.com/bundle/kugou-jd",
@@ -983,7 +1042,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "198.00"
+      "price": "198.00",
+      "currency": "CNY"
     },
     "d0c02c9ea1259f769e9ca5edf958dac74520bda4d3af33dd39ba429e3e8fd407": {
       "product_url": "https://deals.iplaysoft.com/vip/xingtu",
@@ -998,7 +1058,8 @@
       "note": "支持电脑/移动端视频修图",
       "device": "none",
       "kind": "link",
-      "price": "69.00"
+      "price": "69.00",
+      "currency": "CNY"
     },
     "097e54003eafe8bfb0533e2912e8d70e6a6e2bc3a66dfe639275d7a12637ce75": {
       "product_url": "https://deals.iplaysoft.com/vip/xmly",
@@ -1013,7 +1074,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "158.00"
+      "price": "158.00",
+      "currency": "CNY"
     },
     "310064ed4802096bc12b87de10505b855e5a2bad87ed10d26d6cf382a5698461": {
       "product_url": "https://deals.iplaysoft.com/vip/xmly",
@@ -1028,7 +1090,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "164.00"
+      "price": "164.00",
+      "currency": "CNY"
     },
     "4f03dd342e642b8874836897bdfa6f449d84183728370a87eefa2a19bf5c3cfc": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1048,7 +1111,8 @@
       "note": "海量 PPT 简历 思维导图模板资源 电子书阅读总结 365G云空间",
       "device": "none",
       "kind": "link",
-      "price": "123.00"
+      "price": "123.00",
+      "currency": "CNY"
     },
     "a7934bd2f55f1ddcee8173d908774d26265fb4afd54cc94058815ff963973485": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1063,7 +1127,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "398.00"
+      "price": "398.00",
+      "currency": "CNY"
     },
     "dbe84c5fd95d3fb95732148a2357e75431cd58dcf821e7899d88872af3eb3724": {
       "product_url": "https://deals.iplaysoft.com/vip/wps",
@@ -1083,7 +1148,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "248.00"
+      "price": "248.00",
+      "currency": "CNY"
     },
     "09a5bec1726272bd31259ac7e3d5f67f2986839e1d8bb0e2e41998ceae03ff80": {
       "product_url": "https://deals.iplaysoft.com/bundle/mgtv-jd",
@@ -1098,7 +1164,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "108.00"
+      "price": "108.00",
+      "currency": "CNY"
     },
     "9404f7e784359c919938650450b6db46457c9f510801bf58c54c7adb1c1281c5": {
       "product_url": "https://deals.iplaysoft.com/vip/mgtv",
@@ -1113,7 +1180,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "148.00"
+      "price": "148.00",
+      "currency": "CNY"
     },
     "cff405542836546741d82219ab32b1fbb3d69dbcfa4499af1f53af04359e0d69": {
       "product_url": "https://deals.iplaysoft.com/vip/mgtv",
@@ -1133,7 +1201,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "208.00"
+      "price": "208.00",
+      "currency": "CNY"
     },
     "5b6d6afca38cb15005dbdd881e4974add3cf173809ef8210cd27552ba87eea0d": {
       "product_url": "https://deals.iplaysoft.com/vip/youku",
@@ -1148,7 +1217,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "108.00"
+      "price": "238.00",
+      "currency": "CNY"
     },
     "a20c5ef7d08d125640f33cb6c186a9080988cbc38df7036a913b97cebf9f64c3": {
       "product_url": "https://deals.iplaysoft.com/vip/youku",
@@ -1168,7 +1238,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "248.00"
+      "price": "248.00",
+      "currency": "CNY"
     },
     "3bae73fb7687b6d5e7c16efe1be8a6e1700a14a19ef5ba9f7749b43540cc4a73": {
       "product_url": "https://deals.iplaysoft.com/vip/alipan",
@@ -1188,7 +1259,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "16cb8d74630524d6c4c12a8669cd1300e06d250cd80059db1819fedf1354716c": {
       "product_url": "https://deals.iplaysoft.com/vip/alipan",
@@ -1203,7 +1275,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "20.00"
+      "price": "20.00",
+      "currency": "CNY"
     },
     "12135f54172e8b97b93111c3f01772847e38ee19132ab3788be717b6f44fffcf": {
       "product_url": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
@@ -1218,7 +1291,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "245.10"
+      "price": "330.60",
+      "currency": "CNY"
     },
     "91b51f2186fe34a4315cd505750eca578c05d1259a57050f2ed2e87c250b4e35": {
       "product_url": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
@@ -1233,7 +1307,8 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "463.60"
+      "price": "463.60",
+      "currency": "CNY"
     },
     "bd1da444ee1a420b5c81d92cffd19fbbb7bf81c7db61c069648a60e71bb675f4": {
       "product_url": "https://deals.iplaysoft.com/vip/tencentvideo",
@@ -1253,7 +1328,8 @@
       "note": "适用于电视、手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "288.00"
+      "price": "288.00",
+      "currency": "CNY"
     },
     "e8e52decf2fab2711f1e3ec53b37afdd946a0776488d639e2684710a36ee169a": {
       "product_url": "https://deals.iplaysoft.com/vip/bilibili",
@@ -1268,7 +1344,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "188.00"
+      "price": "188.00",
+      "currency": "CNY"
     },
     "4ad9914da779aaedbb7c640cda3e88b26f43bdd3937f3f8a142a2f624fc0baf8": {
       "product_url": "https://deals.iplaysoft.com/vip/iqiyi",
@@ -1283,7 +1360,8 @@
       "note": "适用于电视、手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "308.00"
+      "price": "308.00",
+      "currency": "CNY"
     },
     "d5476614067f3912c99198dce5e0ba610b265a37469caa0169a35e351a30e6d5": {
       "product_url": "https://deals.iplaysoft.com/bundle/bilibili-baiduwangpan",
@@ -1298,7 +1376,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "9bde3c5f7ff6ad103304476e3266079694a5c396ee0388339bda8c79c8ebea75": {
       "product_url": "https://deals.iplaysoft.com/bundle/bilibili-xmly",
@@ -1313,7 +1392,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "e0ffd341a6adb4cd1af16d0489eeb3ff8bac041e5c8d85f39327b0853e5ebd7d": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -1333,7 +1413,8 @@
       "note": "支持专业版 / 电脑端视频剪辑",
       "device": "none",
       "kind": "link",
-      "price": "131.00"
+      "price": "131.00",
+      "currency": "CNY"
     },
     "819d895602a70b8fcc30e811bd3dc7eeaca7f9f8d44ab89406a657e54867498c": {
       "product_url": "https://deals.iplaysoft.com/vip/quark",
@@ -1348,7 +1429,8 @@
       "note": "离线阅读 / 万本会员书听书 / 无广告",
       "device": "none",
       "kind": "tkl",
-      "price": "98.00"
+      "price": "98.00",
+      "currency": "CNY"
     },
     "c06077fca3ab7019c84051a96d9af2e8e4edd88b5dade652af1683ecd7173ccc": {
       "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
@@ -1363,7 +1445,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "148.00"
+      "price": "148.00",
+      "currency": "CNY"
     },
     "acd7c10675e177ff8c0b6a73fff1b216f5b752c8e2caf90748a484c50dafdc2d": {
       "product_url": "https://deals.iplaysoft.com/vip/qqmusic",
@@ -1378,7 +1461,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "276.00"
+      "price": "276.00",
+      "currency": "CNY"
     },
     "e29311f72d98d21d8a46bb5e9ebaa24fc67bf96345f117889123db32dd62062e": {
       "product_url": "https://deals.iplaysoft.com/vip/pikpak",
@@ -1393,7 +1477,8 @@
       "note": "10TB 网盘空间 / 离线下载 / 多张可叠加",
       "device": "none",
       "kind": "tkl",
-      "price": "320.00"
+      "price": "320.00",
+      "currency": "CNY"
     },
     "573597494d2fc95d9eb2d5e2f23f2d59ce598139772314328257083599b7294d": {
       "product_url": "https://deals.iplaysoft.com/vip/pikpak",
@@ -1408,7 +1493,8 @@
       "note": "10TB 网盘空间 / 离线下载 / 多张可叠加",
       "device": "none",
       "kind": "tkl",
-      "price": "699.00"
+      "price": "699.00",
+      "currency": "CNY"
     },
     "00028a3ae44056f343350450504d81b102f2ad8f712efc3032e93a3ca8fde6d0": {
       "product_url": "https://deals.iplaysoft.com/vip/uc",
@@ -1423,7 +1509,8 @@
       "note": "6TB 云网盘空间 / 云收藏 / 流畅播放",
       "device": "none",
       "kind": "tkl",
-      "price": "198.00"
+      "price": "198.00",
+      "currency": "CNY"
     },
     "18d4eb935ffc90cc6ae925eeca309200a9649fd6eb8fb192ef25d8ee7da15fdf": {
       "product_url": "https://deals.iplaysoft.com/vip/uc",
@@ -1438,7 +1525,8 @@
       "note": "6TB 云网盘空间 / 云收藏 / 流畅播放",
       "device": "none",
       "kind": "link",
-      "price": "198.00"
+      "price": "198.00",
+      "currency": "CNY"
     },
     "0ed6757ca79632e3c8efece8707e090838594617e50bb02ae231e1fa8f828d17": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -1458,7 +1546,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "85.00"
+      "price": "85.00",
+      "currency": "CNY"
     },
     "bf4f6809da6eb3a94db36383b6ec6a78318d4224fb7988556645c084ce551523": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -1478,7 +1567,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "200.00"
+      "price": "200.00",
+      "currency": "CNY"
     },
     "f7c993f1d287a948003c45e6c03d0fba1395c6e39499ef5ba1a28abbca7a678a": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -1493,7 +1583,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "808.00"
+      "price": "808.00",
+      "currency": "CNY"
     },
     "e45993f79441c1288c31dd67e6363c6140673450613cbdb0fd6f2f0ed55c2124": {
       "product_url": "https://deals.iplaysoft.com/vip/jianying",
@@ -1513,7 +1604,8 @@
       "note": "支持专业版 / 电脑端视频剪辑",
       "device": "none",
       "kind": "tkl",
-      "price": "131.00"
+      "price": "131.00",
+      "currency": "CNY"
     },
     "7910436725921e087487570f2bd3aa4fb2ae2ad2f63cd9ffd7c7c945a680a470": {
       "product_url": "https://deals.iplaysoft.com/vip/bilibili",
@@ -1528,7 +1620,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "248.00"
+      "price": "248.00",
+      "currency": "CNY"
     },
     "2da3f349bead971a3cb2054cb0a2e3327f509c6178deda195ccb9b3c08e2c9ad": {
       "product_url": "https://deals.iplaysoft.com/vip/icloud",
@@ -1543,7 +1636,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "214.20"
+      "price": "214.20",
+      "currency": "CNY"
     },
     "c780ba2cfb1d92258c751358ce7975d0625d31df6991c649d4796c6335c6983c": {
       "product_url": "https://deals.iplaysoft.com/vip/icloud",
@@ -1558,7 +1652,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "693.60"
+      "price": "693.60",
+      "currency": "CNY"
     },
     "e9b76343c0851af171ac88e33d718d622973b0b34c0d72599b3e35e19c8aae2e": {
       "product_url": "https://deals.iplaysoft.com/app/parallelsdesktop",
@@ -1573,7 +1668,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "249.00"
+      "price": "249.00",
+      "currency": "CNY"
     },
     "c26762b59c79a9f00cfea38db5aae18e1366141f8aabd51adcf9b3655bdd64aa": {
       "product_url": "https://deals.iplaysoft.com/app/parallelsdesktop",
@@ -1588,7 +1684,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "339.00"
+      "price": "339.00",
+      "currency": "CNY"
     },
     "8a3dbc54ebf9481d7e3875d9ff88ee4ab0536ceeb71a976b1e9e15847e1fcb4b": {
       "product_url": "https://deals.iplaysoft.com/vip/duku",
@@ -1608,7 +1705,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "180.00"
+      "price": "180.00",
+      "currency": "CNY"
     },
     "30d9606712fdde7c861462b47ebb40a69ee98b032647fb6abc2d01de6e8b359c": {
       "product_url": "https://deals.iplaysoft.com/vip/duku",
@@ -1628,7 +1726,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "286.00"
+      "price": "286.00",
+      "currency": "CNY"
     },
     "296553c5d2161d807653db8945e3f7b5271d2d37d92bf70323d6f4d37b7e9401": {
       "product_url": "https://deals.iplaysoft.com/vip/duku",
@@ -1648,7 +1747,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "486.00"
+      "price": "486.00",
+      "currency": "CNY"
     },
     "4cb396cc9ce50f05b4fc04bd90b18c184cd94356dbe1ee3f1a6e068c59cca085": {
       "product_url": "https://deals.iplaysoft.com/vip/xiangrikui",
@@ -1663,7 +1763,8 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "158.00"
+      "price": "158.00",
+      "currency": "CNY"
     },
     "9be87df40eaa530b6aac2aa22affa745c8c84a02fe48f55e7b6ca46ce484bfd8": {
       "product_url": "https://deals.iplaysoft.com/vip/aiqicha",
@@ -1678,7 +1779,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "158.00"
+      "price": "158.00",
+      "currency": "CNY"
     },
     "3b11273598781ae1f9668ce1c177955ab2a58d7f74ee76de638d343703bbcc51": {
       "product_url": "https://deals.iplaysoft.com/app/xyplorer",
@@ -1698,7 +1800,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "65.40"
+      "price": "65.40",
+      "currency": "CNY"
     },
     "f49597129d814498099375694890db7f9ab99356527cb21fe09457aebc67dfde": {
       "product_url": "https://deals.iplaysoft.com/app/xyplorer",
@@ -1718,7 +1821,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "137.40"
+      "price": "137.40",
+      "currency": "CNY"
     },
     "0ccf8bb788f5e39e3aa373ab6f95fa901906bbbeba0ed7b20a2d3e30b0df848c": {
       "product_url": "https://deals.iplaysoft.com/vip/115",
@@ -1733,7 +1837,8 @@
       "note": "不包含 VIP 会员",
       "device": "none",
       "kind": "link",
-      "price": "500.00"
+      "price": "500.00",
+      "currency": "CNY"
     },
     "eadfb1d30c56ab2090323aa1a3eee8a08b82cb09ae0b51c74895801e401352df": {
       "product_url": "https://deals.iplaysoft.com/app/office",
@@ -1748,7 +1853,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "99.00"
+      "price": "99.00",
+      "currency": "CNY"
     },
     "45df9025255a9d908c645bbe32fb51eb2fbdc56d09f9f307817371a22fd7e2e7": {
       "product_url": "https://deals.iplaysoft.com/app/office",
@@ -1763,7 +1869,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "259.00"
+      "price": "259.00",
+      "currency": "CNY"
     },
     "308f5b9b09d4c9b103822396539b64f199e35157a23cd89c17f3fdaba2345d2d": {
       "product_url": "https://deals.iplaysoft.com/app/office",
@@ -1778,7 +1885,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "268.00"
+      "price": "268.00",
+      "currency": "CNY"
     },
     "b30fa3e2106bf317647029e6a645dae91fbfe89556c7639ee9b978c2c2dc4e8c": {
       "product_url": "https://deals.iplaysoft.com/app/office",
@@ -1793,7 +1901,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "328.00"
+      "price": "328.00",
+      "currency": "CNY"
     },
     "1436ed76321dbdedf1a3016def3724a9b8fdf07f72cc02817605946a93d0f415": {
       "product_url": "https://deals.iplaysoft.com/app/office",
@@ -1808,7 +1917,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "368.00"
+      "price": "368.00",
+      "currency": "CNY"
     },
     "589c5603750df4e061a979dccaf4876804b6d41068508319c3f65f6ad08ce363": {
       "product_url": "https://deals.iplaysoft.com/app/windows11",
@@ -1823,7 +1933,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "199.00"
+      "price": "199.00",
+      "currency": "CNY"
     },
     "1416ccb483e39a99cacccc135e5973df8b1b0b39638aae459ba5c5a3505cff1c": {
       "product_url": "https://deals.iplaysoft.com/app/windows11",
@@ -1838,7 +1949,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "249.00"
+      "price": "249.00",
+      "currency": "CNY"
     },
     "2a2375c6f0f9302c312f27b1f48713f06731e5411aa39d587cd37cb58c83d05b": {
       "product_url": "https://deals.iplaysoft.com/app/parallelsdesktop",
@@ -1853,7 +1965,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "274.00"
+      "price": "274.00",
+      "currency": "CNY"
     },
     "d32c262c733c2c3a9c69100415efed5d9d4940dd07219c5dc6f85e4318a0494e": {
       "product_url": "https://deals.iplaysoft.com/bundle/pd-win11",
@@ -1868,7 +1981,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "498.00"
+      "price": "498.00",
+      "currency": "CNY"
     },
     "0c56a58f58df3bf6a6bed72d822b3639f2b940aefee4d19298391b76d6cf547e": {
       "product_url": "https://deals.iplaysoft.com/app/fences",
@@ -1883,7 +1997,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "88.00"
+      "price": "88.00",
+      "currency": "CNY"
     },
     "0f9c2a22a05f016328b41ec852bfc32d6ad68916ebddf07c52b9f2062ee54ce8": {
       "product_url": "https://deals.iplaysoft.com/app/fences",
@@ -1898,7 +2013,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "119.00"
+      "price": "119.00",
+      "currency": "CNY"
     },
     "16b4997abe306e2f3fe07d8c69b5a18b5315a5606b0257f827326e5a6bc3a94b": {
       "product_url": "https://deals.iplaysoft.com/app/fences",
@@ -1913,7 +2029,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "49.00"
+      "price": "49.00",
+      "currency": "CNY"
     },
     "73b08928b260ee3329b4b055bdb70f536b789df4fe435115eb94d12dc55bf1cf": {
       "product_url": "https://deals.iplaysoft.com/app/fences",
@@ -1928,7 +2045,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "55.00"
+      "price": "55.00",
+      "currency": "CNY"
     },
     "10fd5fd1dba55f44015b93d75f823c4083efff7f10a4b495bc403c1719283be2": {
       "product_url": "https://deals.iplaysoft.com/app/listary",
@@ -1943,7 +2061,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "98.00"
+      "price": "98.00",
+      "currency": "CNY"
     },
     "a69d6e49b9ab557ddbcdfdfeec6115f608f6e725ac97e5e46b6f8a52a59dbe51": {
       "product_url": "https://deals.iplaysoft.com/app/typora",
@@ -1967,7 +2086,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "89.00"
+      "price": "89.00",
+      "currency": "CNY"
     },
     "5455a3ed6ac499a9c4ff0daa8b1330fedf2c29b69612d122d158e3bf0ecef3cc": {
       "product_url": "https://deals.iplaysoft.com/app/processlasso",
@@ -1991,7 +2111,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "119.00"
+      "price": "119.00",
+      "currency": "CNY"
     },
     "00c865c70b6ea16a0f4d7c3d96e348e753fd982747f067c3e526c4914fe8dc5f": {
       "product_url": "https://deals.iplaysoft.com/app/processlasso",
@@ -2015,7 +2136,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "159.00"
+      "price": "159.00",
+      "currency": "CNY"
     },
     "65b9104a1806a2c27551922e53eff1d60d7c67def4b29640c5e28bfc49383d50": {
       "product_url": "https://deals.iplaysoft.com/app/stickypassword",
@@ -2030,7 +2152,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "68.00"
+      "price": "68.00",
+      "currency": "CNY"
     },
     "0516a7740e3b07e1900fd80e17f350984e939cd52c285c3f4e053567880d0fe6": {
       "product_url": "https://deals.iplaysoft.com/app/stickypassword",
@@ -2045,7 +2168,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "9401324c6a8de26797d81851a63256777f6e1af6b1f3c99f21bc37d54d6ea32d": {
       "product_url": "https://deals.iplaysoft.com/app/xyplorer",
@@ -2065,7 +2189,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "109.00"
+      "price": "109.00",
+      "currency": "CNY"
     },
     "ccfed07f039151e38e8e76310b904e96663fadee5384147e7fd8b9dd2af39d3c": {
       "product_url": "https://deals.iplaysoft.com/app/xyplorer",
@@ -2085,7 +2210,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "88.00"
+      "price": "88.00",
+      "currency": "CNY"
     },
     "8f9b1ecababa818d5d02053c516762804a7f184b982702d555d7e3798f281fdb": {
       "product_url": "https://deals.iplaysoft.com/app/xyplorer",
@@ -2105,7 +2231,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "229.00"
+      "price": "229.00",
+      "currency": "CNY"
     },
     "5a160696d1a27adfe3732f50790487c2f22cc99d7baca3382f5ff1899066808e": {
       "product_url": "https://deals.iplaysoft.com/app/xyplorer",
@@ -2125,7 +2252,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "148.00"
+      "price": "148.00",
+      "currency": "CNY"
     },
     "ff6a6b2d7d996f8229d19ab672333ac9d5da352d3efa68ab5001e8ad22ce198f": {
       "product_url": "https://deals.iplaysoft.com/app/pixpin",
@@ -2140,7 +2268,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "75.00"
+      "price": "75.00",
+      "currency": "CNY"
     },
     "1d63595b5b0394e8e8f6f10b2b5b75271531c72d117ecf1a21d7f676a3aa9fd6": {
       "product_url": "https://deals.iplaysoft.com/app/pixpin",
@@ -2155,7 +2284,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "195.00"
+      "price": "195.00",
+      "currency": "CNY"
     },
     "c150837893391d4ef7c6aa47186890a5a72b5bfcf9543fde272e4c778c235cdb": {
       "product_url": "https://deals.iplaysoft.com/app/mole",
@@ -2179,7 +2309,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "119.00"
+      "price": "119.00",
+      "currency": "CNY"
     },
     "2b972be2cc868af6d92466d910928f645e5512b3add31f47a7cf79027cf37d4e": {
       "product_url": "https://deals.iplaysoft.com/app/bandizip",
@@ -2203,7 +2334,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "199.00"
+      "price": "199.00",
+      "currency": "CNY"
     },
     "8e74bf97931836c68f7d3531c2fa4aca6b00c0a3588c5f497c22e39d6e8eb5b3": {
       "product_url": "https://deals.iplaysoft.com/app/bandizip",
@@ -2227,7 +2359,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "178.00"
+      "price": "178.00",
+      "currency": "CNY"
     },
     "a050d3b6891dec9f257967596ca07de64603d1d19e621cc462d2415300e5d6cb": {
       "product_url": "https://deals.iplaysoft.com/app/bandizip",
@@ -2242,7 +2375,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "350.00"
+      "price": "350.00",
+      "currency": "CNY"
     },
     "51d2aa23880315af8af0343e6b687a7955620c1efd8e5487b8577ae1d3c3f8cd": {
       "product_url": "https://deals.iplaysoft.com/app/bandizip",
@@ -2257,7 +2391,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "348.00"
+      "price": "348.00",
+      "currency": "CNY"
     },
     "0a55ca31886faa0e20d1835760c88334729dfd930dd962e4c22ab5cc1ea7df03": {
       "product_url": "https://deals.iplaysoft.com/app/istatmenus",
@@ -2281,7 +2416,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "58.00"
+      "price": "58.00",
+      "currency": "CNY"
     },
     "0019299956ca99ed5a2a3a0b52d58279090517e0a5374779afa242a2427e9564": {
       "product_url": "https://deals.iplaysoft.com/app/istatmenus",
@@ -2305,7 +2441,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "78.00"
+      "price": "78.00",
+      "currency": "CNY"
     },
     "1f3295adf68850a087e4fb5abeb95472c023be3fba451f7334537e733bc47f1a": {
       "product_url": "https://deals.iplaysoft.com/app/updf",
@@ -2320,7 +2457,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "115.00"
+      "price": "115.00",
+      "currency": "CNY"
     },
     "a5299b6b6e02a51c948d4c4248b3a93a6c16ca2e4ab700dcb5723953a0ead100": {
       "product_url": "https://deals.iplaysoft.com/app/updf",
@@ -2335,7 +2473,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "225.00"
+      "price": "225.00",
+      "currency": "CNY"
     },
     "efde91fb44f8507d186422ea710c6a3bd409db54bf95ad234f0771ee25866949": {
       "product_url": "https://deals.iplaysoft.com/app/updf",
@@ -2350,7 +2489,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "135.00"
+      "price": "135.00",
+      "currency": "CNY"
     },
     "73b9f0aeb3821a1297daf5a0c3c435d512fc5634da1d0c303286f2e30c80cea0": {
       "product_url": "https://deals.iplaysoft.com/app/adguard",
@@ -2365,7 +2505,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "119.00"
+      "price": "119.00",
+      "currency": "CNY"
     },
     "415c0ff8b5cc712c9ab07837e4c29a5502bc931ab872436cb1144d93bc104c73": {
       "product_url": "https://deals.iplaysoft.com/app/adguard",
@@ -2380,7 +2521,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "258.00"
+      "price": "258.00",
+      "currency": "CNY"
     },
     "625db6e6b6ca09d6773a3c2df232af9842ace379b71a81be9df7a38e267e7efa": {
       "product_url": "https://deals.iplaysoft.com/app/adguard",
@@ -2395,7 +2537,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "299.00"
+      "price": "299.00",
+      "currency": "CNY"
     },
     "3a2847bf859377ca10cf604efe833f7be752fcb5d9a409acaab1cea075d51952": {
       "product_url": "https://deals.iplaysoft.com/app/adguard",
@@ -2410,7 +2553,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "598.00"
+      "price": "598.00",
+      "currency": "CNY"
     },
     "e1e373fcad375050bc12bacec294cbda0ba475def3b47b3d179820b723cbbbfb": {
       "product_url": "https://deals.iplaysoft.com/app/downie",
@@ -2434,7 +2578,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "99.00"
+      "price": "99.00",
+      "currency": "CNY"
     },
     "b427f2c49ecbbf282d79e3da2cbcc392e2fa9421bfebddf641e20059776ab234": {
       "product_url": "https://deals.iplaysoft.com/app/downie",
@@ -2449,7 +2594,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "145.00"
+      "price": "145.00",
+      "currency": "CNY"
     },
     "71d54d1ed48e334506897a4443ea0eb26c0abaf0ba63269089f9eefd17349c44": {
       "product_url": "https://deals.iplaysoft.com/app/idm",
@@ -2469,7 +2615,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "59.00"
+      "price": "59.00",
+      "currency": "CNY"
     },
     "708beffdaa280adf5b2856faa6220e0a34f7a0192f2e72c075d3aa90231748a3": {
       "product_url": "https://deals.iplaysoft.com/app/idm",
@@ -2489,7 +2636,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "58.00"
+      "price": "58.00",
+      "currency": "CNY"
     },
     "e2eb105924b5e75f27ce7625aca1e4ebdb973ef194baa197c77a6de809a25e70": {
       "product_url": "https://deals.iplaysoft.com/app/idm",
@@ -2513,7 +2661,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "128.00"
+      "price": "128.00",
+      "currency": "CNY"
     },
     "6bca959eb7763c2c190eda122137a0c4733bbc8e7202aaad71983c4f41dd418d": {
       "product_url": "https://deals.iplaysoft.com/app/idm",
@@ -2537,7 +2686,8 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00"
+      "price": "168.00",
+      "currency": "CNY"
     },
     "98dd1521bb2d3db517862bcab11a25f7688e101820e6e75be57d85d7d73cb0b6": {
       "product_url": "https://deals.iplaysoft.com/app/eagle",
@@ -2561,7 +2711,93 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "229.00"
+      "price": "229.00",
+      "currency": "CNY"
+    },
+    "5808bc391a619fe329e61eff6b5d4a3f6beea21b7914042d211e32abf33a158b": {
+      "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
+      "product": "百度网盘",
+      "option_id": "offer-5-X9C6SF",
+      "title": "百度网盘超级会员 SVIP 年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "百度网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "超级会员 SVIP"
+        ]
+      ],
+      "badge": "",
+      "note": "百度云盘官方直充",
+      "device": "none",
+      "kind": "link",
+      "price": "218.00",
+      "currency": "CNY"
+    },
+    "272e156b3924386daf78b386142de59e8cd1cacf78ebc9f80732fccd2f2edcb5": {
+      "product_url": "https://deals.iplaysoft.com/vip/bilibili",
+      "product": "哔哩哔哩 (B站)",
+      "option_id": "offer-1-5tYBU4",
+      "title": "哔哩哔哩大会员12个月年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "168.00",
+      "currency": "CNY"
+    },
+    "1b4a7dd5c44538f95046368b7be978e91e439ec8d42792cebeefca431b7b6a66": {
+      "product_url": "https://deals.iplaysoft.com/vip/bilibili",
+      "product": "哔哩哔哩 (B站)",
+      "option_id": "offer-2-zBYqhm",
+      "title": "[电视端] 哔哩超级大会员12个月年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "支持电视端",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "238.00",
+      "currency": "CNY"
+    },
+    "b0940fe4c2042414ef02d0a74e043af57aade575de410f08b84372c7d28f434b": {
+      "product_url": "https://deals.iplaysoft.com/app/adguard",
+      "product": "AdGuard",
+      "option_id": "offer-107-raEYS5",
+      "title": "AdGuard 个人版永久授权 (3台)",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "11.00",
+      "currency": "USD"
+    },
+    "ad4fde53fe7ce24b994ca19c26d2a5c9471afe0960364819b517be784e4a8a2a": {
+      "product_url": "https://deals.iplaysoft.com/app/adguard",
+      "product": "AdGuard",
+      "option_id": "offer-108-NeX59P",
+      "title": "AdGuard 家庭版永久终身版 (9台)",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身激活",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "14.97",
+      "currency": "USD"
     }
   },
   "events": [
@@ -3348,7 +3584,42 @@
       "title": "[降价] WPS 大会员 (支持 AI) 年卡｜¥268.00 → ¥248.00/年",
       "link": "https://deals.iplaysoft.com/vip/wps",
       "summary": "同一方案上次成功观测报价 ¥268.00/年，本次 ¥248.00/年。WPS；WPS 大会员 (支持 AI) 年卡；¥248.00/年；京东旗舰店；WPS旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：大会员 (支持 AI)；支持 AI"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-17T01:37:38.783316+00:00",
+      "title": "[新增优惠] 百度网盘超级会员 SVIP 年卡｜¥218.00/年",
+      "link": "https://deals.iplaysoft.com/vip/baiduwangpan",
+      "summary": "百度网盘；百度网盘超级会员 SVIP 年卡；¥218.00/年；京东旗舰店；百度网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：超级会员 SVIP；百度云盘官方直充"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-17T01:37:38.783316+00:00",
+      "title": "[新增优惠] 哔哩哔哩大会员12个月年卡｜¥168.00/年",
+      "link": "https://deals.iplaysoft.com/vip/bilibili",
+      "summary": "哔哩哔哩 (B站)；哔哩哔哩大会员12个月年卡；¥168.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-17T01:37:38.783316+00:00",
+      "title": "[新增优惠] [电视端] 哔哩超级大会员12个月年卡｜¥238.00/年",
+      "link": "https://deals.iplaysoft.com/vip/bilibili",
+      "summary": "哔哩哔哩 (B站)；[电视端] 哔哩超级大会员12个月年卡；¥238.00/年；京东旗舰店；哔哩哔哩大会员旗舰店；店铺类型由编辑标记，不代表本站认证；支持电视端"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-17T01:37:38.783316+00:00",
+      "title": "[新增优惠] AdGuard 个人版永久授权 (3台)｜USD 11.00/买断",
+      "link": "https://deals.iplaysoft.com/app/adguard",
+      "summary": "AdGuard；AdGuard 个人版永久授权 (3台)；USD 11.00/买断；StackSocial；StackSocial；终身激活"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-17T01:37:38.783316+00:00",
+      "title": "[新增优惠] AdGuard 家庭版永久终身版 (9台)｜USD 14.97/买断",
+      "link": "https://deals.iplaysoft.com/app/adguard",
+      "summary": "AdGuard；AdGuard 家庭版永久终身版 (9台)；USD 14.97/买断；StackSocial；StackSocial；终身激活"
     }
   ],
-  "feed_sha256": "8477a5072e529131f0f2479050e2aec5f69ac362956808046f064663c2677bf6"
+  "feed_sha256": "d70f939447efb387b60c8e9833f3a64cd819582102a0841c8ff275e8d29942de"
 }
