@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-17T08:56:32.352844+00:00</updated>
+  <updated>2026-11-17T17:18:33.958718+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:eae742737e0109086825d1ed274b06e1150d4fc2accfd1725a8f933e5a4dbfb8</id>
+    <title>广东省科学技术厅 广东省财政厅关于印发《广东省重大科研基础设施与大型科研仪器开放共享补助实施办法（试行）》的通知</title>
+    <updated>2026-11-17T17:18:22.843895+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4981360.html"/>
+    <published>2026-11-17T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:a7cd032d7f2625d70bf37bd60e1857edfd0af9421f7d06492d95e834e9299099</id>
     <title>广东省科学技术厅关于公开征求《广东省科技专家库管理办法（试行）》（征求意见稿）意见的公告</title>
