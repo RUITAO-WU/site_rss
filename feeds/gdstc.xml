@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-17T01:36:31.253756+00:00</updated>
+  <updated>2026-11-17T08:56:32.352844+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:a7cd032d7f2625d70bf37bd60e1857edfd0af9421f7d06492d95e834e9299099</id>
+    <title>广东省科学技术厅关于公开征求《广东省科技专家库管理办法（试行）》（征求意见稿）意见的公告</title>
+    <updated>2026-11-17T08:56:22.886137+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4981090.html"/>
+    <published>2026-11-17T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:f00f35ca408951cd2e3d7fa49ad486f41d2a89cc1fea5d30c8958eb441237ce1</id>
+    <title>广东省科学技术厅关于广东省2026年第五批拟入库科技型中小企业名单的公示</title>
+    <updated>2026-11-17T08:56:22.886137+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4981078.html"/>
+    <published>2026-11-17T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:ead457b72ac9ed2d52de5fcafa6bdfafd35ce004ff9be6c4dc7f6d4b2f2a1001</id>
     <title>广东省科学技术厅关于广东省2026年第四批入库科技型中小企业的公告</title>

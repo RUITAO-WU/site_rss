@@ -2,10 +2,12 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-17T01:36:27.669687+00:00",
+  "last_success": "2026-11-17T08:56:22.886137+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4981090",
+    "post:4981078",
     "post:4979638",
     "post:4977403",
     "post:4977393",
@@ -21,11 +23,23 @@
     "post:4971498",
     "post:4970857",
     "post:4970293",
-    "post:4970159",
-    "post:4970072",
-    "post:4969628"
+    "post:4970159"
   ],
   "entries": [
+    {
+      "key": "post:4981090",
+      "title": "广东省科学技术厅关于公开征求《广东省科技专家库管理办法（试行）》（征求意见稿）意见的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4981090.html",
+      "published": "2026-11-17T00:00:00+08:00",
+      "first_seen": "2026-11-17T08:56:22.886137+00:00"
+    },
+    {
+      "key": "post:4981078",
+      "title": "广东省科学技术厅关于广东省2026年第五批拟入库科技型中小企业名单的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4981078.html",
+      "published": "2026-11-17T00:00:00+08:00",
+      "first_seen": "2026-11-17T08:56:22.886137+00:00"
+    },
     {
       "key": "post:4979638",
       "title": "广东省科学技术厅关于广东省2026年第四批入库科技型中小企业的公告",
@@ -349,5 +363,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "52e4650bfa132fb97d541fb3290789b321387131c9c58c432108412476665460"
+  "feed_sha256": "85536fdcf3e701be65c473a0f54ab0c9187a7913a0add7d4281d897498e3276a"
 }

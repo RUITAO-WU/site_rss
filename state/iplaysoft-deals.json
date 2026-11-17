@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-17T01:37:38.783316+00:00",
+  "last_success": "2026-11-17T08:57:59.847267+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -3621,5 +3621,5 @@
       "summary": "AdGuard；AdGuard 家庭版永久终身版 (9台)；USD 14.97/买断；StackSocial；StackSocial；终身激活"
     }
   ],
-  "feed_sha256": "d70f939447efb387b60c8e9833f3a64cd819582102a0841c8ff275e8d29942de"
+  "feed_sha256": "8e180fd64fc122ee13cb45638281f70713ec0c0060594378c71da3acaf68e5ad"
 }
