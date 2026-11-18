@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-17T08:57:59.847267+00:00",
+  "last_success": "2026-11-18T00:54:28.468703+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -103,7 +103,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00",
+      "price": "258.00",
       "currency": "CNY"
     },
     "909e834f76bebd2c6058d156d4cda94701fecd9253e90c8c9f50228e78267043": {
@@ -124,7 +124,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "248.00",
+      "price": "388.00",
       "currency": "CNY"
     },
     "50d924ea57db0f2bde7de119713ce891755bb0690b9f3c257a8676c5452f35e2": {
@@ -591,7 +591,7 @@
       "note": "适用于手机、电脑、平板",
       "device": "none",
       "kind": "link",
-      "price": "128.00",
+      "price": "198.00",
       "currency": "CNY"
     },
     "e82bc80af18ec1366c3de007ffb81b4085bcc1dc4bdf1721df4522f7980ec2a2": {
@@ -968,7 +968,7 @@
       "note": "畅享专属课程计划 、运动健身 VIP 年卡",
       "device": "none",
       "kind": "link",
-      "price": "223.20",
+      "price": "133.20",
       "currency": "CNY"
     },
     "25d8ce5713afabf884774d924221f7f260fc9c4e51ad50727ec43efb88b6e515": {
@@ -1164,7 +1164,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "108.00",
+      "price": "198.00",
       "currency": "CNY"
     },
     "9404f7e784359c919938650450b6db46457c9f510801bf58c54c7adb1c1281c5": {
@@ -1291,7 +1291,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "330.60",
+      "price": "247.68",
       "currency": "CNY"
     },
     "91b51f2186fe34a4315cd505750eca578c05d1259a57050f2ed2e87c250b4e35": {
@@ -2798,6 +2798,198 @@
       "kind": "link",
       "price": "14.97",
       "currency": "USD"
+    },
+    "0616e7bbee134e064e12264fd172857bfb626cfdd82c728539a42e34ed47187f": {
+      "product_url": "https://deals.iplaysoft.com/app/stickypassword",
+      "product": "Sticky Password",
+      "option_id": "offer-113-qBCXGy",
+      "title": "Sticky Password 高级版 (终身永久版)",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身授权",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "29.99",
+      "currency": "USD"
+    },
+    "7a671434aab7480a380239f14cfcebd1f4968ab1843876ec2b266d4565b3f5cd": {
+      "product_url": "https://deals.iplaysoft.com/vip/koofr",
+      "product": "Koofr 永久网盘",
+      "option_id": "offer-131-rdSaPo",
+      "title": "Koofr 终身永久订阅 1TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "1TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "159.99",
+      "currency": "USD"
+    },
+    "44a2c0a04bc9de20a9419bc94f5a3d37fc47e70de957daebff394e536ae97178": {
+      "product_url": "https://deals.iplaysoft.com/vip/filejump",
+      "product": "FileJump 永久网盘",
+      "option_id": "offer-136-xutVZT",
+      "title": "FileJump 网盘终身订阅永久 2TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身 2TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "54.97",
+      "currency": "USD"
+    },
+    "2e1146bb83421da1d343ae51ff4a32cb5d4b1a33bd457ceda02ae6ee17a3ff73": {
+      "product_url": "https://deals.iplaysoft.com/vip/scramble",
+      "product": "Scramble 永久网盘",
+      "option_id": "offer-132-mZiAaV",
+      "title": "Scramble 网盘终身永久订阅 2TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身 2TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "53.96",
+      "currency": "USD"
+    },
+    "01c85225c96bd1aa80338bc38fdaf094607a49aea421c9b784ef8a7acbba738a": {
+      "product_url": "https://deals.iplaysoft.com/vip/scramble",
+      "product": "Scramble 永久网盘",
+      "option_id": "offer-133-gH0Zf3",
+      "title": "Scramble 网盘终身永久订阅 6TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身 6TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "125.96",
+      "currency": "USD"
+    },
+    "94fc2797b2e56927367cf6c596080598a193bb9c3ec6b1bdccd68198908f67af": {
+      "product_url": "https://deals.iplaysoft.com/vip/scramble",
+      "product": "Scramble 永久网盘",
+      "option_id": "offer-134-LcrxXe",
+      "title": "Scramble 网盘终身永久订阅 12TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身 12TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "224.96",
+      "currency": "USD"
+    },
+    "e14f5f469df13431015bf890f05e05f46532e0cccb5123b5e67d65928e209830": {
+      "product_url": "https://deals.iplaysoft.com/vip/scramble",
+      "product": "Scramble 永久网盘",
+      "option_id": "offer-135-zwzHEj",
+      "title": "Scramble 网盘终身永久订阅 20TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "终身 20TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "314.96",
+      "currency": "USD"
+    },
+    "6c4fb19b767281d759a465df5630348c1aaa15829ec62ddd8e93957e7d4a2934": {
+      "product_url": "https://deals.iplaysoft.com/vip/internxt",
+      "product": "Internxt 永久网盘",
+      "option_id": "offer-128-PTaDjF",
+      "title": "Internxt 网盘终身订阅 2TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "2TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "89.97",
+      "currency": "USD"
+    },
+    "fbdce4211602b7e51c79133bdfd63cd0d37d08534b858e570bfd87ea96142b91": {
+      "product_url": "https://deals.iplaysoft.com/vip/internxt",
+      "product": "Internxt 永久网盘",
+      "option_id": "offer-129-vLTjKl",
+      "title": "Internxt 网盘终身订阅 5TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "5TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "159.97",
+      "currency": "USD"
+    },
+    "78f2beda8a7a2a50e48fca12c6ef8cef5be34cd41f7be1e39ce8b5b1e67d3649": {
+      "product_url": "https://deals.iplaysoft.com/vip/internxt",
+      "product": "Internxt 永久网盘",
+      "option_id": "offer-130-kcZmBY",
+      "title": "Internxt 网盘终身订阅 10TB 空间",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "10TB 容量",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "249.97",
+      "currency": "USD"
+    },
+    "88622132223ff09103b4158c4fb8abfd68660c33c1cc9bda573ff5b7443bc1d2": {
+      "product_url": "https://deals.iplaysoft.com/app/windows11",
+      "product": "Windows 11",
+      "option_id": "offer-97-2MaE40",
+      "title": "Windows 11 家庭版终身永久激活码",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "家庭版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "9.97",
+      "currency": "USD"
+    },
+    "697e9468e62e763ea385dc2433b0ed5bdfe861fb751a329da444c209bf364465": {
+      "product_url": "https://deals.iplaysoft.com/app/windows11",
+      "product": "Windows 11",
+      "option_id": "offer-98-ehRRiN",
+      "title": "Windows 11 专业版终身永久激活码",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "专业版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "9.97",
+      "currency": "USD"
     }
   },
   "events": [
@@ -3619,7 +3811,105 @@
       "title": "[新增优惠] AdGuard 家庭版永久终身版 (9台)｜USD 14.97/买断",
       "link": "https://deals.iplaysoft.com/app/adguard",
       "summary": "AdGuard；AdGuard 家庭版永久终身版 (9台)；USD 14.97/买断；StackSocial；StackSocial；终身激活"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[降价] Keep 会员 VIP 年卡 + 2月卡｜¥223.20 → ¥133.20/年",
+      "link": "https://deals.iplaysoft.com/vip/keep",
+      "summary": "同一方案上次成功观测报价 ¥223.20/年，本次 ¥133.20/年。Keep；Keep 会员 VIP 年卡 + 2月卡；¥133.20/年；京东旗舰店；Keep会员旗舰店；店铺类型由编辑标记，不代表本站认证；多送60天；畅享专属课程计划 、运动健身 VIP 年卡"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[降价] 小米电视会员年卡 + 爱奇艺年卡｜¥330.60 → ¥247.68/年",
+      "link": "https://deals.iplaysoft.com/bundle/mitv-iqiyi",
+      "summary": "同一方案上次成功观测报价 ¥330.60/年，本次 ¥247.68/年。小米影视 × 爱奇艺；小米电视会员年卡 + 爱奇艺年卡；¥247.68/年；京东旗舰店；小米影视会员旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Sticky Password 高级版 (终身永久版)｜USD 29.99/买断",
+      "link": "https://deals.iplaysoft.com/app/stickypassword",
+      "summary": "Sticky Password；Sticky Password 高级版 (终身永久版)；USD 29.99/买断；StackSocial；StackSocial；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Koofr 终身永久订阅 1TB 空间｜USD 159.99/买断",
+      "link": "https://deals.iplaysoft.com/vip/koofr",
+      "summary": "Koofr 永久网盘；Koofr 终身永久订阅 1TB 空间；USD 159.99/买断；StackSocial；StackSocial；1TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] FileJump 网盘终身订阅永久 2TB 空间｜USD 54.97/买断",
+      "link": "https://deals.iplaysoft.com/vip/filejump",
+      "summary": "FileJump 永久网盘；FileJump 网盘终身订阅永久 2TB 空间；USD 54.97/买断；StackSocial；StackSocial；终身 2TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Scramble 网盘终身永久订阅 2TB 空间｜USD 53.96/买断",
+      "link": "https://deals.iplaysoft.com/vip/scramble",
+      "summary": "Scramble 永久网盘；Scramble 网盘终身永久订阅 2TB 空间；USD 53.96/买断；StackSocial；StackSocial；终身 2TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Scramble 网盘终身永久订阅 6TB 空间｜USD 125.96/买断",
+      "link": "https://deals.iplaysoft.com/vip/scramble",
+      "summary": "Scramble 永久网盘；Scramble 网盘终身永久订阅 6TB 空间；USD 125.96/买断；StackSocial；StackSocial；终身 6TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Scramble 网盘终身永久订阅 12TB 空间｜USD 224.96/买断",
+      "link": "https://deals.iplaysoft.com/vip/scramble",
+      "summary": "Scramble 永久网盘；Scramble 网盘终身永久订阅 12TB 空间；USD 224.96/买断；StackSocial；StackSocial；终身 12TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Scramble 网盘终身永久订阅 20TB 空间｜USD 314.96/买断",
+      "link": "https://deals.iplaysoft.com/vip/scramble",
+      "summary": "Scramble 永久网盘；Scramble 网盘终身永久订阅 20TB 空间；USD 314.96/买断；StackSocial；StackSocial；终身 20TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Internxt 网盘终身订阅 2TB 空间｜USD 89.97/买断",
+      "link": "https://deals.iplaysoft.com/vip/internxt",
+      "summary": "Internxt 永久网盘；Internxt 网盘终身订阅 2TB 空间；USD 89.97/买断；StackSocial；StackSocial；2TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Internxt 网盘终身订阅 5TB 空间｜USD 159.97/买断",
+      "link": "https://deals.iplaysoft.com/vip/internxt",
+      "summary": "Internxt 永久网盘；Internxt 网盘终身订阅 5TB 空间；USD 159.97/买断；StackSocial；StackSocial；5TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Internxt 网盘终身订阅 10TB 空间｜USD 249.97/买断",
+      "link": "https://deals.iplaysoft.com/vip/internxt",
+      "summary": "Internxt 永久网盘；Internxt 网盘终身订阅 10TB 空间；USD 249.97/买断；StackSocial；StackSocial；10TB 容量"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Windows 11 家庭版终身永久激活码｜USD 9.97/买断",
+      "link": "https://deals.iplaysoft.com/app/windows11",
+      "summary": "Windows 11；Windows 11 家庭版终身永久激活码；USD 9.97/买断；StackSocial；StackSocial；家庭版"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-18T00:54:28.468703+00:00",
+      "title": "[新增优惠] Windows 11 专业版终身永久激活码｜USD 9.97/买断",
+      "link": "https://deals.iplaysoft.com/app/windows11",
+      "summary": "Windows 11；Windows 11 专业版终身永久激活码；USD 9.97/买断；StackSocial；StackSocial；专业版"
     }
   ],
-  "feed_sha256": "8e180fd64fc122ee13cb45638281f70713ec0c0060594378c71da3acaf68e5ad"
+  "feed_sha256": "27c6ad75d06bd3a16a4eea39d276e2cbe645009c5865bb34d4fcd871d42346cb"
 }
