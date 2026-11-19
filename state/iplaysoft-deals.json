@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-18T16:55:53.150911+00:00",
+  "last_success": "2026-11-19T08:35:16.909515+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1429,7 +1429,7 @@
       "note": "离线阅读 / 万本会员书听书 / 无广告",
       "device": "none",
       "kind": "tkl",
-      "price": "98.00",
+      "price": "118.00",
       "currency": "CNY"
     },
     "c06077fca3ab7019c84051a96d9af2e8e4edd88b5dade652af1683ecd7173ccc": {
@@ -1885,7 +1885,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "268.00",
+      "price": "298.00",
       "currency": "CNY"
     },
     "b30fa3e2106bf317647029e6a645dae91fbfe89556c7639ee9b978c2c2dc4e8c": {
@@ -1917,7 +1917,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "368.00",
+      "price": "398.00",
       "currency": "CNY"
     },
     "589c5603750df4e061a979dccaf4876804b6d41068508319c3f65f6ad08ce363": {
@@ -2168,7 +2168,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "168.00",
+      "price": "218.00",
       "currency": "CNY"
     },
     "9401324c6a8de26797d81851a63256777f6e1af6b1f3c99f21bc37d54d6ea32d": {
@@ -2210,7 +2210,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "88.00",
+      "price": "138.00",
       "currency": "CNY"
     },
     "8f9b1ecababa818d5d02053c516762804a7f184b982702d555d7e3798f281fdb": {
@@ -2252,7 +2252,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "148.00",
+      "price": "198.00",
       "currency": "CNY"
     },
     "ff6a6b2d7d996f8229d19ab672333ac9d5da352d3efa68ab5001e8ad22ce198f": {
@@ -3918,5 +3918,5 @@
       "summary": "同一方案上次成功观测报价 ¥418.00/年，本次 ¥328.00/年。咪咕视频；咪咕视频篮球通 VIP 会员年卡；¥328.00/年；淘宝旗舰店；咪咕视频旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：篮球通"
     }
   ],
-  "feed_sha256": "c4ba628087be05b2a0fd0bddd1c03d8ab7be1a4db5db61c5d74d1d23bfd241cf"
+  "feed_sha256": "66615c263978bc98e1505e1baad86493049bacf5116d5ffdff0064627aec71cf"
 }
