@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-19T08:35:16.909515+00:00",
+  "last_success": "2026-11-19T17:01:49.735833+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -2990,6 +2990,70 @@
       "kind": "link",
       "price": "9.97",
       "currency": "USD"
+    },
+    "6837f289fb6b6dcff5bc3ff4ccfa37e21598a00f7286563cd757ca86f1d7237c": {
+      "product_url": "https://deals.iplaysoft.com/app/windows11",
+      "product": "Windows 11",
+      "option_id": "offer-97-9maNDA",
+      "title": "Windows 11 Home 家庭版终身永久激活码",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "家庭版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "199.00",
+      "currency": "CNY"
+    },
+    "c88b5fa06062e6ef0c37efa226bcfb37c8f1e8afab9509726a9f8e6018c888b9": {
+      "product_url": "https://deals.iplaysoft.com/app/windows11",
+      "product": "Windows 11",
+      "option_id": "offer-97-2MaE40",
+      "title": "Windows 11 Home 家庭版终身永久激活码",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "家庭版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "9.97",
+      "currency": "USD"
+    },
+    "5db73272941613a3fcf5d1503394d6c73eea96ab42af6fcb3eaeb8875ccf7063": {
+      "product_url": "https://deals.iplaysoft.com/app/windows11",
+      "product": "Windows 11",
+      "option_id": "offer-98-vGrXwE",
+      "title": "Windows 11 Pro 专业版终身永久激活码",
+      "period": "/买断",
+      "channel": "数码荔枝",
+      "store": "数码荔枝",
+      "specs": [],
+      "badge": "专业版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "249.00",
+      "currency": "CNY"
+    },
+    "8502655c40ad10aef63c2b22c7bda4bc85320c0b546cf4074e87e383b330306a": {
+      "product_url": "https://deals.iplaysoft.com/app/windows11",
+      "product": "Windows 11",
+      "option_id": "offer-98-ehRRiN",
+      "title": "Windows 11 Pro 专业版终身永久激活码",
+      "period": "/买断",
+      "channel": "StackSocial",
+      "store": "StackSocial",
+      "specs": [],
+      "badge": "专业版",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "9.97",
+      "currency": "USD"
     }
   },
   "events": [
@@ -3916,7 +3980,35 @@
       "title": "[降价] 咪咕视频篮球通 VIP 会员年卡｜¥418.00 → ¥328.00/年",
       "link": "https://deals.iplaysoft.com/vip/migu",
       "summary": "同一方案上次成功观测报价 ¥418.00/年，本次 ¥328.00/年。咪咕视频；咪咕视频篮球通 VIP 会员年卡；¥328.00/年；淘宝旗舰店；咪咕视频旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：篮球通"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-19T17:01:49.735833+00:00",
+      "title": "[新增优惠] Windows 11 Home 家庭版终身永久激活码｜¥199.00/买断",
+      "link": "https://deals.iplaysoft.com/app/windows11",
+      "summary": "Windows 11；Windows 11 Home 家庭版终身永久激活码；¥199.00/买断；数码荔枝；数码荔枝；家庭版"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-19T17:01:49.735833+00:00",
+      "title": "[新增优惠] Windows 11 Home 家庭版终身永久激活码｜USD 9.97/买断",
+      "link": "https://deals.iplaysoft.com/app/windows11",
+      "summary": "Windows 11；Windows 11 Home 家庭版终身永久激活码；USD 9.97/买断；StackSocial；StackSocial；家庭版"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-19T17:01:49.735833+00:00",
+      "title": "[新增优惠] Windows 11 Pro 专业版终身永久激活码｜¥249.00/买断",
+      "link": "https://deals.iplaysoft.com/app/windows11",
+      "summary": "Windows 11；Windows 11 Pro 专业版终身永久激活码；¥249.00/买断；数码荔枝；数码荔枝；专业版"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-19T17:01:49.735833+00:00",
+      "title": "[新增优惠] Windows 11 Pro 专业版终身永久激活码｜USD 9.97/买断",
+      "link": "https://deals.iplaysoft.com/app/windows11",
+      "summary": "Windows 11；Windows 11 Pro 专业版终身永久激活码；USD 9.97/买断；StackSocial；StackSocial；专业版"
     }
   ],
-  "feed_sha256": "66615c263978bc98e1505e1baad86493049bacf5116d5ffdff0064627aec71cf"
+  "feed_sha256": "12b8d24a24ad5007becece5a02a12e21027b534af754fa2f24303bb5ff9f26a3"
 }
