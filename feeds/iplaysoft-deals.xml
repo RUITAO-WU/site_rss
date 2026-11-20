@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-19T17:01:49.738746+00:00</updated>
+  <updated>2026-11-20T08:17:18.728767+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:141</id>
+    <title>[降价] Sticky Password 高级版 (终身永久版)｜¥218.00 → ¥188.00/买断</title>
+    <updated>2026-11-20T08:17:18.725982+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/stickypassword"/>
+    <summary>同一方案上次成功观测报价 ¥218.00/买断，本次 ¥188.00/买断。Sticky Password；Sticky Password 高级版 (终身永久版)；¥188.00/买断；APSGO 软购；APSGO 软购；终身授权</summary>
+    <published>2026-11-20T08:17:18.725982+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:140</id>
+    <title>[降价] 优酷 SVIP 会员年卡 / 酷喵 支持电视端｜¥248.00 → ¥208.00/年</title>
+    <updated>2026-11-20T08:17:18.725982+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/youku"/>
+    <summary>同一方案上次成功观测报价 ¥248.00/年，本次 ¥208.00/年。优酷视频；优酷 SVIP 会员年卡 / 酷喵 支持电视端；¥208.00/年；京东旗舰店；优酷会员官方旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：SVIP 超级会员；支持电视端</summary>
+    <published>2026-11-20T08:17:18.725982+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:139</id>
+    <title>[降价] XYplorer 永久使用版 (一年更新)｜¥138.00 → ¥98.00/买断</title>
+    <updated>2026-11-20T08:17:18.725982+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/xyplorer"/>
+    <summary>同一方案上次成功观测报价 ¥138.00/买断，本次 ¥98.00/买断。XYplorer；XYplorer 永久使用版 (一年更新)；¥98.00/买断；APSGO 软购；APSGO 软购；永久授权：是</summary>
+    <published>2026-11-20T08:17:18.725982+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:138</id>
+    <title>[降价] XYplorer 永久使用版 (终身更新)｜¥198.00 → ¥158.00/买断</title>
+    <updated>2026-11-20T08:17:18.725982+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/xyplorer"/>
+    <summary>同一方案上次成功观测报价 ¥198.00/买断，本次 ¥158.00/买断。XYplorer；XYplorer 永久使用版 (终身更新)；¥158.00/买断；APSGO 软购；APSGO 软购；永久授权：是；永久升级</summary>
+    <published>2026-11-20T08:17:18.725982+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:137</id>
+    <title>[降价] Fences 6 一年版订阅｜¥58.00 → ¥55.00/年</title>
+    <updated>2026-11-20T08:17:18.725982+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/fences"/>
+    <summary>同一方案上次成功观测报价 ¥58.00/年，本次 ¥55.00/年。Fences；Fences 6 一年版订阅；¥55.00/年；APSGO 软购；APSGO 软购</summary>
+    <published>2026-11-20T08:17:18.725982+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:136</id>
+    <title>[降价] Fences 6 永久终身版｜¥128.00 → ¥88.00/买断</title>
+    <updated>2026-11-20T08:17:18.725982+00:00</updated>
+    <link href="https://deals.iplaysoft.com/app/fences"/>
+    <summary>同一方案上次成功观测报价 ¥128.00/买断，本次 ¥88.00/买断。Fences；Fences 6 永久终身版；¥88.00/买断；APSGO 软购；APSGO 软购；永久使用</summary>
+    <published>2026-11-20T08:17:18.725982+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:135</id>
     <title>[新增优惠] Windows 11 Pro 专业版终身永久激活码｜USD 9.97/买断</title>

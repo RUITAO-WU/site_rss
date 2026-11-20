@@ -2,10 +2,12 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-19T17:00:05.742427+00:00",
+  "last_success": "2026-11-20T08:15:23.350751+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4983000",
+    "post:4982877",
     "post:4981360",
     "post:4981090",
     "post:4981078",
@@ -21,11 +23,23 @@
     "post:4972428",
     "post:4971947",
     "post:4971520",
-    "post:4971498",
-    "post:4970857",
-    "post:4970293"
+    "post:4971498"
   ],
   "entries": [
+    {
+      "key": "post:4983000",
+      "title": "广东省科学技术厅直属事业单位2026年集中公开招聘高校毕业生拟聘用人员公示（第二批）",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4983000.html",
+      "published": "2026-11-20T00:00:00+08:00",
+      "first_seen": "2026-11-20T08:15:23.350751+00:00"
+    },
+    {
+      "key": "post:4982877",
+      "title": "广东省科学技术厅关于2026—2027年度广东省重点领域研发计划“智能机器人”专项申报指南社会反馈意见吸收采纳情况的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4982877.html",
+      "published": "2026-11-20T00:00:00+08:00",
+      "first_seen": "2026-11-20T08:15:23.350751+00:00"
+    },
     {
       "key": "post:4981360",
       "title": "广东省科学技术厅 广东省财政厅关于印发《广东省重大科研基础设施与大型科研仪器开放共享补助实施办法（试行）》的通知",
@@ -370,5 +384,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "33141c968e2b37b64b267300ca5a8c9acbbf7727df7d0bba96099e09c2132fa8"
+  "feed_sha256": "7ec4662b6e92b3ecced352287a489e3360807ff1a95dd3b22707af94fc8d7bca"
 }
