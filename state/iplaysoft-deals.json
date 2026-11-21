@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-20T16:40:11.304354+00:00",
+  "last_success": "2026-11-21T08:10:11.829135+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -575,7 +575,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "128.00",
+      "price": "133.00",
       "currency": "CNY"
     },
     "77490e5bf5e91a2e1355b21fbe8baa74082ff2a274954c1edb259040d90b11e9": {
@@ -867,7 +867,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "298.00",
+      "price": "418.00",
       "currency": "CNY"
     },
     "064e01b80c80c59a60cb06a746246109958986fcc3e56c1329e8288652d015b7": {
@@ -1413,7 +1413,7 @@
       "note": "支持专业版 / 电脑端视频剪辑",
       "device": "none",
       "kind": "link",
-      "price": "131.00",
+      "price": "145.00",
       "currency": "CNY"
     },
     "819d895602a70b8fcc30e811bd3dc7eeaca7f9f8d44ab89406a657e54867498c": {
@@ -1546,7 +1546,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "85.00",
+      "price": "151.00",
       "currency": "CNY"
     },
     "bf4f6809da6eb3a94db36383b6ec6a78318d4224fb7988556645c084ce551523": {
@@ -1583,7 +1583,7 @@
       "note": "",
       "device": "none",
       "kind": "tkl",
-      "price": "808.00",
+      "price": "898.00",
       "currency": "CNY"
     },
     "e45993f79441c1288c31dd67e6363c6140673450613cbdb0fd6f2f0ed55c2124": {
@@ -1604,7 +1604,7 @@
       "note": "支持专业版 / 电脑端视频剪辑",
       "device": "none",
       "kind": "tkl",
-      "price": "131.00",
+      "price": "145.00",
       "currency": "CNY"
     },
     "7910436725921e087487570f2bd3aa4fb2ae2ad2f63cd9ffd7c7c945a680a470": {
@@ -4052,5 +4052,5 @@
       "summary": "同一方案上次成功观测报价 ¥218.00/买断，本次 ¥188.00/买断。Sticky Password；Sticky Password 高级版 (终身永久版)；¥188.00/买断；APSGO 软购；APSGO 软购；终身授权"
     }
   ],
-  "feed_sha256": "8457ae920e72669f4abb80a8d9e4f89b07be1ade68a1cc7c641591a1a7ef0f62"
+  "feed_sha256": "662f096ebaa1e95290288a6d0e83d9735f6999f7858ed0a133cc0b35a00d57cf"
 }
