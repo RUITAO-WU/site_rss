@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-22T07:55:05.313726+00:00",
+  "last_success": "2026-11-22T15:53:32.351563+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -161,7 +161,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "298.00",
+      "price": "338.00",
       "currency": "CNY"
     },
     "ca47ecd3b7e23b77927b49178dce764107edf2a72803b42e0dbfcfb810feabbe": {
@@ -219,7 +219,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "75.00",
+      "price": "151.00",
       "currency": "CNY"
     },
     "dd246c18dcfa50bf99c27d9b087c58cd8e3770b134bce7fff74d2e29fc85ab3a": {
@@ -240,7 +240,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "200.00",
+      "price": "399.00",
       "currency": "CNY"
     },
     "73f48296ad8eae30c6bc385ad1f49082f6f52f595b5426b251f7f3537258a7ce": {
@@ -490,7 +490,7 @@
       "note": "超大长期空间",
       "device": "none",
       "kind": "link",
-      "price": "975.00",
+      "price": "800.00",
       "currency": "CNY"
     },
     "d75d49e18a95c7d88e55f5b49b76a50789bfe7d95ba0a9d048d49217c5804a50": {
@@ -1058,7 +1058,7 @@
       "note": "支持电脑/移动端视频修图",
       "device": "none",
       "kind": "link",
-      "price": "69.00",
+      "price": "142.00",
       "currency": "CNY"
     },
     "097e54003eafe8bfb0533e2912e8d70e6a6e2bc3a66dfe639275d7a12637ce75": {
@@ -1291,7 +1291,7 @@
       "note": "",
       "device": "mobile",
       "kind": "link",
-      "price": "247.68",
+      "price": "257.28",
       "currency": "CNY"
     },
     "91b51f2186fe34a4315cd505750eca578c05d1259a57050f2ed2e87c250b4e35": {
@@ -3054,6 +3054,43 @@
       "kind": "link",
       "price": "9.97",
       "currency": "USD"
+    },
+    "80d12f3080ff99426395181cd5480a0748bdcbddba9352593998ed752f5052a2": {
+      "product_url": "https://deals.iplaysoft.com/vip/xunlei",
+      "product": "迅雷",
+      "option_id": "offer-38-ObeN5e",
+      "title": "迅雷超级会员 SVIP 年卡",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "迅雷官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [
+        [
+          "会员等级",
+          "SVIP 超级会员"
+        ]
+      ],
+      "badge": "",
+      "note": "超级加速通道 、12TB 空间",
+      "device": "none",
+      "kind": "link",
+      "price": "239.00",
+      "currency": "CNY"
+    },
+    "d3bba9654f28c6e4d7373c801499c1c9f0144878d522f591bd74be5462031316": {
+      "product_url": "https://deals.iplaysoft.com/vip/115",
+      "product": "115 网盘",
+      "option_id": "offer-137-4z7dHh",
+      "title": "115 网盘 3 年 VIP 会员 + 15TB空间",
+      "period": "/3年",
+      "channel": "京东旗舰店",
+      "store": "115 网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "500.00",
+      "currency": "CNY"
     }
   },
   "events": [
@@ -4050,7 +4087,28 @@
       "title": "[降价] Sticky Password 高级版 (终身永久版)｜¥218.00 → ¥188.00/买断",
       "link": "https://deals.iplaysoft.com/app/stickypassword",
       "summary": "同一方案上次成功观测报价 ¥218.00/买断，本次 ¥188.00/买断。Sticky Password；Sticky Password 高级版 (终身永久版)；¥188.00/买断；APSGO 软购；APSGO 软购；终身授权"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-22T15:53:32.351563+00:00",
+      "title": "[新增优惠] 迅雷超级会员 SVIP 年卡｜¥239.00/年",
+      "link": "https://deals.iplaysoft.com/vip/xunlei",
+      "summary": "迅雷；迅雷超级会员 SVIP 年卡；¥239.00/年；京东旗舰店；迅雷官方旗舰店；店铺类型由编辑标记，不代表本站认证；会员等级：SVIP 超级会员；超级加速通道 、12TB 空间"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-22T15:53:32.351563+00:00",
+      "title": "[新增优惠] 115 网盘 3 年 VIP 会员 + 15TB空间｜¥500.00/3年",
+      "link": "https://deals.iplaysoft.com/vip/115",
+      "summary": "115 网盘；115 网盘 3 年 VIP 会员 + 15TB空间；¥500.00/3年；京东旗舰店；115 网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-22T15:53:32.351563+00:00",
+      "title": "[降价] 115 网盘 8 年 VIP 会员+50TB空间｜¥975.00 → ¥800.00/8年",
+      "link": "https://deals.iplaysoft.com/vip/115",
+      "summary": "同一方案上次成功观测报价 ¥975.00/8年，本次 ¥800.00/8年。115 网盘；115 网盘 8 年 VIP 会员+50TB空间；¥800.00/8年；京东旗舰店；115 网盘官方旗舰店；店铺类型由编辑标记，不代表本站认证；8 年会员；超大长期空间"
     }
   ],
-  "feed_sha256": "5400ff5c6c1c28bdd0c0847c5e45531a26a6f0daa427df72c09700e8b1dfd11d"
+  "feed_sha256": "5ac8989337cc9f45b521c880b900473c6cf638f9fe98f4bde78ef580d78df319"
 }
