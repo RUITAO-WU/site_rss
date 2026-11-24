@@ -2,10 +2,12 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-23T19:46:25.072449+00:00",
+  "last_success": "2026-11-24T10:45:58.169141+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4984340",
+    "post:4984026",
     "post:4983000",
     "post:4982877",
     "post:4981360",
@@ -21,11 +23,23 @@
     "post:4974871",
     "post:4973755",
     "post:4972428",
-    "post:4971947",
-    "post:4971520",
-    "post:4971498"
+    "post:4971947"
   ],
   "entries": [
+    {
+      "key": "post:4984340",
+      "title": "广东省科学技术厅关于废止《广东省科学技术厅关于征集科技信贷风险补偿省级受托管理机构的通知》的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4984340.html",
+      "published": "2026-11-24T00:00:00+08:00",
+      "first_seen": "2026-11-24T10:45:58.169141+00:00"
+    },
+    {
+      "key": "post:4984026",
+      "title": "广东省科学技术厅关于2026年10月广东省实验动物行政许可日常监督检查结果的公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4984026.html",
+      "published": "2026-11-24T00:00:00+08:00",
+      "first_seen": "2026-11-24T10:45:58.169141+00:00"
+    },
     {
       "key": "post:4983000",
       "title": "广东省科学技术厅直属事业单位2026年集中公开招聘高校毕业生拟聘用人员公示（第二批）",
@@ -384,5 +398,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "5de549bcdb736e6cb576d3b0f5403f5909756b781d136040d7d1dc5627937e24"
+  "feed_sha256": "955a5cc48f05921350ec5d73b3725a1bcdf5ef59ac16afb50343f509f48e3e34"
 }

@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-11-23T19:48:52.898852+00:00</updated>
+  <updated>2026-11-24T10:50:03.276137+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:41880d74b13f7a39123a87bb00ee5adf634a616af2c8e8f76b44edfb0e658ff8</id>
+    <title>深圳市科技创新局关于延长2026年深圳鲲鹏青年创业项目受理期限的通知</title>
+    <updated>2026-11-24T10:49:49.523637+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13075346.html"/>
+    <published>2026-11-24T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:2d2750b06f985d51f91ff90fed6b61d3c348e22292ea4f20352a5a8c7ad202e2</id>
     <title>深圳市科技创新局关于2026年度深圳市中央引导地方科技发展资金深圳国家大学科技园项目概念验证专项项目拟资助项目的公示</title>
