@@ -2,10 +2,11 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-25T09:41:53.774593+00:00",
+  "last_success": "2026-11-25T18:22:36.628197+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4985122",
     "post:4984897",
     "post:4984340",
     "post:4984026",
@@ -22,10 +23,16 @@
     "post:4975863",
     "post:4974876",
     "post:4974871",
-    "post:4973755",
-    "post:4972428"
+    "post:4973755"
   ],
   "entries": [
+    {
+      "key": "post:4985122",
+      "title": "广东省科学技术厅 海关总署广东分署关于征集科研用物资跨境便利通关需求的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985122.html",
+      "published": "2026-11-25T00:00:00+08:00",
+      "first_seen": "2026-11-25T18:22:36.628197+00:00"
+    },
     {
       "key": "post:4984897",
       "title": "广东省科学技术厅关于转发国家重点研发计划“关键基础件及制造工艺”重点专项2026年度申报指南的通知",
@@ -405,5 +412,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "5c79f391904c4a94dc03923e461566ec8c0612d46109c8d99978a08e6f2cb729"
+  "feed_sha256": "a9447e36b47997bd21d2f225f9015422b0cff0319996520bbad327d0a7aff1af"
 }

@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-25T09:43:30.033254+00:00",
+  "last_success": "2026-11-25T18:23:59.016409+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -2152,7 +2152,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "68.00",
+      "price": "55.00",
       "currency": "CNY"
     },
     "0516a7740e3b07e1900fd80e17f350984e939cd52c285c3f4e053567880d0fe6": {
@@ -2168,7 +2168,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "188.00",
+      "price": "168.00",
       "currency": "CNY"
     },
     "9401324c6a8de26797d81851a63256777f6e1af6b1f3c99f21bc37d54d6ea32d": {
@@ -4152,7 +4152,21 @@
       "title": "[新增优惠] 迅游加速器 年卡 SVIP 时长 + 加赠时长｜¥239.00/年",
       "link": "https://deals.iplaysoft.com/vip/xunyou",
       "summary": "迅游加速器；迅游加速器 年卡 SVIP 时长 + 加赠时长；¥239.00/年；京东旗舰店；迅游旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-25T18:23:59.016409+00:00",
+      "title": "[降价] Sticky Password 高级版 (1年)｜¥68.00 → ¥55.00/年",
+      "link": "https://deals.iplaysoft.com/app/stickypassword",
+      "summary": "同一方案上次成功观测报价 ¥68.00/年，本次 ¥55.00/年。Sticky Password；Sticky Password 高级版 (1年)；¥55.00/年；APSGO 软购；APSGO 软购"
+    },
+    {
+      "kind": "drop",
+      "at": "2026-11-25T18:23:59.016409+00:00",
+      "title": "[降价] Sticky Password 高级版 (终身永久版)｜¥188.00 → ¥168.00/买断",
+      "link": "https://deals.iplaysoft.com/app/stickypassword",
+      "summary": "同一方案上次成功观测报价 ¥188.00/买断，本次 ¥168.00/买断。Sticky Password；Sticky Password 高级版 (终身永久版)；¥168.00/买断；APSGO 软购；APSGO 软购；终身授权"
     }
   ],
-  "feed_sha256": "23825ff71a74d55ee0d088fb8955c8f0da591d1592bc0ff7952c754abbc4745b"
+  "feed_sha256": "30f040da0c78624bb79df95ffa00faeced3e5cae17c6d6eeb5a307b679d1964c"
 }
