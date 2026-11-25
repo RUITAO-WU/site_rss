@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml</id>
   <title>会员打折线报·新增优惠与降价</title>
-  <updated>2026-11-24T19:18:46.193300+00:00</updated>
+  <updated>2026-11-25T09:43:30.038064+00:00</updated>
   <author>
     <name>iplaysoft-deals</name>
   </author>
   <link href="https://deals.iplaysoft.com/" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/iplaysoft-deals.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:148</id>
+    <title>[新增优惠] 迅游加速器 年卡 SVIP 时长 + 加赠时长｜¥239.00/年</title>
+    <updated>2026-11-25T09:43:30.033254+00:00</updated>
+    <link href="https://deals.iplaysoft.com/vip/xunyou"/>
+    <summary>迅游加速器；迅游加速器 年卡 SVIP 时长 + 加赠时长；¥239.00/年；京东旗舰店；迅游旗舰店；店铺类型由编辑标记，不代表本站认证</summary>
+    <published>2026-11-25T09:43:30.033254+00:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:iplaysoft-deals:5c8fb99572f34b16ad7f9bb66d6c6dc5:147</id>
     <title>[降价] QQ 音乐会员豪华绿钻 VIP 年卡｜¥148.00 → ¥144.00/年</title>

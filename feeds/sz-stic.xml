@@ -2,13 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml</id>
   <title>深圳市科技创新局·通知公告</title>
-  <updated>2026-11-24T19:20:14.930312+00:00</updated>
+  <updated>2026-11-25T09:45:33.308191+00:00</updated>
   <author>
     <name>sz-stic</name>
   </author>
   <link href="https://stic.sz.gov.cn/xxgk/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/sz-stic.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:sz-stic:3d832bdc5b60db16dba446c0b32cf293d7e17a4753fb89abc0c3a410bc5c4ef2</id>
+    <title>深圳市科技创新局关于2026年度科技战略研究拟资助项目的公示</title>
+    <updated>2026-11-25T09:45:18.670648+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13080595.html"/>
+    <published>2026-11-25T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:aa17eb54e8af0df210c5a8cdbbb826622049da60fc9764c861703b8904316d85</id>
+    <title>深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知</title>
+    <updated>2026-11-25T09:45:18.670648+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13080566.html"/>
+    <published>2026-11-25T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:7689943221860d75a2fb4c593b0152f7c9b7f2fa0e47d36e4ed7dce992e5db04</id>
+    <title>深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知</title>
+    <updated>2026-11-25T09:45:18.670648+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13080522.html"/>
+    <published>2026-11-25T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:sz-stic:2594e19c2ecc55174b26df812a21a3104b2d5ec1501ebdd4e6bb5b4e5b06974b</id>
+    <title>深圳市科技创新局关于2026年度深圳市中央引导地方科技发展资金深圳国家大学科技园项目产业化基地项目拟资助项目的公示</title>
+    <updated>2026-11-25T09:45:18.670648+00:00</updated>
+    <link href="https://stic.sz.gov.cn/xxgk/tzgg/content/post_13079532.html"/>
+    <published>2026-11-25T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:sz-stic:41880d74b13f7a39123a87bb00ee5adf634a616af2c8e8f76b44edfb0e658ff8</id>
     <title>深圳市科技创新局关于延长2026年深圳鲲鹏青年创业项目受理期限的通知</title>

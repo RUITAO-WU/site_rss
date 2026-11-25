@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-24T19:18:46.191023+00:00",
+  "last_success": "2026-11-25T09:43:30.033254+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -1636,7 +1636,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "214.20",
+      "price": "252.00",
       "currency": "CNY"
     },
     "c780ba2cfb1d92258c751358ce7975d0625d31df6991c649d4796c6335c6983c": {
@@ -1652,7 +1652,7 @@
       "note": "",
       "device": "none",
       "kind": "link",
-      "price": "693.60",
+      "price": "816.00",
       "currency": "CNY"
     },
     "e9b76343c0851af171ac88e33d718d622973b0b34c0d72599b3e35e19c8aae2e": {
@@ -3091,6 +3091,22 @@
       "kind": "link",
       "price": "500.00",
       "currency": "CNY"
+    },
+    "881137fefc9390a03e99ae9d6094503e3432f144d96ac6798b2e7aaba2a23b2e": {
+      "product_url": "https://deals.iplaysoft.com/vip/xunyou",
+      "product": "迅游加速器",
+      "option_id": "offer-21-xalrLg",
+      "title": "迅游加速器 年卡 SVIP 时长 + 加赠时长",
+      "period": "/年",
+      "channel": "京东旗舰店",
+      "store": "迅游旗舰店；店铺类型由编辑标记，不代表本站认证",
+      "specs": [],
+      "badge": "",
+      "note": "",
+      "device": "none",
+      "kind": "link",
+      "price": "239.00",
+      "currency": "CNY"
     }
   },
   "events": [
@@ -4129,7 +4145,14 @@
       "title": "[降价] QQ 音乐会员豪华绿钻 VIP 年卡｜¥148.00 → ¥144.00/年",
       "link": "https://deals.iplaysoft.com/vip/qqmusic",
       "summary": "同一方案上次成功观测报价 ¥148.00/年，本次 ¥144.00/年。QQ 音乐；QQ 音乐会员豪华绿钻 VIP 年卡；¥144.00/年；京东旗舰店；QQ音乐官方旗舰店；店铺类型由编辑标记，不代表本站认证"
+    },
+    {
+      "kind": "new",
+      "at": "2026-11-25T09:43:30.033254+00:00",
+      "title": "[新增优惠] 迅游加速器 年卡 SVIP 时长 + 加赠时长｜¥239.00/年",
+      "link": "https://deals.iplaysoft.com/vip/xunyou",
+      "summary": "迅游加速器；迅游加速器 年卡 SVIP 时长 + 加赠时长；¥239.00/年；京东旗舰店；迅游旗舰店；店铺类型由编辑标记，不代表本站认证"
     }
   ],
-  "feed_sha256": "06acad50833acbdacb2648985188d00fa5ae6b9c61535b78b97f0a55e4bbc122"
+  "feed_sha256": "23825ff71a74d55ee0d088fb8955c8f0da591d1592bc0ff7952c754abbc4745b"
 }

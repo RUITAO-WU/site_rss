@@ -2,12 +2,16 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-11-24T19:20:09.592725+00:00",
+  "last_success": "2026-11-25T09:45:18.670648+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13080595",
+    "post:13080566",
+    "post:13080522",
+    "post:13079532",
     "post:13075346",
     "post:13072278",
     "post:13067475",
@@ -19,13 +23,37 @@
     "post:13065068",
     "post:13064961",
     "post:13064959",
-    "post:13061747",
-    "post:13060931",
-    "post:13059826",
-    "post:13055653",
-    "post:13053788"
+    "post:13061747"
   ],
   "entries": [
+    {
+      "key": "post:13080595",
+      "title": "深圳市科技创新局关于2026年度科技战略研究拟资助项目的公示",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13080595.html",
+      "published": "2026-11-25T00:00:00+08:00",
+      "first_seen": "2026-11-25T09:45:18.670648+00:00"
+    },
+    {
+      "key": "post:13080566",
+      "title": "深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13080566.html",
+      "published": "2026-11-25T00:00:00+08:00",
+      "first_seen": "2026-11-25T09:45:18.670648+00:00"
+    },
+    {
+      "key": "post:13080522",
+      "title": "深圳市科技创新局关于组织开展大型科研仪器实验人员技术课程的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13080522.html",
+      "published": "2026-11-25T00:00:00+08:00",
+      "first_seen": "2026-11-25T09:45:18.670648+00:00"
+    },
+    {
+      "key": "post:13079532",
+      "title": "深圳市科技创新局关于2026年度深圳市中央引导地方科技发展资金深圳国家大学科技园项目产业化基地项目拟资助项目的公示",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13079532.html",
+      "published": "2026-11-25T00:00:00+08:00",
+      "first_seen": "2026-11-25T09:45:18.670648+00:00"
+    },
     {
       "key": "post:13075346",
       "title": "深圳市科技创新局关于延长2026年深圳鲲鹏青年创业项目受理期限的通知",
@@ -370,5 +398,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "e56ebaf9ce284dc825a19643879fdc8a2175ed2d9b9acaa28cc5e4dba9edba1a"
+  "feed_sha256": "e3e380b6ea4c673f86aa95180dfd277818d7ebd64e862cc0c011eb6765a55a13"
 }
