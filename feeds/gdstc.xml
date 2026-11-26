@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-26T00:34:33.595991+00:00</updated>
+  <updated>2026-11-26T09:18:06.552694+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:85ff1c4ca6cd44f994327927c5bee931a72d8e9f1ef6776ec2ed976d071ae98b</id>
+    <title>广东省基础与应用基础研究基金委员会关于2027年度广东省基础与应用基础研究基金自然科学基金拟立项项目的公示</title>
+    <updated>2026-11-26T09:17:59.422830+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985297.html"/>
+    <published>2026-11-26T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:9db6b27c6fe3abde31a9ccba22af80f6bcd0330408b8b0abad074d4640ee944e</id>
+    <title>广东省基础与应用基础研究基金委员会关于2026年度广东省基础与应用基础研究基金行业联合基金拟立项项目的公示</title>
+    <updated>2026-11-26T09:17:59.422830+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985293.html"/>
+    <published>2026-11-26T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:42f089493ac4a40c044a798ee8327a4b6f76981dce7c405c6435f08c9e60610d</id>
+    <title>广东省基础与应用基础研究基金委员会关于2026年度广东省基础与应用基础研究基金第一批企业联合基金（公共卫生与医药健康领域）拟立项项目的公示</title>
+    <updated>2026-11-26T09:17:59.422830+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985292.html"/>
+    <published>2026-11-26T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:516eb521e4082151a4948038ac8f0bfafe75488780f7e292ed14d2e9fc95457b</id>
     <title>广东省科学技术厅 海关总署广东分署关于征集科研用物资跨境便利通关需求的通知</title>

@@ -2,10 +2,13 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-26T00:34:29.507917+00:00",
+  "last_success": "2026-11-26T09:17:59.422830+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4985297",
+    "post:4985293",
+    "post:4985292",
     "post:4985122",
     "post:4984897",
     "post:4984340",
@@ -20,12 +23,30 @@
     "post:4977393",
     "post:4976557",
     "post:4975866",
-    "post:4975863",
-    "post:4974876",
-    "post:4974871",
-    "post:4973755"
+    "post:4975863"
   ],
   "entries": [
+    {
+      "key": "post:4985297",
+      "title": "广东省基础与应用基础研究基金委员会关于2027年度广东省基础与应用基础研究基金自然科学基金拟立项项目的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985297.html",
+      "published": "2026-11-26T00:00:00+08:00",
+      "first_seen": "2026-11-26T09:17:59.422830+00:00"
+    },
+    {
+      "key": "post:4985293",
+      "title": "广东省基础与应用基础研究基金委员会关于2026年度广东省基础与应用基础研究基金行业联合基金拟立项项目的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985293.html",
+      "published": "2026-11-26T00:00:00+08:00",
+      "first_seen": "2026-11-26T09:17:59.422830+00:00"
+    },
+    {
+      "key": "post:4985292",
+      "title": "广东省基础与应用基础研究基金委员会关于2026年度广东省基础与应用基础研究基金第一批企业联合基金（公共卫生与医药健康领域）拟立项项目的公示",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4985292.html",
+      "published": "2026-11-26T00:00:00+08:00",
+      "first_seen": "2026-11-26T09:17:59.422830+00:00"
+    },
     {
       "key": "post:4985122",
       "title": "广东省科学技术厅 海关总署广东分署关于征集科研用物资跨境便利通关需求的通知",
@@ -412,5 +433,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "13a7eddb5d96abfd721cd4d5d693284ac1c6a8ddb75e6482283913e425712c30"
+  "feed_sha256": "73f9bacc808d5a86d7116ee3d329e85e08001e934ba66994fe4f68a4bff79851"
 }

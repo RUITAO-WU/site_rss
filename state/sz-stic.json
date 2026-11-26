@@ -2,12 +2,14 @@
   "version": 1,
   "source": "sz-stic",
   "homepage": "https://stic.sz.gov.cn/xxgk/tzgg/index.html",
-  "last_success": "2026-11-26T00:37:32.129877+00:00",
+  "last_success": "2026-11-26T09:21:11.286660+00:00",
   "anchor_ids": [
     "post:12671800",
     "post:11958788",
     "post:12158603",
     "post:10569722",
+    "post:13081996",
+    "post:13081383",
     "post:13080595",
     "post:13080566",
     "post:13080522",
@@ -21,11 +23,23 @@
     "url:https://kjcg.szggzy.com/gpfa-main-web/basic/noticeDetail?kcId=8a988463a0c361e601a1c9fb055501dc",
     "post:13065071",
     "post:13065068",
-    "post:13064961",
-    "post:13064959",
-    "post:13061747"
+    "post:13064961"
   ],
   "entries": [
+    {
+      "key": "post:13081996",
+      "title": "深圳市科技创新局关于2026年度在深广东省重点实验室拟资助项目的公示",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13081996.html",
+      "published": "2026-11-26T00:00:00+08:00",
+      "first_seen": "2026-11-26T09:21:11.286660+00:00"
+    },
+    {
+      "key": "post:13081383",
+      "title": "深圳市科技创新局关于启动2026年深圳市高层次人才团队（孔雀团队）创业项目申报工作的通知",
+      "link": "https://stic.sz.gov.cn/xxgk/tzgg/content/post_13081383.html",
+      "published": "2026-11-26T00:00:00+08:00",
+      "first_seen": "2026-11-26T09:21:11.286660+00:00"
+    },
     {
       "key": "post:13080595",
       "title": "深圳市科技创新局关于2026年度科技战略研究拟资助项目的公示",
@@ -398,5 +412,5 @@
       "first_seen": "2026-10-20T02:56:31.457212+00:00"
     }
   ],
-  "feed_sha256": "e709a6c2d330a38150848643baa4e91ebf736234ec77b261da35564697c307e7"
+  "feed_sha256": "dac86d71b35cfb4f9b480a59381de6023ecba372b6d7647b862c88c048cc7004"
 }
