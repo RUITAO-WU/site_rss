@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-26T18:04:01.645502+00:00</updated>
+  <updated>2026-11-27T09:32:46.706184+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:9484a66d8716df244c773d6cd56945ab7a451b79a5db59dc317d36f0fb8df3ea</id>
+    <title>关于广东省2026年第八批拟更名高新技术企业名单的公示</title>
+    <updated>2026-11-27T09:32:39.707435+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4986188.html"/>
+    <published>2026-11-27T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:0d3409794a9419304a7486a99bb487029e8ebe3d4a7da16d737548ac9f191398</id>
+    <title>关于广东省2026年第八批异地搬迁高新技术企业名单的公示</title>
+    <updated>2026-11-27T09:32:39.707435+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4986187.html"/>
+    <published>2026-11-27T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:85ff1c4ca6cd44f994327927c5bee931a72d8e9f1ef6776ec2ed976d071ae98b</id>
     <title>广东省基础与应用基础研究基金委员会关于2027年度广东省基础与应用基础研究基金自然科学基金拟立项项目的公示</title>
