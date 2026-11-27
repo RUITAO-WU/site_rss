@@ -2,12 +2,14 @@
   "version": 1,
   "source": "gdstc",
   "homepage": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html",
-  "last_success": "2026-11-27T09:32:39.707435+00:00",
+  "last_success": "2026-11-27T17:48:20.734942+00:00",
   "anchor_ids": [
     "post:4845562",
     "post:4843175",
+    "post:4986393",
     "post:4986188",
     "post:4986187",
+    "post:4984055",
     "post:4985297",
     "post:4985293",
     "post:4985292",
@@ -21,11 +23,16 @@
     "post:4981090",
     "post:4981078",
     "post:4979638",
-    "post:4977403",
-    "post:4977393",
-    "post:4976557"
+    "post:4977403"
   ],
   "entries": [
+    {
+      "key": "post:4986393",
+      "title": "广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“岭南中医药现代化”专项项目的通知",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4986393.html",
+      "published": "2026-11-27T00:00:00+08:00",
+      "first_seen": "2026-11-27T17:48:20.734942+00:00"
+    },
     {
       "key": "post:4986188",
       "title": "关于广东省2026年第八批拟更名高新技术企业名单的公示",
@@ -39,6 +46,13 @@
       "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4986187.html",
       "published": "2026-11-27T00:00:00+08:00",
       "first_seen": "2026-11-27T09:32:39.707435+00:00"
+    },
+    {
+      "key": "post:4984055",
+      "title": "广东省科技业务管理阳光政务平台（新平台）上线试运行公告",
+      "link": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4984055.html",
+      "published": "2026-11-27T00:00:00+08:00",
+      "first_seen": "2026-11-27T17:48:20.734942+00:00"
     },
     {
       "key": "post:4985297",
@@ -447,5 +461,5 @@
       "first_seen": "2026-10-20T02:55:49.620732+00:00"
     }
   ],
-  "feed_sha256": "c3b0b5ad654a4e0b0f5414d0b570664408ccf6137e82357b168ca298edbad6ca"
+  "feed_sha256": "ed873ea7fc2809165e5b755359314c5d29a132764c00df34b2311d87e542ef1a"
 }

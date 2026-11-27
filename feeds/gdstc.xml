@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml</id>
   <title>广东省科技厅·通知公告</title>
-  <updated>2026-11-27T09:32:46.706184+00:00</updated>
+  <updated>2026-11-27T17:48:32.317872+00:00</updated>
   <author>
     <name>gdstc</name>
   </author>
   <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/index.html" rel="alternate"/>
   <link href="https://ruitao-wu.github.io/site_rss/feeds/gdstc.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>urn:rss-tool:gdstc:b8eaf701ac28fabe90347157fcfa5d4a9e0def439e3ce3d456dde9a5a3060338</id>
+    <title>广东省科学技术厅关于组织申报2027年度广东省重点领域研发计划“岭南中医药现代化”专项项目的通知</title>
+    <updated>2026-11-27T17:48:20.734942+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4986393.html"/>
+    <published>2026-11-27T00:00:00+08:00</published>
+  </entry>
   <entry>
     <id>urn:rss-tool:gdstc:9484a66d8716df244c773d6cd56945ab7a451b79a5db59dc317d36f0fb8df3ea</id>
     <title>关于广东省2026年第八批拟更名高新技术企业名单的公示</title>
@@ -21,6 +28,13 @@
     <title>关于广东省2026年第八批异地搬迁高新技术企业名单的公示</title>
     <updated>2026-11-27T09:32:39.707435+00:00</updated>
     <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4986187.html"/>
+    <published>2026-11-27T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>urn:rss-tool:gdstc:df6ab8b4d576cae4a0d43d62403546717b83aedaa0310b3e7be159244c352ff2</id>
+    <title>广东省科技业务管理阳光政务平台（新平台）上线试运行公告</title>
+    <updated>2026-11-27T17:48:20.734942+00:00</updated>
+    <link href="https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4984055.html"/>
     <published>2026-11-27T00:00:00+08:00</published>
   </entry>
   <entry>
