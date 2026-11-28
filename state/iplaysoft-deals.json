@@ -3,7 +3,7 @@
   "source": "iplaysoft-deals",
   "homepage": "https://deals.iplaysoft.com/",
   "instance": "5c8fb99572f34b16ad7f9bb66d6c6dc5",
-  "last_success": "2026-11-27T17:49:53.841322+00:00",
+  "last_success": "2026-11-28T08:48:16.775538+00:00",
   "offers": {
     "56fd35a6d5e95d8e2b751dac903e8fbabfca60db2bd25df4252b89649ad563ad": {
       "product_url": "https://deals.iplaysoft.com/vip/baiduwangpan",
@@ -4182,5 +4182,5 @@
       "summary": "同一方案上次成功观测报价 ¥816.00/年，本次 ¥693.60/年。iCloud+；Apple 苹果 iCloud+ 订阅 2TB 空间年卡；¥693.60/年；京东旗舰店；Apple产品京东自营旗舰店；店铺类型由编辑标记，不代表本站认证；支持家庭共享"
     }
   ],
-  "feed_sha256": "0f0fbc4d9f30f1857e0885cb001f591d009fae14c9dc5f68e03365c75e1db115"
+  "feed_sha256": "2dd0ef4200368f545c5e11ab6349f0e6adab83f264c7890654861928cc512a8d"
 }
